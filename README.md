@@ -12,9 +12,7 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 <p align="left"> <a href="https://twitter.com/ChriscoDevnet" target="blank"><img src="https://img.shields.io/twitter/follow/ChriscoDevnet?logo=twitter&style=for-the-badge" alt="ChriscoDevnet" /></a> </p>
 
-- 🔭 I’m currently working on **Cyber Security / Automation / Threat Hunting / Application Security**
-
-- 📝 I regularly write articles on [https://blogs.cisco.com/author/stuartclark](https://blogs.cisco.com/author/christophervandermade)
+- 📝 I regularly write articles on [https://blogs.cisco.com/author/christophervandermade](https://blogs.cisco.com/author/christophervandermade)
 
 - 📫 How to reach me **chrivand@cisco.com**
 
