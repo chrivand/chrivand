@@ -4,12 +4,15 @@
 
 ![security-banner.jpeg](./images/security-banner.jpeg)
 
-Stuart is a Senior Technical Leader / Senior Developer Advocate for Cisco Devnet. He has work for Cisco for over ten years designing, building and troubleshooting Cisco’s Security Cloud network with a strong focus on BGP, peering and coffee. In the last few years his focus moved to network automation, spending more time on writing code for network automation at scale and moving networking towards a DevOps methodology.
+Christopher is from Rotterdam, the Netherlands, and of both Dutch and American nationality. Christopher studied at the University of Amsterdam, majoring in Neuroscience with a Computer Science minor. He achieved his Masters in Information Sciences, and joined Cisco through the Graduate program. He was a Consulting Systems Engineer for 4 years in the Northern European security team. He is now Developer Advocate with focus on Security in Cisco DevNet.
 
+Christopher focusses on Cisco's security portfolio, and also on general cybersecurity topics. His main areas of expertise are Cisco SecureX, Cisco Umbrella, Cisco Secure Endpoint, Cisco Secure Malware Analytics, Cisco Application-First Security, Threat Hunting, SOC's and DevSecOps.
 
-<p align="left"> <a href="https://twitter.com/ChriscoDevnet" target="blank"><img src="https://img.shields.io/twitter/follow/bigevilbeard?logo=twitter&style=for-the-badge" alt="ChriscoDevnet" /></a> </p>
+He learned coding in C, but currently his favorite language is Python. He also very much likes to make use of orchestrators (like in SecureX or Zapier, etc.). He is always working on a new project.
 
-- 🔭 I’m currently working on *Cyber Security / Auto*mation / Threat Hunting / Application Security**
+<p align="left"> <a href="https://twitter.com/ChriscoDevnet" target="blank"><img src="https://img.shields.io/twitter/follow/ChriscoDevnet?logo=twitter&style=for-the-badge" alt="ChriscoDevnet" /></a> </p>
+
+- 🔭 I’m currently working on **Cyber Security / Auto*mation / Threat Hunting / Application Security**
 
 - 📝 I regularly write articles on [https://blogs.cisco.com/author/stuartclark](https://blogs.cisco.com/author/christophervandermade)
 
