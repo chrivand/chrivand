@@ -12,9 +12,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 <p align="left"> <a href="https://twitter.com/ChriscoDevnet" target="blank"><img src="https://img.shields.io/twitter/follow/ChriscoDevnet?logo=twitter&style=for-the-badge" alt="ChriscoDevnet" /></a> </p>
 
-- 📝 I regularly write articles on [https://blogs.cisco.com/author/christophervandermade](https://blogs.cisco.com/author/christophervandermade)
+- 📝 I regularly write articles on: [https://blogs.cisco.com/author/christophervandermade](https://blogs.cisco.com/author/christophervandermade)
 
-- 📫 How to reach me **chrivand@cisco.com**
+- 📫 How to reach me: **chrivand@cisco.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -27,7 +27,7 @@ He learned coding in C, but currently his favorite language is Python. He also v
 <p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://circleci.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://travis-ci.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-icon.svg" alt="travisci" width="40" height="40"/> </a> <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/> </a> </p>
 
 
-# Blog Posts
+# Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [How to make threat hunting feasible, Part I: Detection](https://blogs.cisco.com/developer/threathuntingdetection01)
 - [Securing Your Cloud-Native Application with Cisco App-First Security](https://blogs.cisco.com/developer/securingcloudnativeapp01)
