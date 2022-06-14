@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Cisco SecureX Is Taking Over the DevNet Zone on Tuesday](https://blogs.cisco.com/developer/securexdevnetzone01)
 - [Get Ready for Shift-Left Security at CLUS](https://blogs.cisco.com/developer/shiftleftatclus01)
 - [Letter from Oslo: The NDC Security 2022 Conference](https://blogs.cisco.com/developer/oslondcsecurity2022conference01)
 - [How to make threat hunting feasible, Part I: Detection](https://blogs.cisco.com/developer/threathuntingdetection01)
 - [Securing Your Cloud-Native Application with Cisco App-First Security](https://blogs.cisco.com/developer/securingcloudnativeapp01)
-- [5 Python Security Traps You Need to Avoid](https://blogs.cisco.com/developer/pythonvulnerabilities01)
 <!-- BLOG-POST-LIST:END --> 
