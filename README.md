@@ -1,5 +1,5 @@
 <h1 align="center">Christopher van der Made (aka CHRIVAND)</h1>
-<h3 align="center">Security Developer Advocate For Cisco DevNet</h3>
+<h3 align="center">Product Manager for Cisco SecureX Orchestration</h3>
 
 
 ![security-banner.jpeg](./images/security-banner.jpeg)
