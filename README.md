@@ -1,10 +1,10 @@
 <h1 align="center">Christopher van der Made (aka CHRIVAND)</h1>
-<h3 align="center">Product Manager for Cisco SecureX Orchestration</h3>
+<h3 align="center">Product Manager for [Cisco SecureX Orchestration](https://developer.cisco.com/securex/orchestration/)</h3>
 
 
 ![security-banner.jpeg](./images/security-banner.jpeg)
 
-Christopher is from Rotterdam, the Netherlands, and of both Dutch and American nationality. Christopher studied at the University of Amsterdam, majoring in Neuroscience with a Computer Science minor. He achieved his Masters in Information Sciences, and joined Cisco through the Graduate program. He was a Consulting Systems Engineer for 4 years in the Northern European security team. He is now Developer Advocate with focus on Security in Cisco DevNet.
+Christopher is from Rotterdam, the Netherlands, and of both Dutch and American nationality. Christopher studied at the University of Amsterdam, majoring in Neuroscience with a Computer Science minor. He achieved his Masters in Information Sciences, and joined Cisco through the Graduate program. He was a Consulting Systems Engineer for 4 years in the Northern European security team. He then worked as Developer Advocate with focus on Security in Cisco DevNet for 2.5 years. He is now Product Manager for [Cisco SecureX Orchestration](https://developer.cisco.com/securex/orchestration/).
 
 Christopher focusses on Cisco's security portfolio, and also on general cybersecurity topics. His main areas of expertise are Cisco SecureX, Cisco Umbrella, Cisco Secure Endpoint, Cisco Secure Malware Analytics, Cisco Application-First Security, Threat Hunting, SOC's and DevSecOps.
 
