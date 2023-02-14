@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How an Unexpected Conversation Launched My Cisco Career Journey](https://feedpress.me/link/23532/15975160/how-an-unexpected-conversation-launched-my-cisco-career-journey)
+- [Accelerating SaaS security certifications to maximize market access](https://feedpress.me/link/23532/15975161/accelerating-saas-security-certifications-to-maximize-market-access)
 - [Fascinating laser research projects you wish you thought of &lpar;Part 1 of 9&rpar;: Cisco Optics Podcast Ep 35](https://feedpress.me/link/23532/15974118/fascinating-laser-research-projects-you-wish-you-thought-of-part-1-of-9-cisco-optics-podcast-ep-35)
 - [Experience the Power of Simplicity with these Cisco SD-WAN Upgrades](https://feedpress.me/link/23532/15973610/experience-the-power-of-simplicity-with-these-cisco-sd-wan-upgrades)
 - [4 Key takeaways from NRF 2023](https://feedpress.me/link/23532/15973397/key-takeaways-from-nrf2023)
-- [A love letter to planet Earth](https://feedpress.me/link/23532/15973373/a-love-letter-to-planet-earth)
-- [A Bridge of Help Connects to 170 Smiling Faces](https://feedpress.me/link/23532/15969255/a-bridge-of-help-connects-to-170-smiling-faces)
 <!-- BLOG-POST-LIST:END --> 
