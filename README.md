@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Evolution towards Full-Stack Observability](https://feedpress.me/link/23532/15975458/evolution-towards-full-stack-observability)
 - [Cisco Webex on iPad: Better Together](https://feedpress.me/link/23532/15975373/cisco-webex-on-ipad-better-together)
 - [How Cisco Deployed the World’s Largest Converged Core Gateway](https://feedpress.me/link/23532/15975301/how-cisco-deployed-the-worlds-largest-converged-core-gateway)
 - [The Journey and Impact of Getting Proximate](https://feedpress.me/link/23532/15975241/the-journey-and-impact-of-getting-proximate)
 - [How an Unexpected Conversation Launched My Cisco Career Journey](https://feedpress.me/link/23532/15975160/how-an-unexpected-conversation-launched-my-cisco-career-journey)
-- [Accelerating SaaS security certifications to maximize market access](https://feedpress.me/link/23532/15975161/accelerating-saas-security-certifications-to-maximize-market-access)
 <!-- BLOG-POST-LIST:END --> 
