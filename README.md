@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Cisco Introduces 100G Service Edge To The Catalyst 8500 Family](https://feedpress.me/link/23532/15977360/cisco-introduces-100g-service-edge-to-the-catalyst-8500-family)
+- [Managed Services are Contagious](https://feedpress.me/link/23532/15977361/managed-services-are-contagious)
 - [Empowering hybrid work – a governmental imperative](https://feedpress.me/link/23532/15977235/empowering-hybrid-work-a-governmental-imperative)
 - [“Global Advocate Awards 2023: EMEA” winners announced at Cisco Live Amsterdam](https://feedpress.me/link/23532/15977210/global-advocate-awards-2023-emea-winners-announced-at-cisco-live-amsterdam)
 - [Evolution towards Full-Stack Observability](https://feedpress.me/link/23532/15975458/evolution-towards-full-stack-observability)
-- [Cisco Webex on iPad: Better Together](https://feedpress.me/link/23532/15975373/cisco-webex-on-ipad-better-together)
-- [How Cisco Deployed the World’s Largest Converged Core Gateway](https://feedpress.me/link/23532/15975301/how-cisco-deployed-the-worlds-largest-converged-core-gateway)
 <!-- BLOG-POST-LIST:END --> 
