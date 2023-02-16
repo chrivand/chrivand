@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Launch Your Cybersecurity Career with Cisco CyberOps Certifications | Part 2](https://feedpress.me/link/23532/15979678/launch-your-cybersecurity-career-with-cisco-cyberops-certifications-part-2)
 - [Cisco Named a Leader in Collaboration Tools for Education](https://feedpress.me/link/23532/15978840/cisco-named-a-leader-in-collaboration-tools-for-education)
 - [Cisco Live is about Customer Experience and we are ALL IN](https://feedpress.me/link/23532/15978810/cisco-live-is-about-customer-experience-and-we-are-all-in)
 - [Change systems — Change the world](https://feedpress.me/link/23532/15978788/change-systems-change-the-world)
 - [Cisco Introduces 100G Service Edge To The Catalyst 8500 Family](https://feedpress.me/link/23532/15977360/cisco-introduces-100g-service-edge-to-the-catalyst-8500-family)
-- [Managed Services are Contagious](https://feedpress.me/link/23532/15977361/managed-services-are-contagious)
 <!-- BLOG-POST-LIST:END --> 
