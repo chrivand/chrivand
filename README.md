@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Project READ: Virtually connecting kids to literacy and learning](https://feedpress.me/link/23532/15989271/project-read-virtually-connecting-kids-to-literacy-and-learning)
+- [Ransomware: The Cost to K-12 Schools and How to Prevent It](https://feedpress.me/link/23532/15989272/ransomware-the-cost-to-k-12-schools-and-how-to-prevent-it)
+- [Driving efficiency and innovation in the aged care industry](https://feedpress.me/link/23532/15989273/driving-efficiency-and-innovation-in-the-aged-care-industry)
 - [Fascinating laser research projects you wish you thought of &lpar;Part 2 of 9&rpar;: Cisco Optics Podcast Ep 36](https://feedpress.me/link/23532/15987978/fascinating-laser-research-projects-you-wish-you-thought-of-part-2-of-9-cisco-optics-podcast-ep-36)
 - [Walking the Talk – Putting words into action](https://feedpress.me/link/23532/15987832/walking-the-talk-putting-words-into-action)
-- [Passive infrastructure monitoring frees up time and resources for active business transformation](https://feedpress.me/link/23532/15987774/passive-infrastructure-monitoring-frees-up-time-and-resources-for-active-business-transformation)
-- [Cisco IoT enables the global acceleration of offshore wind energy](https://feedpress.me/link/23532/15987700/cisco-iot-enables-the-global-acceleration-of-offshore-wind-energy)
-- [How to leverage Cisco Security Cloud today](https://feedpress.me/link/23532/15987433/how-to-leverage-cisco-security-cloud-today)
 <!-- BLOG-POST-LIST:END --> 
