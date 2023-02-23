@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [The Rise and Rise of DevOps Adoption](https://feedpress.me/link/23532/15989938/the-rise-and-rise-of-devops-adoption)
+- [Building Network Automation Skill is Alive and Well](https://feedpress.me/link/23532/15989967/automationskills01)
 - [OT/IoT Security: 3 Key Takeaways from Gartner Peer Insight’s Survey](https://feedpress.me/link/23532/15989515/ot-iot-security-3-key-takeaways-from-gartner-peer-insights-survey)
 - [Four Reasons Why MSPs Need Cisco Defense Orchestrator](https://feedpress.me/link/23532/15989503/four-reasons-why-msps-need-cisco-defense-orchestrator)
 - [Project READ: Virtually connecting kids to literacy and learning](https://feedpress.me/link/23532/15989271/project-read-virtually-connecting-kids-to-literacy-and-learning)
-- [Ransomware: The Cost to K-12 Schools and How to Prevent It](https://feedpress.me/link/23532/15989272/ransomware-the-cost-to-k-12-schools-and-how-to-prevent-it)
-- [Driving efficiency and innovation in the aged care industry](https://feedpress.me/link/23532/15989273/driving-efficiency-and-innovation-in-the-aged-care-industry)
 <!-- BLOG-POST-LIST:END --> 
