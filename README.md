@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [OT/IoT Security: 3 Key Takeaways from Gartner Peer Insight’s Survey](https://feedpress.me/link/23532/15989515/ot-iot-security-3-key-takeaways-from-gartner-peer-insights-survey)
+- [Four Reasons Why MSPs Need Cisco Defense Orchestrator](https://feedpress.me/link/23532/15989503/four-reasons-why-msps-need-cisco-defense-orchestrator)
 - [Project READ: Virtually connecting kids to literacy and learning](https://feedpress.me/link/23532/15989271/project-read-virtually-connecting-kids-to-literacy-and-learning)
 - [Ransomware: The Cost to K-12 Schools and How to Prevent It](https://feedpress.me/link/23532/15989272/ransomware-the-cost-to-k-12-schools-and-how-to-prevent-it)
 - [Driving efficiency and innovation in the aged care industry](https://feedpress.me/link/23532/15989273/driving-efficiency-and-innovation-in-the-aged-care-industry)
-- [Fascinating laser research projects you wish you thought of &lpar;Part 2 of 9&rpar;: Cisco Optics Podcast Ep 36](https://feedpress.me/link/23532/15987978/fascinating-laser-research-projects-you-wish-you-thought-of-part-2-of-9-cisco-optics-podcast-ep-36)
-- [Walking the Talk – Putting words into action](https://feedpress.me/link/23532/15987832/walking-the-talk-putting-words-into-action)
 <!-- BLOG-POST-LIST:END --> 
