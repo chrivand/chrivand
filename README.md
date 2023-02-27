@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Bridge to Possible: A Cybersecurity Career Journey](https://feedpress.me/link/23532/15995160/bridge-to-possible-a-cybersecurity-career-journey)
 - [Cisco Driving Global Expansion in Mobile IoT](https://feedpress.me/link/23532/15994395/cisco-driving-global-expansion-in-mobile-iot)
 - [Cisco and Intel Collaborate to Drive Private 5G Innovation and Global IoT Adoption](https://feedpress.me/link/23532/15994385/cisco-and-intel-collaborate-to-drive-private-5g-technology-innovation-and-global-iot-adoption-to-connect-everything-everywhere)
 - [Behind the Scenes of Cisco Exam Security](https://feedpress.me/link/23532/15991930/cheating-certification-exam-dumps-and-proxy-testing-behind-the-scenes-of-cisco-exam-security)
 - [Accelerating Our Security Cloud Vision: Cisco Announces Intent to Acquire Valtix](https://feedpress.me/link/23532/15991852/cisco-announces-corporate-news-2-24-23)
-- [Driving Mainstream IoT Adoption at Scale](https://feedpress.me/link/23532/15991723/driving-mainstream-iot-adoption-at-scale)
 <!-- BLOG-POST-LIST:END --> 
