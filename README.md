@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Digital inclusion: How Cisco is bringing connectivity to communities](https://feedpress.me/link/23532/15997709/digital-inclusion-how-cisco-is-bringing-connectivity-to-communities)
+- [Driving Tech Circularity Forward: a View of Europe’s Plans in 2023](https://feedpress.me/link/23532/15997683/technology-circularity-europe-plans)
 - [Cisco Virtual Mining Summit 2023](https://feedpress.me/link/23532/15996011/cisco-virtual-mining-summit-2023)
 - [Co-selling: It’s a BIG Deal!](https://feedpress.me/link/23532/15995568/co-selling-its-a-big-deal)
 - [Key Priorities for State Governments in 2023](https://feedpress.me/link/23532/15995530/key-priorities-for-state-governments-in-2023)
-- [Greater Monitoring and Visibility for your Security Success](https://feedpress.me/link/23532/15995435/greater-monitoring-and-visibility-for-your-security-success)
-- [Next Generation Leadership: How Sponsorship Can Help Power an Inclusive Future for Black Cisconians](https://feedpress.me/link/23532/15995231/next-generation-leadership-how-sponsorship-can-help-power-an-inclusive-future-for-black-cisconians)
 <!-- BLOG-POST-LIST:END --> 
