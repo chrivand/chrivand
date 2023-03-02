@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [People Behind Purpose at Cisco: Reducing the environmental impacts of our facilities through the EnergyOps Program](https://feedpress.me/link/23532/16001336/people-behind-purpose-at-cisco-reducing-the-environmental-impacts-of-our-facilities-through-the-energyops-program)
 - [Finding Your Inspiration to Do More](https://feedpress.me/link/23532/16001271/finding-your-inspiration-to-do-more)
 - [Authenticity Paves the Way to an Inclusive Future at Women in Cybersecurity Conference](https://feedpress.me/link/23532/15999852/authenticity-paves-the-way-to-an-inclusive-future-at-women-in-cybersecurity-conference)
 - [Connecting industrial devices anywhere with Cisco’s new modules for LoRaWAN and 450MHz LTE](https://feedpress.me/link/23532/15999748/connecting-industrial-devices-anywhere-with-ciscos-new-modules-for-lorawan-and-450mhz-lte)
 - [Designing and Deploying Cisco AI Spoofing Detection – Part 1](https://feedpress.me/link/23532/15999718/designing-and-deploying-cisco-ai-spoofing-detection-part-1)
-- [The Enterprise Agreement 3.0 is Generally Available for Eligible Cisco Partners](https://feedpress.me/link/23532/15999670/the-enterprise-agreement-3-0-is-generally-available-for-eligible-cisco-partners)
 <!-- BLOG-POST-LIST:END --> 
