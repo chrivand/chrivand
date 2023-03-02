@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Transform Sales Partnering with Cisco Managed Service Providers](https://feedpress.me/link/23532/16001794/transform-sales-partnering-with-cisco-managed-service-providers)
+- [National Cybersecurity Strategy: Public-Private Partnership Required to Successfully Meet 21st Century Challenges](https://feedpress.me/link/23532/16001720/national-cybersecurity-strategy-public-private-partnership-required-to-successfully-meet-21st-century-challenges)
 - [Cisco Nexus Dashboard Helps Accelerate Operations, Improve Efficiency and Enable Self-Service with ServiceNow Solutions](https://feedpress.me/link/23532/16001522/accelerate-operations-improve-efficiency-enable-self-service-with-cisco-nexus-dashboard-servicenow-solutions)
 - [People Behind Purpose at Cisco: Reducing the environmental impacts of our facilities through the EnergyOps Program](https://feedpress.me/link/23532/16001336/people-behind-purpose-at-cisco-reducing-the-environmental-impacts-of-our-facilities-through-the-energyops-program)
 - [Finding Your Inspiration to Do More](https://feedpress.me/link/23532/16001271/finding-your-inspiration-to-do-more)
-- [Authenticity Paves the Way to an Inclusive Future at Women in Cybersecurity Conference](https://feedpress.me/link/23532/15999852/authenticity-paves-the-way-to-an-inclusive-future-at-women-in-cybersecurity-conference)
-- [Connecting industrial devices anywhere with Cisco’s new modules for LoRaWAN and 450MHz LTE](https://feedpress.me/link/23532/15999748/connecting-industrial-devices-anywhere-with-ciscos-new-modules-for-lorawan-and-450mhz-lte)
 <!-- BLOG-POST-LIST:END --> 
