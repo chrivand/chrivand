@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Cisco @ OFC – Bold Innovations to Power Your Future-Ready Network](https://feedpress.me/link/23532/16007053/cisco-ofc-bold-innovations-to-power-your-future-ready-network)
 - [How Cisco Partners Can Drive Sustainability](https://feedpress.me/link/23532/16006819/how-cisco-partners-can-drive-sustainability)
 - [Enhance your Webex User Experience with Cisco SD-WAN](https://feedpress.me/link/23532/16006816/enhance-your-webex-user-experience-with-cisco-sd-wan)
 - [ACI Segmentation and Migrations made easier with Endpoint Security Groups &lpar;ESG&rpar;](https://feedpress.me/link/23532/16006716/aci-segmentation-and-migrations-made-easier-with-endpoint-security-groups-esg)
 - [History in the making: How women at Cisco are making strides in sustainability](https://feedpress.me/link/23532/16006630/history-in-the-making-how-women-at-cisco-are-making-strides-in-sustainability)
-- [Navigating Economic and Cybersecurity Threats in 2023](https://feedpress.me/link/23532/16006578/navigating-economic-and-cybersecurity-threats-in-2023)
 <!-- BLOG-POST-LIST:END --> 
