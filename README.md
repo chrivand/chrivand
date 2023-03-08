@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Women’s resilience: what’s it made of?](https://feedpress.me/link/23532/16010523/womens-resilience-whats-it-made-of)
 - [Women use technology to solve the issues facing humanity—and the world needs more](https://feedpress.me/link/23532/16010309/women-use-technology-to-solve-the-issues-facing-humanity-and-the-world-needs-more)
 - [See Cisco at South By Southwest 2023](https://feedpress.me/link/23532/16008844/2023sxsw01)
 - [Cisco Demonstrates Co-packaged Optics &lpar;CPO&rpar; System at OFC 2023](https://feedpress.me/link/23532/16008727/cisco-demonstrates-co-packaged-optics-cpo-system-at-ofc-2023)
 - [Your Customers Need Better Security](https://feedpress.me/link/23532/16008751/your-customers-need-better-security)
-- [Cisco at OFC 2023: Announcing Successful Test with Sipartech to Deliver 400G Over 1,337 km](https://feedpress.me/link/23532/16008661/cisco-at-ofc-2023-announcing-successful-test-with-sipartech-to-deliver-400g-over-1337-km)
 <!-- BLOG-POST-LIST:END --> 
