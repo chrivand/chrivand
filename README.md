@@ -32,6 +32,6 @@ He learned coding in C, but currently his favorite language is Python. He also v
 - [Celebrate Pi Day With Cisco Learning &lpar;We’re Saving You a Slice&rpar;](https://feedpress.me/link/23532/16013568/celebrate-pi-day-with-cisco-learning-we-are-saving-you-a-slice)
 - [Top Ten Benefits of Upgrading from DCNM to NDFC SAN](https://feedpress.me/link/23532/16013567/top-ten-benefits-of-upgrading-from-dcnm-to-ndfc-san)
 - [Fascinating laser research projects you wish you thought of &lpar;Part 3 of 9&rpar;: Cisco Optics Podcast Ep 37](https://feedpress.me/link/23532/16013412/fascinating-laser-research-projects-you-wish-you-thought-of-part-3-of-9-cisco-optics-podcast-ep-37)
+- [Perform Web GUI Administration and Configuration with the AXL API](https://feedpress.me/link/23532/16013647/axlapi01)
 - [Secure Equipment Access: more uptime, fewer truck rolls, remote access control](https://feedpress.me/link/23532/16013268/secure-equipment-access-more-uptime-fewer-truck-rolls-remote-access-control)
-- [Manufacturing Mayhem is Simplified by a Cisco SASE Approach](https://feedpress.me/link/23532/16013186/manufacturing-mayhem-is-simplified-by-a-cisco-sase-approach)
 <!-- BLOG-POST-LIST:END --> 
