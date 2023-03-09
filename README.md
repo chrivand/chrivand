@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Fascinating laser research projects you wish you thought of &lpar;Part 3 of 9&rpar;: Cisco Optics Podcast Ep 37](https://feedpress.me/link/23532/16013412/fascinating-laser-research-projects-you-wish-you-thought-of-part-3-of-9-cisco-optics-podcast-ep-37)
 - [Secure Equipment Access: more uptime, fewer truck rolls, remote access control](https://feedpress.me/link/23532/16013268/secure-equipment-access-more-uptime-fewer-truck-rolls-remote-access-control)
 - [Manufacturing Mayhem is Simplified by a Cisco SASE Approach](https://feedpress.me/link/23532/16013186/manufacturing-mayhem-is-simplified-by-a-cisco-sase-approach)
 - [People Matter: A look back on how Cisco Talos has been supporting Ukraine](https://feedpress.me/link/23532/16013010/people-matter-a-look-back-on-how-cisco-talos-has-been-supporting-ukraine)
 - [Cisco SD-WAN for Government Achieves FedRAMP “Authorization to Operate”](https://feedpress.me/link/23532/16013109/cisco-sd-wan-for-government-achieves-fedramp-authorization-to-operate)
-- [Cisco was recognized as a Visionary in the 2022 Gartner® Magic Quadrant™ for Endpoint Protection Platforms](https://feedpress.me/link/23532/16010850/cisco-was-recognized-as-a-visionary-in-the-2022-gartner-magic-quadrant-for-endpoint-protection-platforms)
 <!-- BLOG-POST-LIST:END --> 
