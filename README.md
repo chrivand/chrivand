@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Can you hire your way to security resilience?](https://feedpress.me/link/23532/16022769/can-you-hire-your-way-to-security-resilience)
 - [Cisco SD-WAN: The Right Tool for Keeping Fleets Moving](https://feedpress.me/link/23532/16021402/cisco-sd-wan-the-right-tool-for-keeping-fleets-moving)
 - [Dig In to NetDevOps at Automation Developer Days, May 9-11](https://feedpress.me/link/23532/16015335/devdaysstockholm01)
 - [Gain Deeper Insights into your Cisco SD-WAN Deployments with NWPI](https://feedpress.me/link/23532/16014989/gain-deeper-insights-into-your-cisco-sd-wan-deployments-with-nwpi)
 - [Celebrate Pi Day With Cisco Learning &lpar;We’re Saving You a Slice&rpar;](https://feedpress.me/link/23532/16013568/celebrate-pi-day-with-cisco-learning-we-are-saving-you-a-slice)
-- [Top Ten Benefits of Upgrading from DCNM to NDFC SAN](https://feedpress.me/link/23532/16013567/top-ten-benefits-of-upgrading-from-dcnm-to-ndfc-san)
 <!-- BLOG-POST-LIST:END --> 
