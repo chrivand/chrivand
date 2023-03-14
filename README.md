@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [City of Fort Worth fast-tracks free Wi-Fi access in under-connected areas](https://feedpress.me/link/23532/16023027/city-of-fort-worth-fast-tracks-free-wi-fi-access-in-under-connected-areas)
 - [How Cisco employees are involved with community impact](https://feedpress.me/link/23532/16022820/how-cisco-employees-are-involved-with-community-impact)
 - [Can you hire your way to security resilience?](https://feedpress.me/link/23532/16022769/can-you-hire-your-way-to-security-resilience)
 - [Cisco SD-WAN: The Right Tool for Keeping Fleets Moving](https://feedpress.me/link/23532/16021402/cisco-sd-wan-the-right-tool-for-keeping-fleets-moving)
 - [Dig In to NetDevOps at Automation Developer Days, May 9-11](https://feedpress.me/link/23532/16015335/devdaysstockholm01)
-- [Gain Deeper Insights into your Cisco SD-WAN Deployments with NWPI](https://feedpress.me/link/23532/16014989/gain-deeper-insights-into-your-cisco-sd-wan-deployments-with-nwpi)
 <!-- BLOG-POST-LIST:END --> 
