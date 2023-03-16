@@ -30,8 +30,8 @@ He learned coding in C, but currently his favorite language is Python. He also v
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Designing and Deploying Cisco AI Spoofing Detection – Part 2](https://feedpress.me/link/23532/16026448/designing-and-deploying-cisco-ai-spoofing-detection-part-2)
+- [Collecting Telemetry for Custom Dashboarding – Customer Use Cases](https://feedpress.me/link/23532/16026482/customdashboarding01)
 - [Cisco Connects and Protects Your Customers](https://feedpress.me/link/23532/16026294/cisco-connects-and-protects-your-customers)
 - [Everything you ever wanted to know about Cisco ISE, but were afraid to ask](https://feedpress.me/link/23532/16026066/everything-you-ever-wanted-to-know-about-cisco-ise-but-were-afraid-to-ask)
 - [From Grief To Giving Back: Using Time2Give To Support the Underserved LGBTQ Widowed Community](https://feedpress.me/link/23532/16026067/from-grief-to-giving-back-using-time2give-to-support-the-underserved-lgbtq-widowed-community)
-- [Cisco Catalyst IR8300 Rugged Series Router wins 2023 “Industrial IoT Innovation of the Year”](https://feedpress.me/link/23532/16024556/cisco-catalyst-ir8300-rugged-series-router-wins-2023-industrial-iot-innovation-of-the-year)
 <!-- BLOG-POST-LIST:END --> 
