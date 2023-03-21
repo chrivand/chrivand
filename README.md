@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Sustainability 101: Greenhouse gas emissions, global warming, and climate change](https://feedpress.me/link/23532/16033517/sustainability-101-greenhouse-gas-emissions-global-warming-and-climate-change)
 - [Hybrid Work in the New Atlanta Office](https://feedpress.me/link/23532/16033460/hybrid-work-atl-office)
 - [Answering the Call To Give Back to My Community With Cisco’s Support](https://feedpress.me/link/23532/16033461/answering-the-call-to-give-back-to-my-community-with-ciscos-support)
 - [Designing for All – A Cisco Secure, CDA, CIL, and Schoolab Collaboration](https://feedpress.me/link/23532/16033462/designing-for-all-a-cisco-secure-cda-cil-and-schoolab-collaboration)
 - [Reality Check on Cybersecurity: 9% of Companies in Europe are Ready to Defend Against Cyber Threats](https://feedpress.me/link/23532/16033062/cybersecurity-europe-companies-not-ready-to-defend-against-cyber-threats)
-- [Regulatory Harmonization in Cyber Incident Reporting: Best Idea for Security?](https://feedpress.me/link/23532/16032506/regulatory-harmonization-in-cyber-incident-reporting)
 <!-- BLOG-POST-LIST:END --> 
