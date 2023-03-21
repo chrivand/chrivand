@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Hybrid Work in the New Atlanta Office](https://feedpress.me/link/23532/16033460/hybrid-work-atl-office)
+- [Answering the Call To Give Back to My Community With Cisco’s Support](https://feedpress.me/link/23532/16033461/answering-the-call-to-give-back-to-my-community-with-ciscos-support)
+- [Designing for All – A Cisco Secure, CDA, CIL, and Schoolab Collaboration](https://feedpress.me/link/23532/16033462/designing-for-all-a-cisco-secure-cda-cil-and-schoolab-collaboration)
 - [Reality Check on Cybersecurity: 9% of Companies in Europe are Ready to Defend Against Cyber Threats](https://feedpress.me/link/23532/16033062/cybersecurity-europe-companies-not-ready-to-defend-against-cyber-threats)
 - [Regulatory Harmonization in Cyber Incident Reporting: Best Idea for Security?](https://feedpress.me/link/23532/16032506/regulatory-harmonization-in-cyber-incident-reporting)
-- [How can Cisco help with staffing shortages?](https://feedpress.me/link/23532/16032089/cisco-helps-with-staffing-shortages)
-- [Managed Services are the Key to Success for Partners in Asia Pacific](https://feedpress.me/link/23532/16031745/managed-services-are-the-key-to-success-for-partners-in-asia-pacific)
-- [Trickle Up: Leveraging technology to build economic opportunity and drive inclusion for women in extreme poverty](https://feedpress.me/link/23532/16031526/trickle-up-leveraging-technology-to-build-economic-opportunity-and-drive-inclusion-for-women-in-extreme-poverty)
 <!-- BLOG-POST-LIST:END --> 
