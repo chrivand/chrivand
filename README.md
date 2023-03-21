@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Reality Check on Cybersecurity: 9% of Companies in Europe are Ready to Defend Against Cyber Threats](https://feedpress.me/link/23532/16033062/cybersecurity-europe-companies-not-ready-to-defend-against-cyber-threats)
 - [Regulatory Harmonization in Cyber Incident Reporting: Best Idea for Security?](https://feedpress.me/link/23532/16032506/regulatory-harmonization-in-cyber-incident-reporting)
 - [How can Cisco help with staffing shortages?](https://feedpress.me/link/23532/16032089/cisco-helps-with-staffing-shortages)
 - [Managed Services are the Key to Success for Partners in Asia Pacific](https://feedpress.me/link/23532/16031745/managed-services-are-the-key-to-success-for-partners-in-asia-pacific)
 - [Trickle Up: Leveraging technology to build economic opportunity and drive inclusion for women in extreme poverty](https://feedpress.me/link/23532/16031526/trickle-up-leveraging-technology-to-build-economic-opportunity-and-drive-inclusion-for-women-in-extreme-poverty)
-- [Tour the RSA Conference 2023 Security Operations Center](https://feedpress.me/link/23532/16031455/tour-the-rsa-conference-2023-security-operations-center)
 <!-- BLOG-POST-LIST:END --> 
