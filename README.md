@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Catalyst Wireless Enterprise Agreements now support Cisco DNA Essentials!](https://feedpress.me/link/23532/16035526/catalyst-wireless-enterprise-agreements-now-support-cisco-dna-essentials)
+- [Balancing Growth and Budget in 2023](https://feedpress.me/link/23532/16035527/balancing-growth-and-budget-in-2023)
 - [Sharing career opportunities and advice with the women of Bennett College](https://feedpress.me/link/23532/16035385/sharing-career-opportunities-and-advice-with-the-women-of-bennett-college)
 - [Predictive Analytics in Oil and Gas – 3 Types](https://feedpress.me/link/23532/16034035/predictive-analytics-in-oil-and-gas-3-types)
 - [Cisco Business Architectures and the Role of the Partner](https://feedpress.me/link/23532/16033646/cisco-business-architectures-and-the-role-of-the-partner)
-- [Fascinating laser research projects you wish you thought of &lpar;Part 4 of 9&rpar;: Cisco Optics Podcast Ep 38](https://feedpress.me/link/23532/16033637/fascinating-laser-research-projects-you-wish-you-thought-of-part-4-of-9-cisco-optics-podcast-ep-38)
-- [Sustainability 101: Greenhouse gas emissions, global warming, and climate change](https://feedpress.me/link/23532/16033517/sustainability-101-greenhouse-gas-emissions-global-warming-and-climate-change)
 <!-- BLOG-POST-LIST:END --> 
