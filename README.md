@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [The Path to Unified SASE with Cisco SD-WAN and Cisco+ Secure Connect](https://feedpress.me/link/23532/16037882/the-path-to-unified-sase-with-cisco-sd-wan-and-cisco-secure-connect)
 - [Training the skilled workforce of the future](https://feedpress.me/link/23532/16037550/training-the-skilled-workforce-of-the-future)
 - [One Seamless, United Platform](https://feedpress.me/link/23532/16037242/one-seamless-united-platform)
 - [Cisco Storage Networking is 20 Years Young](https://feedpress.me/link/23532/16037150/cisco-storage-networking-is-20-years-young)
 - [Keeping Your Apps and Data Available With HyperFlex](https://feedpress.me/link/23532/16035963/keeping-your-apps-and-data-available-with-hyperflex)
-- [Catalyst Wireless Enterprise Agreements now support Cisco DNA Essentials!](https://feedpress.me/link/23532/16035526/catalyst-wireless-enterprise-agreements-now-support-cisco-dna-essentials)
 <!-- BLOG-POST-LIST:END --> 
