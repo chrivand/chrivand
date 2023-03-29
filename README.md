@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [3 Steps to Better IT Planning and Ensuring Technology Remains a Priority](https://feedpress.me/link/23532/16047623/3-steps-to-better-it-planning-and-ensuring-technology-remains-a-priority)
+- [Connect, Collaborate, and Learn with Cisco Learning Network](https://feedpress.me/link/23532/16047610/connect-collaborate-and-learn-with-cisco-learning-network)
+- [An award-winning program for the Age of the Partner](https://feedpress.me/link/23532/16047611/an-award-winning-program-for-the-age-of-the-partner)
 - [Cisco Announces its Intent to Acquire Cloud Security Software Company Lightspin](https://feedpress.me/link/23532/16047503/blogs-cisco-com-news-cisco-announces-its-intent-to-acquire-cloud-security-software-company)
 - [Cisco Secure is simplifying SaaS security for managed service providers](https://feedpress.me/link/23532/16047428/cisco-secure-is-simplifying-saas-security-for-managed-service-providers)
-- [Ops Meets Dev on the Daily Standup Show](https://feedpress.me/link/23532/16045990/dailystandup01)
-- [Recent Innovations in Cisco ACI – AlgoSec Solution for Network Security Policy Management](https://feedpress.me/link/23532/16045272/recent-innovations-in-cisco-aci-algosec-solution-for-network-security-policy-management)
-- [QDOBA serves up improved customer experiences](https://feedpress.me/link/23532/16045215/qdoba-serves-up-improved-customer-experiences)
 <!-- BLOG-POST-LIST:END --> 
