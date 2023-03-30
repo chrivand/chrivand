@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Five Trends to Know Before Investing in an NDR Solution](https://feedpress.me/link/23532/16049929/five-trends-to-know-before-investing-in-an-ndr-solution)
+- [Scaling the Internet for the Future With 800G Innovations](https://feedpress.me/link/23532/16049923/scaling-the-internet-for-the-future-with-800g-innovations)
 - [3 Steps to Better IT Planning and Ensuring Technology Remains a Priority](https://feedpress.me/link/23532/16047623/3-steps-to-better-it-planning-and-ensuring-technology-remains-a-priority)
 - [Connect, Collaborate, and Learn with Cisco Learning Network](https://feedpress.me/link/23532/16047610/connect-collaborate-and-learn-with-cisco-learning-network)
 - [An award-winning program for the Age of the Partner](https://feedpress.me/link/23532/16047611/an-award-winning-program-for-the-age-of-the-partner)
-- [Cisco Announces its Intent to Acquire Cloud Security Software Company Lightspin](https://feedpress.me/link/23532/16047503/blogs-cisco-com-news-cisco-announces-its-intent-to-acquire-cloud-security-software-company)
-- [Cisco Secure is simplifying SaaS security for managed service providers](https://feedpress.me/link/23532/16047428/cisco-secure-is-simplifying-saas-security-for-managed-service-providers)
 <!-- BLOG-POST-LIST:END --> 
