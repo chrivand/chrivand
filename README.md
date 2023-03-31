@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Hybrid, Smart, and Sustainable: Experience Game-Changing Results for You and Your Customers](https://feedpress.me/link/23532/16051879/hybrid-smart-and-sustainable-experience-game-changing-results-for-you-and-your-customers)
+- [Good Friends Say Goodbye as Prime Infrastructure Sunsets](https://feedpress.me/link/23532/16051880/good-friends-say-goodbye-as-prime-infrastructure-sunsets)
 - [Akvo: The next generation of data collection for sustainable development](https://feedpress.me/link/23532/16051754/akvo-the-next-generation-of-data-collection-for-sustainable-development)
 - [Cisco Partner Experience &lpar;PX&rpar; Cloud is Now Available Worldwide](https://feedpress.me/link/23532/16050104/cisco-partner-experience-px-cloud-is-now-available-worldwide)
 - [Playing with the Earth: One woman’s journey to becoming a climate scientist](https://feedpress.me/link/23532/16049976/playing-with-the-earth-one-womans-journey-to-becoming-a-climate-scientist)
-- [Five Trends to Know Before Investing in an NDR Solution](https://feedpress.me/link/23532/16049929/five-trends-to-know-before-investing-in-an-ndr-solution)
-- [Scaling the Internet for the Future With 800G Innovations](https://feedpress.me/link/23532/16049923/scaling-the-internet-for-the-future-with-800g-innovations)
 <!-- BLOG-POST-LIST:END --> 
