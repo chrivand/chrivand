@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Inside the Circle of CCIE Certification Success](https://feedpress.me/link/23532/16056713/inside-the-circle-of-ccie-certification-success)
 - [Unifying Experiences Starts By Unifying SASE](https://feedpress.me/link/23532/16056474/unifying-experiences-starts-by-unifying-sase)
 - [From Earth to the Sun: The diversity of a career in STEM](https://feedpress.me/link/23532/16056292/from-earth-to-the-sun-the-diversity-of-a-career-in-stem)
 - [How to Reach the Full Promise of SSE](https://feedpress.me/link/23532/16056249/how-to-reach-the-full-promise-of-sse-2)
 - [Americas FSI Digital Commentary: Executive Briefing Ideas to Grow Your Business](https://feedpress.me/link/23532/16056250/executive-briefing-ideas-to-grow-your-business)
-- [Cisco Is #1 on Fortune’s 100 Best Companies to Work For® In the U.S. List — Again!](https://feedpress.me/link/23532/16056251/cisco-is-1-on-fortunes-100-best-companies-to-work-for-in-the-u-s-list-again)
 <!-- BLOG-POST-LIST:END --> 
