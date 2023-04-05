@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Cisco Catalyst IE3100 Rugged Series switches: Big benefits, small footprint](https://feedpress.me/link/23532/16058538/cisco-catalyst-ie3100-rugged-series-switches-big-benefits-small-footprint)
 - [Spend Less Time Managing the Network, More Time Innovating with the Network](https://feedpress.me/link/23532/16058350/spend-less-time-managing-the-network-more-time-innovating-with-the-network)
 - [Municipal broadband and why communities should be interested](https://feedpress.me/link/23532/16058297/municipal-broadband-and-why-communities-should-be-interested)
 - [Let’s Just Go! How I Was Shaped by My Cuban-American Heritage](https://feedpress.me/link/23532/16058133/lets-just-go-how-i-was-shaped-by-my-cuban-american-heritage)
 - [Security resilience: Moving beyond the buzzword](https://feedpress.me/link/23532/16058134/security-resilience-moving-beyond-the-buzzword)
-- [Inside the Circle of CCIE Certification Success](https://feedpress.me/link/23532/16056713/inside-the-circle-of-ccie-certification-success)
 <!-- BLOG-POST-LIST:END --> 
