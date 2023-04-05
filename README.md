@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Spend Less Time Managing the Network, More Time Innovating with the Network](https://feedpress.me/link/23532/16058350/spend-less-time-managing-the-network-more-time-innovating-with-the-network)
+- [Municipal broadband and why communities should be interested](https://feedpress.me/link/23532/16058297/municipal-broadband-and-why-communities-should-be-interested)
 - [Let’s Just Go! How I Was Shaped by My Cuban-American Heritage](https://feedpress.me/link/23532/16058133/lets-just-go-how-i-was-shaped-by-my-cuban-american-heritage)
 - [Security resilience: Moving beyond the buzzword](https://feedpress.me/link/23532/16058134/security-resilience-moving-beyond-the-buzzword)
 - [Inside the Circle of CCIE Certification Success](https://feedpress.me/link/23532/16056713/inside-the-circle-of-ccie-certification-success)
-- [Unifying Experiences Starts By Unifying SASE](https://feedpress.me/link/23532/16056474/unifying-experiences-starts-by-unifying-sase)
-- [From Earth to the Sun: The diversity of a career in STEM](https://feedpress.me/link/23532/16056292/from-earth-to-the-sun-the-diversity-of-a-career-in-stem)
 <!-- BLOG-POST-LIST:END --> 
