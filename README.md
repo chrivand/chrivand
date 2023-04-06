@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Two decades of IoT innovation for a future of possibilities](https://feedpress.me/link/23532/16060485/two-decades-of-iot-innovation-for-a-future-of-possibilities)
+- [Deploying the Wi-Fi Network at Cisco Live EMEA 2023](https://feedpress.me/link/23532/16060427/deploying-the-wi-fi-network-at-cisco-live-emea-2023)
+- [Learn, Network, and Reunite at Cisco Live 2023 Las Vegas](https://feedpress.me/link/23532/16060428/learn-network-and-reunite-at-cisco-live-las-vegas)
 - [Do Not Buy a New Access Point… Yet](https://feedpress.me/link/23532/16060387/do-not-buy-a-new-access-point-yet)
 - [Endpoint security: A critical component for resilience](https://feedpress.me/link/23532/16060364/endpoint-security-a-critical-component-for-resilience)
-- [People Behind Purpose at Cisco: In the supply chain, where it’s sourced matters](https://feedpress.me/link/23532/16060202/people-behind-purpose-at-cisco-in-the-supply-chain-where-its-sourced-matters)
-- [Saugus Union School District: “No Tech” to “Full Tech”](https://feedpress.me/link/23532/16060203/saugus-union-school-district-no-tech-to-full-tech)
-- [Fascinating laser research projects you wish you thought of &lpar;Part 5 of 9&rpar;: Cisco Optics Podcast Ep 39](https://feedpress.me/link/23532/16058692/fascinating-laser-research-projects-you-wish-you-thought-of-part-5-of-9-cisco-optics-podcast-ep-39)
 <!-- BLOG-POST-LIST:END --> 
