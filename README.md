@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Something New: AP Discovery Methods for 6GHz Wi-Fi – Part 2](https://feedpress.me/link/23532/16064575/something-new-ap-discovery-methods-for-6ghz-wi-fi-part-2)
 - [Why sustainability is important to members of Cisco’s Green Team](https://feedpress.me/link/23532/16064454/why-sustainability-is-important-to-members-of-ciscos-green-team)
 - [How to Pick the Right Wireless Technology for your Agency](https://feedpress.me/link/23532/16064455/how-to-pick-the-right-wireless-technology-for-your-agency)
 - [Networking Demystified: The Modern Networking Stack](https://feedpress.me/link/23532/16061825/networking-demystified-the-modern-networking-stack)
 - [Two decades of IoT innovation for a future of possibilities](https://feedpress.me/link/23532/16060485/two-decades-of-iot-innovation-for-a-future-of-possibilities)
-- [Deploying the Wi-Fi Network at Cisco Live EMEA 2023](https://feedpress.me/link/23532/16060427/deploying-the-wi-fi-network-at-cisco-live-emea-2023)
 <!-- BLOG-POST-LIST:END --> 
