@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Thriving as a Writer: Reflections on a Non-technical Job in Tech](https://feedpress.me/link/23532/16067998/thriving-as-a-writer-reflections-on-a-non-technical-job-in-tech)
 - [The New Cisco Umbrella APIs for Managed Service Providers](https://feedpress.me/link/23532/16066131/the-new-cisco-umbrella-apis-for-managed-service-providers)
 - [How computer vision is making the transport sector more efficient and safe](https://feedpress.me/link/23532/16066120/how-computer-vision-is-making-the-transport-sector-more-efficient-and-safe)
 - [2023 #WeAreCisco #LoveWhereYouWork Contest](https://feedpress.me/link/23532/16065884/2023-wearecisco-lovewhereyouwork-contest)
 - [Cisco at HIMSS 2023](https://feedpress.me/link/23532/16065885/cisco-at-himss-2023)
-- [Something New: AP Discovery Methods for 6GHz Wi-Fi – Part 2](https://feedpress.me/link/23532/16064575/something-new-ap-discovery-methods-for-6ghz-wi-fi-part-2)
 <!-- BLOG-POST-LIST:END --> 
