@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Where are the alarms in Cisco DNA Center?](https://feedpress.me/link/23532/16069851/where-are-the-alarms-in-cisco-dna-center)
+- [Scaling your data center without scaling staff and operations](https://feedpress.me/link/23532/16069827/scaling-your-data-center-without-scaling-staff-and-operations)
 - [Taking an Innovative Approach to Recruiting and Retaining Black Leadership Talent](https://feedpress.me/link/23532/16069706/taking-an-innovative-approach-to-recruiting-and-retaining-black-leadership-talent)
 - [Doubling Down on Cisco Validated](https://feedpress.me/link/23532/16068331/doubling-down-on-cisco-validated)
 - [Gwinnett County DOT sets the network foundation for intelligent transportation](https://feedpress.me/link/23532/16068273/gwinnett-county-dot-sets-the-network-foundation-for-intelligent-transportation)
-- [Cisco at NAB Show 2023: Powering Innovation and Next-Level Experiences with Intel](https://feedpress.me/link/23532/16068201/cisco-at-nab-show-2023-powering-innovation-and-next-level-experiences-with-intel)
-- [Work on Climate: Creating a talent ecosystem to address the urgent need for climate solutions](https://feedpress.me/link/23532/16068032/work-on-climate-creating-a-talent-ecosystem-to-address-the-urgent-need-for-climate-solutions)
 <!-- BLOG-POST-LIST:END --> 
