@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Taking a Chance on Cisco](https://feedpress.me/link/23532/16077680/taking-a-chance-on-cisco)
+- [How Technology Innovation is Upending the Finance Industry](https://feedpress.me/link/23532/16077681/how-tech-innovation-is-upending-the-finance-industry)
 - [CiscoLive! Over the Years – Wireless and CAE Hats!](https://feedpress.me/link/23532/16076519/ciscolivewirelessandhats01)
 - [Girls in ICT Day: Preparing the next generation for a digital and low-carbon economy](https://feedpress.me/link/23532/16076133/girls-in-ict-day-preparing-the-next-generation-for-a-digital-and-low-carbon-economy)
 - [Cisco at NAB Show 2023: Pushing the Boundaries of What’s Possible in Media and Entertainment](https://feedpress.me/link/23532/16073511/cisco-at-nab-show-2023-pushing-the-boundaries-of-whats-possible-in-media-and-entertainment)
-- [Make your network yours with CML 2.5 annotations](https://feedpress.me/link/23532/16071907/make-your-network-yours-with-cml-2-5-annotations)
-- [Procure Cisco Cloud Software and SaaS Portfolio on AWS Marketplace](https://feedpress.me/link/23532/16071668/procure-cisco-cloud-software-and-saas-portfolio-on-aws-marketplace)
 <!-- BLOG-POST-LIST:END --> 
