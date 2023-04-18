@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Establishing a Cloud Operating Model with On-prem Systems](https://feedpress.me/link/23532/16077917/establishing-a-cloud-operating-model-with-on-prem-systems)
+- [Threat Actors Exploiting SNMP Vulnerabilities in Cisco Routers](https://feedpress.me/link/23532/16077871/threat-actors-exploiting-snmp-vulnerabilities-in-cisco-routers)
+- [Answering the Need for Cloud Calling and Collaboration with Cisco Webex and NTT](https://feedpress.me/link/23532/16077872/answering-the-need-for-cloud-calling-and-collaboration-with-cisco-webex-and-ntt)
 - [Taking a Chance on Cisco](https://feedpress.me/link/23532/16077680/taking-a-chance-on-cisco)
 - [How Technology Innovation is Upending the Finance Industry](https://feedpress.me/link/23532/16077681/how-tech-innovation-is-upending-the-finance-industry)
-- [CiscoLive! Over the Years – Wireless and CAE Hats!](https://feedpress.me/link/23532/16076519/ciscolivewirelessandhats01)
-- [Girls in ICT Day: Preparing the next generation for a digital and low-carbon economy](https://feedpress.me/link/23532/16076133/girls-in-ict-day-preparing-the-next-generation-for-a-digital-and-low-carbon-economy)
-- [Cisco at NAB Show 2023: Pushing the Boundaries of What’s Possible in Media and Entertainment](https://feedpress.me/link/23532/16073511/cisco-at-nab-show-2023-pushing-the-boundaries-of-whats-possible-in-media-and-entertainment)
 <!-- BLOG-POST-LIST:END --> 
