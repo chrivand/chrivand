@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Security Analysts, Start Your Engines!](https://feedpress.me/link/23532/16080721/security-analysts-start-your-engines)
 - [Establishing a Cloud Operating Model with On-prem Systems](https://feedpress.me/link/23532/16077917/establishing-a-cloud-operating-model-with-on-prem-systems)
 - [Threat Actors Exploiting SNMP Vulnerabilities in Cisco Routers](https://feedpress.me/link/23532/16077871/threat-actors-exploiting-snmp-vulnerabilities-in-cisco-routers)
 - [Answering the Need for Cloud Calling and Collaboration with Cisco Webex and NTT](https://feedpress.me/link/23532/16077872/answering-the-need-for-cloud-calling-and-collaboration-with-cisco-webex-and-ntt)
 - [Taking a Chance on Cisco](https://feedpress.me/link/23532/16077680/taking-a-chance-on-cisco)
-- [How Technology Innovation is Upending the Finance Industry](https://feedpress.me/link/23532/16077681/how-tech-innovation-is-upending-the-finance-industry)
 <!-- BLOG-POST-LIST:END --> 
