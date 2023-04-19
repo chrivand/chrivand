@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Zero Trust, Zero Worries: Secure Your Network with Cisco SD-WAN](https://feedpress.me/link/23532/16081132/zero-trust-with-cisco-sd-wan)
+- [Zero Trust, Zero Compromises: Secure Your Network with Cisco SD-WAN](https://feedpress.me/link/23532/16081132/zero-trust-with-cisco-sd-wan)
 - [Automating Observability with AppDynamics Cloud APIs](https://feedpress.me/link/23532/16081110/appdynamicscloudapis01)
 - [#SeeItToBeIt: Inclusivity is an ongoing journey](https://feedpress.me/link/23532/16080921/seeittobeit-inclusivity-is-an-ongoing-journey)
 - [Unleash the Power of Nexus Dashboard with the Connector for HashiCorp Terraform](https://feedpress.me/link/23532/16080916/unleash-the-power-of-nexus-dashboard-with-the-connector-for-hashicorp-terraform)
-- [Security Analysts, Start Your Engines!](https://feedpress.me/link/23532/16080721/security-analysts-start-your-engines)
+- [Fascinating laser research projects you wish you thought of &lpar;Part 6 of 9&rpar;: Cisco Optics Podcast Ep 40](https://feedpress.me/link/23532/16081199/fascinating-laser-research-projects-you-wish-you-thought-of-part-6-of-9-cisco-optics-podcast-ep-40)
 <!-- BLOG-POST-LIST:END --> 
