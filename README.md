@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Connecting the grid: Rugged routers that connect your business anywhere](https://feedpress.me/link/23532/16085494/connecting-the-grid-rugged-routers-that-connect-your-business-anywhere)
+- [Enabling Predictive Networks with Cisco SD-WAN and ThousandEyes WAN Insights](https://feedpress.me/link/23532/16085433/enabling-predictive-networks-with-cisco-sd-wan-and-thousandeyes-wan-insights)
+- [Cisco and Red Hat Continue to Evolve Their Collaboration with Optimized Solutions](https://feedpress.me/link/23532/16085434/cisco-and-red-hat-continue-to-evolve-their-collaboration-with-optimized-solutions)
 - [Education Networks: Sound, Secure, and Robust](https://feedpress.me/link/23532/16085002/education-networks-sound-secure-and-robust)
 - [Tvaran: Scaling innovations for impact with Cisco and Villgro](https://feedpress.me/link/23532/16085003/tvaran-scaling-innovations-for-impact-with-cisco-and-villgro)
-- [Cisco Announces Intent to Acquire Smartlook, Enabling New Offerings for Cisco AppDynamics and Full-Stack Observability](https://feedpress.me/link/23532/16085004/cisco-announces-intent-to-acquire-smartlook-enabling-new-offerings-for-cisco-appdynamics-and-cisco-full-stack-observability)
-- [Improving Security for Remote Work with Security Service Edge](https://feedpress.me/link/23532/16084966/improving-security-for-remote-work-with-security-service-edge)
-- [Modernizing Your Applications with Open Source? Yes, It Can Be Done!](https://feedpress.me/link/23532/16084608/modernizingwithopensource01)
 <!-- BLOG-POST-LIST:END --> 
