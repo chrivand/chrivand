@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Connected roadways: What to expect from ITS America Expo?](https://feedpress.me/link/23532/16085552/connected-roadways-what-to-expect-from-its-america-expo)
 - [Connecting the grid: Rugged routers that connect your business anywhere](https://feedpress.me/link/23532/16085494/connecting-the-grid-rugged-routers-that-connect-your-business-anywhere)
 - [Enabling Predictive Networks with Cisco SD-WAN and ThousandEyes WAN Insights](https://feedpress.me/link/23532/16085433/enabling-predictive-networks-with-cisco-sd-wan-and-thousandeyes-wan-insights)
 - [Cisco and Red Hat Continue to Evolve Their Collaboration with Optimized Solutions](https://feedpress.me/link/23532/16085434/cisco-and-red-hat-continue-to-evolve-their-collaboration-with-optimized-solutions)
 - [Education Networks: Sound, Secure, and Robust](https://feedpress.me/link/23532/16085002/education-networks-sound-secure-and-robust)
-- [Tvaran: Scaling innovations for impact with Cisco and Villgro](https://feedpress.me/link/23532/16085003/tvaran-scaling-innovations-for-impact-with-cisco-and-villgro)
 <!-- BLOG-POST-LIST:END --> 
