@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Improving Security for Remote Work with Security Service Edge](https://feedpress.me/link/23532/16084966/improving-security-for-remote-work-with-security-service-edge)
 - [Modernizing Your Applications with Open Source? Yes, It Can Be Done!](https://feedpress.me/link/23532/16084608/modernizingwithopensource01)
 - [Zero Trust, Zero Compromises: Secure Your Network with Cisco SD-WAN](https://feedpress.me/link/23532/16081132/zero-trust-with-cisco-sd-wan)
 - [Automating Observability with AppDynamics Cloud APIs](https://feedpress.me/link/23532/16081110/appdynamicscloudapis01)
 - [#SeeItToBeIt: Inclusivity is an ongoing journey](https://feedpress.me/link/23532/16080921/seeittobeit-inclusivity-is-an-ongoing-journey)
-- [Unleash the Power of Nexus Dashboard with the Connector for HashiCorp Terraform](https://feedpress.me/link/23532/16080916/unleash-the-power-of-nexus-dashboard-with-the-connector-for-hashicorp-terraform)
 <!-- BLOG-POST-LIST:END --> 
