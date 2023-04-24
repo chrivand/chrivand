@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [A Look Ahead: Where Does State and Local Gov Tech Go From Here?](https://feedpress.me/link/23532/16089506/a-look-ahead-where-does-state-and-local-gov-tech-go-from-here)
+- [The Value of a Collaborative Security Community](https://feedpress.me/link/23532/16089485/the-value-of-a-collaborative-security-community)
 - [What It Takes to Become a CCIE](https://feedpress.me/link/23532/16086970/what-it-takes-to-become-a-ccie)
 - [SalesConnect Modernization: Transforming Black Belt Academy](https://feedpress.me/link/23532/16086852/salesconnect-modernization-transforming-black-belt-academy)
 - [Closing the cybersecurity gap in Europe](https://feedpress.me/link/23532/16086530/cybersecurity-gap-in-europe-skills-cyber-solidarity-act)
-- [Barmherzige Brüder Österreich uses HyperFlex to power SAP HANA](https://feedpress.me/link/23532/16085665/barmherzige-bruder-osterreich-uses-hyperflex-to-power-sap-hana)
-- [Connected roadways: What to expect from ITS America Expo?](https://feedpress.me/link/23532/16085552/connected-roadways-what-to-expect-from-its-america-expo)
 <!-- BLOG-POST-LIST:END --> 
