@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Why Quality APIs Matter to Your Business](https://feedpress.me/link/23532/16091495/qualityapismatter01)
 - [Monitor critical assets with Edge Intelligence and IoT Operations Dashboard](https://feedpress.me/link/23532/16091320/monitor-critical-assets-with-edge-intelligence-and-iot-operations-dashboard)
 - [Cisco Celebrates Earth Day](https://feedpress.me/link/23532/16091223/cisco-celebrates-earth-day)
 - [Giving up My Bed To Give Back](https://feedpress.me/link/23532/16091031/giving-up-my-bed-to-give-back)
 - [Cisco’s Vision to Rapidly Detect Cyber Threats and Automate Response](https://feedpress.me/link/23532/16090784/cisco-security-vision-detect-cyber-threats-automate-response)
-- [Secure the Enterprise with Cisco at RSA](https://feedpress.me/link/23532/16089677/secure-the-enterprise-with-cisco-at-rsa)
 <!-- BLOG-POST-LIST:END --> 
