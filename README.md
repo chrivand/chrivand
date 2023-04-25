@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Cisco’s Vision to Rapidly Detect Cyber Threats and Automate Response](https://feedpress.me/link/23532/16090784/cisco-security-vision-detect-cyber-threats-automate-response)
 - [Secure the Enterprise with Cisco at RSA](https://feedpress.me/link/23532/16089677/secure-the-enterprise-with-cisco-at-rsa)
 - [XDR and the Importance of Cross-Domain Correlated Telemetry](https://feedpress.me/link/23532/16089667/xdr-importance-of-cross-domain-correlated-telemetry)
 - [Simplify Your Security Operations with Cisco XDR, Launching at RSAC](https://feedpress.me/link/23532/16089668/simplify-your-security-operations-with-cisco-xdr)
 - [Tools Gold! Sifting Through the Pool of DevOps Tools](https://feedpress.me/link/23532/16089666/devopstoolsgold01)
-- [A Look Ahead: Where Does State and Local Gov Tech Go From Here?](https://feedpress.me/link/23532/16089506/a-look-ahead-where-does-state-and-local-gov-tech-go-from-here)
 <!-- BLOG-POST-LIST:END --> 
