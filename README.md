@@ -32,6 +32,6 @@ He learned coding in C, but currently his favorite language is Python. He also v
 - [Supporting sustainability in retail operations](https://feedpress.me/link/23532/16092868/sustainability-in-retail-operations)
 - [Disaster Recovery Solutions for the Edge with HyperFlex and Cohesity](https://feedpress.me/link/23532/16092859/disaster-recovery-solutions-for-the-edge-with-hyperflex-and-cohesity)
 - [Adapt and thrive: how MSPs can turn market challenges into profits](https://feedpress.me/link/23532/16092842/adapt-and-thrive-how-msps-can-turn-market-challenges-into-profits)
+- [Registration for Cisco Live Vegas 2023 is Open!](https://feedpress.me/link/23532/16093116/clusdevnetzone01)
 - [Why Quality APIs Matter to Your Business](https://feedpress.me/link/23532/16091495/qualityapismatter01)
-- [Monitor critical assets with Edge Intelligence and IoT Operations Dashboard](https://feedpress.me/link/23532/16091320/monitor-critical-assets-with-edge-intelligence-and-iot-operations-dashboard)
 <!-- BLOG-POST-LIST:END --> 
