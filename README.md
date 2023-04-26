@@ -31,7 +31,7 @@ He learned coding in C, but currently his favorite language is Python. He also v
 <!-- BLOG-POST-LIST:START -->
 - [Supporting sustainability in retail operations](https://feedpress.me/link/23532/16092868/sustainability-in-retail-operations)
 - [Disaster Recovery Solutions for the Edge with HyperFlex and Cohesity](https://feedpress.me/link/23532/16092859/disaster-recovery-solutions-for-the-edge-with-hyperflex-and-cohesity)
-- [Adapt and thrive: how MSPs can turn market challenges into profits](https://feedpress.me/link/23532/16092842/adapt-and-thrive-how-msps-can-turn-market-challenges-into-profits)
+- [Adapt and thrive: how MSPs in the SMB market can turn market challenges into profits](https://feedpress.me/link/23532/16092842/adapt-and-thrive-how-msps-can-turn-market-challenges-into-profits)
 - [Registration for Cisco Live Vegas 2023 is Open!](https://feedpress.me/link/23532/16093116/clusdevnetzone01)
 - [Why Quality APIs Matter to Your Business](https://feedpress.me/link/23532/16091495/qualityapismatter01)
 <!-- BLOG-POST-LIST:END --> 
