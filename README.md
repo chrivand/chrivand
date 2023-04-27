@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Technology Porter at Your Service](https://feedpress.me/link/23532/16095036/technology-porter-at-your-service)
 - [Supporting the Sustainability Journey for the Transportation Industry](https://feedpress.me/link/23532/16094903/supporting-the-sustainability-journey-for-the-transportation-industry)
 - [Chuck Robbins Appointed to U.S.-EU Talent for Growth Task Force](https://feedpress.me/link/23532/16094420/chuck-robbins-us-eu-talent-for-growth)
 - [Supporting sustainability in retail operations](https://feedpress.me/link/23532/16092868/sustainability-in-retail-operations)
 - [Disaster Recovery Solutions for the Edge with HyperFlex and Cohesity](https://feedpress.me/link/23532/16092859/disaster-recovery-solutions-for-the-edge-with-hyperflex-and-cohesity)
-- [Adapt and thrive: how MSPs in the SMB market can turn market challenges into profits](https://feedpress.me/link/23532/16092842/adapt-and-thrive-how-msps-can-turn-market-challenges-into-profits)
 <!-- BLOG-POST-LIST:END --> 
