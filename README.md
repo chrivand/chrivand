@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Cisco Nexus 9000 Intelligent Buffers in a VXLAN/EVPN Fabric](https://feedpress.me/link/23532/16096651/cisco-nexus-9000-intelligent-buffers-in-a-vxlan-evpn-fabric)
 - [Cisco and Microsoft Work Together to Deliver Zero Trust and SASE](https://feedpress.me/link/23532/16096289/cisco-and-microsoft-work-together-to-deliver-zero-trust-and-sase)
 - [Technology Porter at Your Service](https://feedpress.me/link/23532/16095036/technology-porter-at-your-service)
 - [Supporting the Sustainability Journey for the Transportation Industry](https://feedpress.me/link/23532/16094903/supporting-the-sustainability-journey-for-the-transportation-industry)
 - [Chuck Robbins Appointed to U.S.-EU Talent for Growth Task Force](https://feedpress.me/link/23532/16094420/chuck-robbins-us-eu-talent-for-growth)
-- [Supporting sustainability in retail operations](https://feedpress.me/link/23532/16092868/sustainability-in-retail-operations)
 <!-- BLOG-POST-LIST:END --> 
