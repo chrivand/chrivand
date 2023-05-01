@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Cisco Partners, It Is Time to Embrace Cisco SASE!](https://feedpress.me/link/23532/16099170/cisco-partners-it-is-time-to-embrace-cisco-sase)
 - [Machine Learning and MV Cameras – Customer Use Cases](https://feedpress.me/link/23532/16099144/mlandmvcameras01)
 - [AI and Hybrid Work for a Frictionless Experience and Citizen Engagement](https://feedpress.me/link/23532/16098959/ai-and-hybrid-work-for-a-frictionless-experience-and-citizen-engagement)
 - [Cisco Nexus 9000 Intelligent Buffers in a VXLAN/EVPN Fabric](https://feedpress.me/link/23532/16096651/cisco-nexus-9000-intelligent-buffers-in-a-vxlan-evpn-fabric)
 - [Cisco and Microsoft Work Together to Deliver Zero Trust and SASE](https://feedpress.me/link/23532/16096289/cisco-and-microsoft-work-together-to-deliver-zero-trust-and-sase)
-- [Technology Porter at Your Service](https://feedpress.me/link/23532/16095036/technology-porter-at-your-service)
 <!-- BLOG-POST-LIST:END --> 
