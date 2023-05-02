@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Leapfrogging into the future with Cisco’s Digitize Delivery](https://feedpress.me/link/23532/16100462/leapfrogging-into-the-future-with-ciscos-digitize-delivery)
+- [The Future of Financial Services. Coffee and Conversations Podcast.](https://feedpress.me/link/23532/16100441/future-of-fsi-podcast)
+- [4 Things I Learned During My First Year at Cisco, in No Particular Order](https://feedpress.me/link/23532/16100442/4-things-i-learned-during-my-first-year-at-cisco-in-no-particular-order)
+- [Top three takeaways for healthcare technology leaders at HIMSS 2023](https://feedpress.me/link/23532/16100443/top-three-takeaways-for-healthcare-technology-leaders-at-himss-2023)
 - [Now is the time to step up your security](https://feedpress.me/link/23532/16099255/now-is-the-time-to-step-up-your-security)
-- [The age of the partner: A new era of business, a new era of partnering](https://feedpress.me/link/23532/16099224/the-age-of-the-partner-a-new-era-of-business-a-new-era-of-partnering)
-- [Cisco Partners, It Is Time to Embrace Cisco SASE!](https://feedpress.me/link/23532/16099170/cisco-partners-it-is-time-to-embrace-cisco-sase)
-- [Machine Learning and MV Cameras – Customer Use Cases](https://feedpress.me/link/23532/16099144/mlandmvcameras01)
-- [AI and Hybrid Work for a Frictionless Experience and Citizen Engagement](https://feedpress.me/link/23532/16098959/ai-and-hybrid-work-for-a-frictionless-experience-and-citizen-engagement)
 <!-- BLOG-POST-LIST:END --> 
