@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Inclusive Leadership via Language](https://feedpress.me/link/23532/16105858/inclusive-leadership-via-language)
+- [Securing the #1 threat vector is a key part of an effective XDR strategy](https://feedpress.me/link/23532/16105792/securing-the-1-threat-vector-is-a-key-part-of-an-effective-xdr-strategy)
 - [Interested in better securing your EHR?](https://feedpress.me/link/23532/16105709/interested-in-better-securing-your-ehr)
 - [Remote Work Tools Are Here to Stay](https://feedpress.me/link/23532/16104434/remote-work-tools-are-here-to-stay)
 - [2023 Cisco Partner Innovation Challenge is LIVE!](https://feedpress.me/link/23532/16104268/2023-cisco-partner-innovation-challenge-is-live)
-- [Meet Rik from Cisco Insider Advocates](https://feedpress.me/link/23532/16103808/meet-rik-from-cisco-insider-advocates)
-- [Continued Momentum, Continued Innovation: Cisco and Google Working Together](https://feedpress.me/link/23532/16100939/continued-momentum-continued-innovation-cisco-and-google-working-together)
 <!-- BLOG-POST-LIST:END --> 
