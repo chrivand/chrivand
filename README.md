@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [CRN Recognizes Cisco’s Trailblazing Women Leaders](https://feedpress.me/link/23532/16111557/crn-recognizes-ciscos-trailblazing-women-leaders)
 - [How Cisco’s Talent Bridge program is creating an equitable platform for employment matching](https://feedpress.me/link/23532/16111511/how-ciscos-talent-bridge-program-is-creating-an-equitable-platform-for-employment-matching)
 - [Become a Network Troubleshooting Pro at Cisco Live](https://feedpress.me/link/23532/16108545/become-a-network-troubleshooting-pro-at-cisco-live)
 - [5 Uncommon Tips for IT Career Success](https://feedpress.me/link/23532/16108239/5-uncommon-tips-to-help-you-succeed-in-it-according-to-a-tech-advocate)
 - [Delivering Superior Calling Experience to Over 40M Users via Webex for Cisco BroadWorks](https://feedpress.me/link/23532/16107943/delivering-superior-calling-experience-to-over-40m-users-via-webex-for-broadworks)
-- [New “Learning Map” Lets You Bring DevOps to Life at Cisco Live!](https://feedpress.me/link/23532/16106688/devopsatciscolive01)
 <!-- BLOG-POST-LIST:END --> 
