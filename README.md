@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Ready, Set, Secure – The Complete Approach to Cybersecurity](https://feedpress.me/link/23532/16115780/ready-set-secure-the-complete-approach-to-cybersecurity)
 - [Cisco U. Snack Minute Celebrates 100 Episodes](https://feedpress.me/link/23532/16114432/cisco-u-snack-minute-celebrates-100-episodes)
 - [The Bridge to Accessible and Inclusive Learning for All](https://feedpress.me/link/23532/16114407/the-bridge-to-accessible-and-inclusive-learning-for-all)
 - [Humanize your marketing content to connect with customers](https://feedpress.me/link/23532/16114355/humanize-your-marketing-content-to-connect-with-customers)
 - [Leveraging Zero Trust Capabilities for Government](https://feedpress.me/link/23532/16114155/leveraging-zero-trust-capabilities-for-government)
-- [Cisco Thanks Our Teachers Across the Globe](https://feedpress.me/link/23532/16114025/cisco-thanks-our-teachers-across-the-globe)
 <!-- BLOG-POST-LIST:END --> 
