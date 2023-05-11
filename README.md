@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Cisco Live is the time to jump into the future. Together.](https://feedpress.me/link/23532/16117576/cisco-live-is-the-time-to-jump-into-the-future-together)
+- [Zero Trust for Government Networks: 4 Steps You Need to Know](https://feedpress.me/link/23532/16117577/zero-trust-for-government-networks-4-steps-you-need-to-know)
 - [Secure Network Analytics is Upgraded with New Data Store Deployment](https://feedpress.me/link/23532/16117188/secure-network-analytics-is-upgraded-with-new-data-store-deployment)
 - [How World Possible is using technology to inclusively bridge the digital divide to help teachers and students](https://feedpress.me/link/23532/16116340/how-world-possible-is-using-technology-to-inclusively-bridge-the-digital-divide-to-help-teachers-and-students)
 - [Learn about DevSecOps at Cisco Live](https://feedpress.me/link/23532/16116084/devsecopsciscolive01)
-- [Why Cisco partners are more important than ever](https://feedpress.me/link/23532/16116028/why-cisco-partners-are-more-important-than-ever)
-- [Ready, Set, Secure – The Complete Approach to Cybersecurity](https://feedpress.me/link/23532/16115780/ready-set-secure-the-complete-approach-to-cybersecurity)
 <!-- BLOG-POST-LIST:END --> 
