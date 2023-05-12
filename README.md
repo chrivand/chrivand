@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Future-proof with Cisco Next-Gen Firewalls](https://feedpress.me/link/23532/16123576/future-proof-with-cisco-next-gen-firewalls)
 - [A mother speaks up for Mother Earth](https://feedpress.me/link/23532/16123216/a-mother-speaks-up-for-mother-earth)
 - [Forrester TEI™ Finds Cisco Vulnerability Management Delivers 125% ROI](https://feedpress.me/link/23532/16123171/forrester-tei-finds-cisco-vulnerability-management-delivers-125-roi)
 - [Cisco Networking Academy: Partners powering teams](https://feedpress.me/link/23532/16118495/cisco-networking-academy-partners-powering-teams)
 - [Behind the Scenes with ThousandEyes: Gain Authority over the Internet](https://feedpress.me/link/23532/16118069/behind-the-scenes-with-thousandeyes-gain-authority-over-the-internet)
-- [IT Leaders Contend with Secure Multicloud Access – The 2023 Global Networking Trends Report](https://feedpress.me/link/23532/16117962/it-leaders-contend-with-secure-multicloud-access-the-2023-global-networking-trends-report)
 <!-- BLOG-POST-LIST:END --> 
