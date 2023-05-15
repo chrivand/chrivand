@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Partners, Jump into Customer Experience &lpar;CX&rpar; at Cisco Live! Let’s Go!](https://feedpress.me/link/23532/16127159/partners-jump-into-customer-experience-cx-at-cisco-live-lets-go)
 - [Sustainability 101: What is net zero?](https://feedpress.me/link/23532/16127037/sustainability-101-what-is-net-zero)
+- [The Future of Software Supply Chain Security](https://feedpress.me/link/23532/16127286/sbom01)
 - [Simplify Your DevOps with the Cisco SD-WAN API](https://feedpress.me/link/23532/16123739/sdwanautomationmonth01)
 - [Future-proof with Cisco Next-Gen Firewalls](https://feedpress.me/link/23532/16123576/future-proof-with-cisco-next-gen-firewalls)
-- [A mother speaks up for Mother Earth](https://feedpress.me/link/23532/16123216/a-mother-speaks-up-for-mother-earth)
-- [Forrester TEI™ Finds Cisco Vulnerability Management Delivers 125% ROI](https://feedpress.me/link/23532/16123171/forrester-tei-finds-cisco-vulnerability-management-delivers-125-roi)
 <!-- BLOG-POST-LIST:END --> 
