@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Enhanced Cisco Catalyst IE3300 industrial switches help assess your OT security posture](https://feedpress.me/link/23532/16128889/enhanced-cisco-catalyst-ie3300-industrial-switches-help-assess-your-ot-security-posture)
 - [Meet Tobi from Cisco Insider Advocates](https://feedpress.me/link/23532/16128658/meet-tobi-from-cisco-insider-advocates)
 - [Cisco XDR: Taking the Attack to the Attackers](https://feedpress.me/link/23532/16128648/cisco-xdr-taking-the-attack-to-the-attackers)
 - [Cyber Security Skills That Prepared Me for the London Marathon](https://feedpress.me/link/23532/16128649/cyber-security-skills-that-prepared-me-for-the-london-marathon)
 - [Learn about Full Stack Observability at Cisco Live](https://feedpress.me/link/23532/16128788/observabilityciscolive01)
-- [Celebrate History and Culture This May](https://feedpress.me/link/23532/16127629/celebrate-history-and-culture-this-may)
 <!-- BLOG-POST-LIST:END --> 
