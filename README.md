@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Get Started with Cloud Native at Cisco Live](https://feedpress.me/link/23532/16130473/cloudnativeatciscolive01)
+- [How Canopy Planet is Empowering Brands to Protect the Planet’s Most Vital Resources](https://feedpress.me/link/23532/16130450/how-canopy-planet-is-empowering-brands-to-protect-the-planets-most-vital-resources)
 - [Cisco’s Comprehensive Security Portfolio Includes Cloud Native Application Security](https://feedpress.me/link/23532/16129228/ciscos-comprehensive-security-portfolio-includes-cloud-native-application-security)
 - [Meet Tobi from Cisco Insider Advocates](https://feedpress.me/link/23532/16128658/meet-tobi-from-cisco-insider-advocates)
 - [Cisco XDR: Taking the Attack to the Attackers](https://feedpress.me/link/23532/16128648/cisco-xdr-taking-the-attack-to-the-attackers)
-- [Cyber Security Skills That Prepared Me for the London Marathon](https://feedpress.me/link/23532/16128649/cyber-security-skills-that-prepared-me-for-the-london-marathon)
-- [Learn about Full Stack Observability at Cisco Live](https://feedpress.me/link/23532/16128788/observabilityciscolive01)
 <!-- BLOG-POST-LIST:END --> 
