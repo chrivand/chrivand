@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Explore API-first Sessions and Hands-on Workshops at Cisco Live](https://feedpress.me/link/23532/16132196/apifirstatciscolive01)
 - [Combating Ransomware with Security Service Edge](https://feedpress.me/link/23532/16131964/combating-ransomware-with-security-service-edge)
 - [Saudi Telecom Creates Cybersecurity Center of Excellence](https://feedpress.me/link/23532/16131965/saudi-telecom-creates-cybersecurity-center-of-excellence)
 - [Running for Children with Cancer](https://feedpress.me/link/23532/16131030/running-for-children-with-cancer)
 - [Get Started with Cloud Native at Cisco Live](https://feedpress.me/link/23532/16130473/cloudnativeatciscolive01)
-- [How Canopy Planet is Empowering Brands to Protect the Planet’s Most Vital Resources](https://feedpress.me/link/23532/16130450/how-canopy-planet-is-empowering-brands-to-protect-the-planets-most-vital-resources)
 <!-- BLOG-POST-LIST:END --> 
