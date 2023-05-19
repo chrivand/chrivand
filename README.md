@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Understanding Application Aware Routing &lpar;AAR&rpar; in Cisco SD-WAN](https://feedpress.me/link/23532/16135163/understanding-application-aware-routing-aar-in-cisco-sd-wan)
+- [How Cisco’s SaaS Solutions on AWS Deliver Unbeatable Value to Customers and Partners](https://feedpress.me/link/23532/16135160/how-ciscos-saas-solutions-on-aws-deliver-unbeatable-value-to-customers-and-partners)
 - [Deliver the Experience Your Customers Want with a Data-Informed Hybrid Work Strategy](https://feedpress.me/link/23532/16134890/deliver-the-experience-your-customers-want-with-a-data-informed-hybrid-work-strategy)
 - [World Bee Day: Meet Cisco’s Connected Bees in Amsterdam](https://feedpress.me/link/23532/16134724/world-bee-day-meet-ciscos-connected-bees-in-amsterdam)
 - [“Beam me up to the holodeck!” How holograms are becoming a reality for experiential learning](https://feedpress.me/link/23532/16133674/beam-me-up-to-the-holodeck-how-holograms-are-becoming-a-reality-for-experiential-learning)
-- [Explore API-first Sessions and Hands-on Workshops at Cisco Live](https://feedpress.me/link/23532/16132196/apifirstatciscolive01)
-- [Combating Ransomware with Security Service Edge](https://feedpress.me/link/23532/16131964/combating-ransomware-with-security-service-edge)
 <!-- BLOG-POST-LIST:END --> 
