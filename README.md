@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Influencing Forwarding Behavior with Policy Based Routing](https://feedpress.me/link/23532/16148016/influencing-forwarding-behavior-with-policy-based-routing)
 - [Sustainability and co-innovation: Shared passions of Enel and Cisco CDA](https://feedpress.me/link/23532/16146600/sustainability-and-co-innovation-shared-passions-of-enel-and-cisco-cda)
 - [Secure Workload 3.8 delivers more productivity, lower TCO, and faster time to value](https://feedpress.me/link/23532/16146538/secure-workload-3-8-delivers-more-productivity-lower-tco-and-faster-time-to-value)
 - [My Unlikely Cisco Tech Career Started with a Detour](https://feedpress.me/link/23532/16146539/my-unlikely-cisco-tech-career-started-with-a-detour)
 - [To the Cloud and Beyond―A Comprehensive Model for Enhanced NetOps and User Experience](https://feedpress.me/link/23532/16145582/to-the-cloud-and-beyond%e2%80%95a-comprehensive-model-for-enhanced-netops-and-user-experience)
-- [Welcome to Cisco U.](https://feedpress.me/link/23532/16145416/now-available-for-it-training-cisco-u)
 <!-- BLOG-POST-LIST:END --> 
