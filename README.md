@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Secure Workload 3.8 delivers more productivity, lower TCO, and faster time to value](https://feedpress.me/link/23532/16146538/secure-workload-3-8-delivers-more-productivity-lower-tco-and-faster-time-to-value)
+- [My Unlikely Cisco Tech Career Started with a Detour](https://feedpress.me/link/23532/16146539/my-unlikely-cisco-tech-career-started-with-a-detour)
 - [To the Cloud and Beyond―A Comprehensive Model for Enhanced NetOps and User Experience](https://feedpress.me/link/23532/16145582/to-the-cloud-and-beyond%e2%80%95a-comprehensive-model-for-enhanced-netops-and-user-experience)
 - [Welcome to Cisco U.](https://feedpress.me/link/23532/16145416/now-available-for-it-training-cisco-u)
 - [Why Network Automation Is a Quick Win for the Enterprise](https://feedpress.me/link/23532/16145506/enterprisenetworkautomation01)
-- [Relevance of Observability for SAP and its cross-functional integrations](https://feedpress.me/link/23532/16145131/relevance-of-observability-for-sap-and-its-cross-functional-integrations)
-- [Sustainability 101: How smart buildings help the planet and people](https://feedpress.me/link/23532/16144957/sustainability-101-how-smart-buildings-help-the-planet-and-people)
 <!-- BLOG-POST-LIST:END --> 
