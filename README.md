@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [People Behind Purpose at Cisco: How a life-long love for animals led to a career in sustainability](https://feedpress.me/link/23532/16154148/people-behind-purpose-at-cisco-how-a-life-long-love-for-animals-led-to-a-career-in-sustainability)
+- [Speed vs. Security: New Frameworks for Protecting Cloud Native and Multicloud Environments](https://feedpress.me/link/23532/16154079/speedvsecurity01)
+- [Boomerang Strategy: Taking A Step Back to Propel Forward](https://feedpress.me/link/23532/16154080/boomerang-strategy-taking-a-step-back-to-propel-forward)
 - [Building AI/ML Networks with Cisco Silicon One](https://feedpress.me/link/23532/16150040/building-ai-ml-networks-with-cisco-silicon-one)
 - [Your Guide To All Things Meraki at Cisco Live](https://feedpress.me/link/23532/16149737/merakiciscolive01)
-- [Influencing Forwarding Behavior with Policy Based Routing](https://feedpress.me/link/23532/16148016/influencing-forwarding-behavior-with-policy-based-routing)
-- [Sustainability and co-innovation: Shared passions of Enel and Cisco CDA](https://feedpress.me/link/23532/16146600/sustainability-and-co-innovation-shared-passions-of-enel-and-cisco-cda)
-- [Secure Workload 3.8 delivers more productivity, lower TCO, and faster time to value](https://feedpress.me/link/23532/16146538/secure-workload-3-8-delivers-more-productivity-lower-tco-and-faster-time-to-value)
 <!-- BLOG-POST-LIST:END --> 
