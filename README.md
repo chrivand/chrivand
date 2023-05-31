@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Black Hat Asia 2023 NOC: XDR &lpar;eXtended Detection and Response&rpar; in Action](https://feedpress.me/link/23532/16154956/black-hat-asia-2023-noc-xdr-extended-detection-and-response-in-action)
+- [Black Hat Asia 2023 NOC: Connecting Singapore](https://feedpress.me/link/23532/16154952/black-hat-asia-2023-noc-connecting-singapore)
 - [Retail, Financial Services, and Sports, Media, and Entertainment at Cisco Live 2023](https://feedpress.me/link/23532/16154237/consumer-industries-at-cisco-live-2023)
 - [Why Smart Buildings are Becoming a Transformative Necessity](https://feedpress.me/link/23532/16154168/why-smart-buildings-are-becoming-a-transformative-necessity)
 - [People Behind Purpose at Cisco: How a life-long love for animals led to a career in sustainability](https://feedpress.me/link/23532/16154148/people-behind-purpose-at-cisco-how-a-life-long-love-for-animals-led-to-a-career-in-sustainability)
-- [Speed vs. Security: New Frameworks for Protecting Cloud Native and Multicloud Environments](https://feedpress.me/link/23532/16154079/speedvsecurity01)
-- [Boomerang Strategy: Taking A Step Back to Propel Forward](https://feedpress.me/link/23532/16154080/boomerang-strategy-taking-a-step-back-to-propel-forward)
 <!-- BLOG-POST-LIST:END --> 
