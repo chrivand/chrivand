@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Grounded by Cybersecurity: Protecting the Aviation Industry from Digital Threats](https://feedpress.me/link/23532/16157683/grounded-by-cybersecurity-protecting-the-aviation-industry-from-digital-threats)
+- [Nurturing the next generation of climate tech talent](https://feedpress.me/link/23532/16157614/nurturing-the-next-generation-of-climate-tech-talent)
+- [AI and Flexible Hybrid Environments Key to Frictionless Engagement](https://feedpress.me/link/23532/16157615/ai-and-flexible-hybrid-environments-key-to-frictionless-engagement)
 - [Manufacturing, Transportation, Energy, Utilities, and Mining at Cisco Live 2023](https://feedpress.me/link/23532/16157582/manufacturing-transportation-energy-utilities-and-mining-at-cisco-live-2023)
 - [2023 Cybersecurity Defender of the Year Nominees](https://feedpress.me/link/23532/16157547/2023-cybersecurity-defender-of-the-year-nominees)
-- [Furthering the AI-First Security Cloud: Cisco Announces Intent to Acquire Armorblox](https://feedpress.me/link/23532/16156503/cisco-announces-intent-to-acquire-armorblox)
-- [Renewing our USGA Partnership to Further Drive Inclusion and Innovation](https://feedpress.me/link/23532/16156400/renewing-our-usga-partnership-to-further-drive-inclusion-and-innovation)
-- [Transform and Optimize Your Network for the Cloud](https://feedpress.me/link/23532/16156228/transform-and-optimize-your-network-for-the-cloud)
 <!-- BLOG-POST-LIST:END --> 
