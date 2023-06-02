@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Carhartt drives exponential growth with new revenue streams – backed by Cisco application solutions](https://feedpress.me/link/23532/16159362/carhartt-drives-exponential-growth-with-new-revenue-streams-backed-by-cisco-application-solutions)
+- [Network Troubleshooting from the Cloud](https://feedpress.me/link/23532/16159356/network-troubleshooting-from-the-cloud)
 - [Cisco Secure Firewall Integration with Amazon Security Lake](https://feedpress.me/link/23532/16159159/cisco-secure-firewall-integration-with-amazon-security-lake)
 - [The Future of Work is Here – and it’s Hybrid](https://feedpress.me/link/23532/16159328/the-future-of-work-is-here-and-its-hybrid)
 - [Generative AI: State of Play, Part 1](https://feedpress.me/link/23532/16158587/generativeai01)
-- [Streamlining Global Cloud Experiences with Cisco SD-WAN and AWS Cloud WAN](https://feedpress.me/link/23532/16158176/streamlining-global-cloud-experiences-with-cisco-sd-wan-and-aws-cloud-wan)
-- [Cisco U. Theater Sessions at Cisco Live Las Vegas](https://feedpress.me/link/23532/16158122/cisco-u-theater-sessions-at-cisco-live-las-vegas)
 <!-- BLOG-POST-LIST:END --> 
