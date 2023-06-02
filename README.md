@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Cisco Secure Firewall Integration with Amazon Security Lake](https://feedpress.me/link/23532/16159159/cisco-secure-firewall-integration-with-amazon-security-lake)
 - [Generative AI: State of Play, Part 1](https://feedpress.me/link/23532/16158587/generativeai01)
 - [Streamlining Global Cloud Experiences with Cisco SD-WAN and AWS Cloud WAN](https://feedpress.me/link/23532/16158176/streamlining-global-cloud-experiences-with-cisco-sd-wan-and-aws-cloud-wan)
 - [Cisco U. Theater Sessions at Cisco Live Las Vegas](https://feedpress.me/link/23532/16158122/cisco-u-theater-sessions-at-cisco-live-las-vegas)
 - [Join the Cisco SMB Team at Cisco Live](https://feedpress.me/link/23532/16158006/join-the-cisco-smb-team-at-cisco-live)
-- [Automate with Cisco IOS XE at Cisco Live](https://feedpress.me/link/23532/16157950/iosxeatciscolive01)
 <!-- BLOG-POST-LIST:END --> 
