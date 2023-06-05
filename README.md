@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Cisco Black Belt Fire Jumper Training for Cisco Partners](https://feedpress.me/link/23532/16162552/cisco-black-belt-fire-jumper-training-for-cisco-partners)
 - [Celebrating nature-based solutions this World Environment Day](https://feedpress.me/link/23532/16162251/celebrating-nature-based-solutions-this-world-environment-day)
 - [Cisco Live 2023: Empowering IT Growth and Connections](https://feedpress.me/link/23532/16159969/cisco-live-2023-empowering-it-growth-and-connections)
 - [Carhartt drives exponential growth with new revenue streams – backed by Cisco application solutions](https://feedpress.me/link/23532/16159362/carhartt-drives-exponential-growth-with-new-revenue-streams-backed-by-cisco-application-solutions)
 - [Network Troubleshooting from the Cloud](https://feedpress.me/link/23532/16159356/network-troubleshooting-from-the-cloud)
-- [Cisco Secure Firewall Integration with Amazon Security Lake](https://feedpress.me/link/23532/16159159/cisco-secure-firewall-integration-with-amazon-security-lake)
 <!-- BLOG-POST-LIST:END --> 
