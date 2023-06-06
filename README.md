@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Cisco Insider Executives launches](https://feedpress.me/link/23532/16164756/cisco-insider-executives-launches)
-- [Using Cisco Controllers to Meet Financial Regulatory Requirements](https://feedpress.me/link/23532/16164674/using-cisco-to-meet-financial-regulatory-requirements)
-- [The Journey of Bringing my Authentic Self to Work](https://feedpress.me/link/23532/16164675/the-journey-of-bringing-my-authentic-self-to-work)
-- [How technology can improve experience for patients and nurses](https://feedpress.me/link/23532/16164676/how-technology-can-improve-experience-for-patients-and-nurses)
-- [Celebrating Excellence: Our 2023 CX Customer Hero Award Winners](https://feedpress.me/link/23532/16163115/celebrating-excellence-our-2023-cx-customer-hero-award-winners)
+- [Connected and Protected at Cisco Live](https://feedpress.me/link/23532/16165760/connected-and-protected-at-cisco-live)
+- [Cloud-delivered OT services to simplify and scale IT for industrial networks](https://feedpress.me/link/23532/16165655/cloud-delivered-ot-services-to-simplify-and-scale-it-for-industrial-networks)
+- [Fixing Things Before They Break: A More Proactive Network Mantra](https://feedpress.me/link/23532/16165656/fixing-things-before-they-break-a-more-proactive-network-mantra)
+- [Unleashing Innovation Starts with Unifying Experiences](https://feedpress.me/link/23532/16165657/unleashing-innovation-starts-with-unifying-experiences)
+- [Going Beyond “Next Generation” Network Security](https://feedpress.me/link/23532/16165658/going-beyond-next-generation-network-security-cisco-platform-approach)
 <!-- BLOG-POST-LIST:END --> 
