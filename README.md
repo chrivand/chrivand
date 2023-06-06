@@ -31,7 +31,7 @@ He learned coding in C, but currently his favorite language is Python. He also v
 <!-- BLOG-POST-LIST:START -->
 - [Outshift by Cisco Announces its Latest Cloud Native Application Security Strategy with Panoptica](https://feedpress.me/link/23532/16165984/outshift-by-cisco-announces-its-latest-cloud-native-application-security-strategy-with-panoptica)
 - [Connected and Protected at Cisco Live](https://feedpress.me/link/23532/16165760/connected-and-protected-at-cisco-live)
-- [Launch of Cisco FSO Platform Unifies and Secures Digital Experiences at Scale](https://feedpress.me/link/23532/16165970/launch-of-cisco-fso-platform-unifies-and-secures-digital-experiences-at-scale-2023)
+- [Launch of Cisco FSO Platform Unifies and Secures Digital Experiences at Scale](https://feedpress.me/link/23532/16165874/launch-of-cisco-fso-platform-unifies-and-secures-digital-experiences-at-scale)
 - [Cloud-delivered OT services to simplify and scale IT for industrial networks](https://feedpress.me/link/23532/16165655/cloud-delivered-ot-services-to-simplify-and-scale-it-for-industrial-networks)
 - [Fixing Things Before They Break: A More Proactive Network Mantra](https://feedpress.me/link/23532/16165656/fixing-things-before-they-break-a-more-proactive-network-mantra)
 <!-- BLOG-POST-LIST:END --> 
