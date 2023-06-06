@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Cisco Insider Executives launches](https://feedpress.me/link/23532/16164756/cisco-insider-executives-launches)
+- [Using Cisco Controllers to Meet Financial Regulatory Requirements](https://feedpress.me/link/23532/16164674/using-cisco-to-meet-financial-regulatory-requirements)
+- [The Journey of Bringing my Authentic Self to Work](https://feedpress.me/link/23532/16164675/the-journey-of-bringing-my-authentic-self-to-work)
+- [How technology can improve experience for patients and nurses](https://feedpress.me/link/23532/16164676/how-technology-can-improve-experience-for-patients-and-nurses)
 - [Celebrating Excellence: Our 2023 CX Customer Hero Award Winners](https://feedpress.me/link/23532/16163115/celebrating-excellence-our-2023-cx-customer-hero-award-winners)
-- [Cisco Black Belt Fire Jumper Training for Cisco Partners](https://feedpress.me/link/23532/16162552/cisco-black-belt-fire-jumper-training-for-cisco-partners)
-- [Celebrating nature-based solutions this World Environment Day](https://feedpress.me/link/23532/16162251/celebrating-nature-based-solutions-this-world-environment-day)
-- [Cisco Live 2023: Empowering IT Growth and Connections](https://feedpress.me/link/23532/16159969/cisco-live-2023-empowering-it-growth-and-connections)
-- [Carhartt drives exponential growth with new revenue streams – backed by Cisco application solutions](https://feedpress.me/link/23532/16159362/carhartt-drives-exponential-growth-with-new-revenue-streams-backed-by-cisco-application-solutions)
 <!-- BLOG-POST-LIST:END --> 
