@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Because every technology experience is personal to you. We’ve got your back!](https://feedpress.me/link/23532/16172554/because-every-technology-experience-is-personal-to-you-weve-got-your-back)
 - [Webex Go with AT&amp;T](https://feedpress.me/link/23532/16171734/webex-go-with-att)
 - [It’s Here: Cisco Vulnerability Management Introduces Vulnerability Assessment With Cisco Secure Endpoint](https://feedpress.me/link/23532/16169393/cisco-vulnerability-management-introduces-vulnerability-assessment-with-cisco-secure-endpoint)
 - [Empowering an extensible observability ecosystem with the Cisco Full-Stack Observability Platform](https://feedpress.me/link/23532/16166305/empowering-an-extensible-observability-ecosystem-with-the-cisco-full-stack-observability-platform)
 - [Outshift by Cisco Announces its Latest Cloud Native Application Security Strategy with Panoptica](https://feedpress.me/link/23532/16165984/outshift-by-cisco-announces-its-latest-cloud-native-application-security-strategy-with-panoptica)
-- [Connected and Protected at Cisco Live](https://feedpress.me/link/23532/16165760/connected-and-protected-at-cisco-live)
 <!-- BLOG-POST-LIST:END --> 
