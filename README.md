@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Cisco and Amazon Web Services Working Together: If it’s cloud connected, it’s protected](https://feedpress.me/link/23532/16177153/cisco-and-amazon-web-services-working-together-if-its-cloud-connected-its-protected)
+- [Secure Multicloud Infrastructure with Cisco Multicloud Defense](https://feedpress.me/link/23532/16177154/secure-multicloud-infrastructure-with-cisco-multicloud-defense)
 - [Cisco names “Global Advocate Awards 2023: Americas” winners](https://feedpress.me/link/23532/16176169/cisco-names-global-advocate-awards-2023-americas-winners)
 - [Cisco U.: Practical Learning with Community and CE Credits](https://feedpress.me/link/23532/16173324/cisco-u-practical-learning-with-community-and-ce-credits)
 - [Honoring the Cybersecurity Defender of 2023 for Americas](https://feedpress.me/link/23532/16173119/honoring-the-cybersecurity-defender-of-2023-for-americas)
-- [Because every technology experience is personal to you. We’ve got your back!](https://feedpress.me/link/23532/16172554/because-every-technology-experience-is-personal-to-you-weve-got-your-back)
-- [Webex Go with AT&amp;T](https://feedpress.me/link/23532/16171734/webex-go-with-att)
 <!-- BLOG-POST-LIST:END --> 
