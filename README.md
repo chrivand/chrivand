@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Announcing Cisco ISE 3.3](https://feedpress.me/link/23532/16183222/announcing-cisco-ise-3-3)
 - [That’s a wrap for Cisco Live US 2023! But it’s just the beginning for Cisco application solutions](https://feedpress.me/link/23532/16183134/thats-a-wrap-for-cisco-live-us-2023-but-its-just-the-beginning-for-cisco-application-solutions)
 - [Moving the Security Poverty Line: Why We Need a Collaborative Approach to Cybersecurity](https://feedpress.me/link/23532/16182497/moving-the-security-poverty-line-why-we-need-a-collaborative-approach-to-cybersecurity)
 - [The Power of 5G for the Connected Future](https://feedpress.me/link/23532/16177620/the-power-of-5g-for-the-connected-future)
 - [Cisco and Amazon Web Services Working Together: If it’s cloud connected, it’s protected](https://feedpress.me/link/23532/16177153/cisco-and-amazon-web-services-working-together-if-its-cloud-connected-its-protected)
-- [Secure Multicloud Infrastructure with Cisco Multicloud Defense](https://feedpress.me/link/23532/16177154/secure-multicloud-infrastructure-with-cisco-multicloud-defense)
 <!-- BLOG-POST-LIST:END --> 
