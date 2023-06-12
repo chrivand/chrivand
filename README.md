@@ -32,6 +32,6 @@ He learned coding in C, but currently his favorite language is Python. He also v
 - [Breaking Through for Mission Advantage](https://feedpress.me/link/23532/16186061/breaking-through-for-mission-advantage)
 - [Coming soon: A standards-based approach to zero trust access](https://feedpress.me/link/23532/16185641/coming-soon-a-standards-based-approach-to-zero-trust-access)
 - [Creating Partner Opportunities with the Cisco FSO Platform](https://feedpress.me/link/23532/16183495/creating-partner-opportunities-with-the-cisco-fso-platform)
+- [Announcing Cisco ISE 3.3](https://feedpress.me/link/23532/16183222/announcing-cisco-ise-3-3)
 - [That’s a wrap for Cisco Live US 2023! But it’s just the beginning for Cisco application solutions](https://feedpress.me/link/23532/16183134/thats-a-wrap-for-cisco-live-us-2023-but-its-just-the-beginning-for-cisco-application-solutions)
-- [Moving the Security Poverty Line: Why We Need a Collaborative Approach to Cybersecurity](https://feedpress.me/link/23532/16182497/moving-the-security-poverty-line-why-we-need-a-collaborative-approach-to-cybersecurity)
 <!-- BLOG-POST-LIST:END --> 
