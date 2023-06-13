@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Be Confident, Be Bold and Be Fearless with Cisco Secure Endpoint](https://feedpress.me/link/23532/16186255/be-confident-be-bold-and-be-fearless-with-cisco-secure-endpoint)
+- [Global Week of Giving Champions Employee Volunteering](https://feedpress.me/link/23532/16188180/global-week-of-giving-champions-employee-volunteering)
+- [Threat Trends: Snort IPS](https://feedpress.me/link/23532/16188178/threat-trends-snort-ips)
+- [Two Generations, Two Separate Passions, One Home at Cisco](https://feedpress.me/link/23532/16188179/two-generations-two-separate-passions-one-home-at-cisco)
 - [Meet Jyrki from Cisco Insider Advocates](https://feedpress.me/link/23532/16188172/meet-jyrki-from-cisco-insider-advocates)
-- [Breaking Through for Mission Advantage](https://feedpress.me/link/23532/16186061/breaking-through-for-mission-advantage)
-- [Coming soon: A standards-based approach to zero trust access](https://feedpress.me/link/23532/16185641/coming-soon-a-standards-based-approach-to-zero-trust-access)
-- [Creating Partner Opportunities with the Cisco FSO Platform](https://feedpress.me/link/23532/16183495/creating-partner-opportunities-with-the-cisco-fso-platform)
-- [Announcing Cisco ISE 3.3](https://feedpress.me/link/23532/16183222/announcing-cisco-ise-3-3)
 <!-- BLOG-POST-LIST:END --> 
