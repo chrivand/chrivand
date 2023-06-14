@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [It’s time to follow the climate funds! How public funding can support achieving sustainability at scale.](https://feedpress.me/link/23532/16190219/its-time-to-follow-the-climate-funds-how-public-funding-can-support-achieving-sustainability-at-scale)
 - [Walk a Mile in Their Shoes: Creating Awareness and Mutual Respect](https://feedpress.me/link/23532/16190175/walk-a-mile-in-their-shoes-creating-awareness-and-mutual-respect)
 - [Overcoming the Three Hard Truths of Multicloud Security](https://feedpress.me/link/23532/16190105/overcoming-the-three-hard-truths-of-multicloud-security)
 - [Machines as “Thinking” Partners](https://feedpress.me/link/23532/16188794/machines-as-thinking-partners)
 - [Unleash the Power of Cisco DNA Center on AWS](https://feedpress.me/link/23532/16188549/unleash-the-power-of-cisco-dna-center-on-aws)
-- [Simplifying Experiences with a Platform Approach to SASE](https://feedpress.me/link/23532/16188448/simplifying-experiences-with-a-platform-approach-to-sase)
 <!-- BLOG-POST-LIST:END --> 
