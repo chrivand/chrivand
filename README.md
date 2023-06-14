@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Walk a Mile in Their Shoes: Creating Awareness and Mutual Respect](https://feedpress.me/link/23532/16190175/walk-a-mile-in-their-shoes-creating-awareness-and-mutual-respect)
+- [Overcoming the Three Hard Truths of Multicloud Security](https://feedpress.me/link/23532/16190105/overcoming-the-three-hard-truths-of-multicloud-security)
 - [Machines as “Thinking” Partners](https://feedpress.me/link/23532/16188794/machines-as-thinking-partners)
 - [Unleash the Power of Cisco DNA Center on AWS](https://feedpress.me/link/23532/16188549/unleash-the-power-of-cisco-dna-center-on-aws)
 - [Simplifying Experiences with a Platform Approach to SASE](https://feedpress.me/link/23532/16188448/simplifying-experiences-with-a-platform-approach-to-sase)
-- [Sustainability 101: How IT contributes to emissions and climate change](https://feedpress.me/link/23532/16188258/sustainability-101-how-it-contributes-to-emissions-and-climate-change)
-- [Be Confident, Be Bold and Be Fearless with Cisco Secure Endpoint](https://feedpress.me/link/23532/16186255/be-confident-be-bold-and-be-fearless-with-cisco-secure-endpoint)
 <!-- BLOG-POST-LIST:END --> 
