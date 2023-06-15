@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How PlantVillage is bridging the gap to give farmers a fighting chance](https://feedpress.me/link/23532/16191937/how-plantvillage-is-bridging-the-gap-to-give-farmers-a-fighting-chance)
+- [Empowering HBCUs through our Social Justice commitments](https://feedpress.me/link/23532/16191902/empowering-hbcus-through-our-social-justice-commitments)
 - [Paying it forward with sponsorship](https://feedpress.me/link/23532/16191785/paying-it-forward-with-sponsorship)
 - [Building Bridges to a Sustainable Future](https://feedpress.me/link/23532/16191719/iste-building-bridges-to-a-sustainable-future-empowering-students-and-teachers)
 - [Security automation with Cisco XDR](https://feedpress.me/link/23532/16191675/security-automation-with-cisco-xdr)
-- [Building Connectivity and Community as a Black Leader in Tech](https://feedpress.me/link/23532/16191676/building-connectivity-and-community-as-a-black-leader-in-tech)
-- [Revolutionizing IOT to deliver an end-to-end solution](https://feedpress.me/link/23532/16190340/revolutionizing-iot-to-deliver-an-end-to-end-solution)
 <!-- BLOG-POST-LIST:END --> 
