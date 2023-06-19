@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Understanding FedRAMP: How Cisco Umbrella is Getting Certified](https://feedpress.me/link/23532/16197067/understanding-fedramp-how-cisco-umbrella-is-getting-certified)
 - [A Commitment to Sustainability: Cisco and Logicalis Leading the Charge Together](https://feedpress.me/link/23532/16193610/a-commitment-to-sustainability-cisco-and-logicalis-leading-the-charge-together)
 - [Forever Free: Reflections on the significance of Juneteenth and the power of proclamation](https://feedpress.me/link/23532/16193585/forever-free-reflections-on-the-significance-of-juneteenth-and-the-power-of-proclamation)
 - [How PlantVillage is bridging the gap to give farmers a fighting chance](https://feedpress.me/link/23532/16191937/how-plantvillage-is-bridging-the-gap-to-give-farmers-a-fighting-chance)
 - [Empowering HBCUs through our Social Justice commitments](https://feedpress.me/link/23532/16191902/empowering-hbcus-through-our-social-justice-commitments)
-- [All Things “Cool” at Cisco Live 2023: A Partner Engineer’s Perspective](https://feedpress.me/link/23532/16192101/all-things-cool-at-cisco-live-2023-a-partner-engineers-perspective)
 <!-- BLOG-POST-LIST:END --> 
