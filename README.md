@@ -33,5 +33,5 @@ He learned coding in C, but currently his favorite language is Python. He also v
 - [Cisco Silicon One Breaks the 51.2 Tbps Barrier](https://feedpress.me/link/23532/16198757/cisco-silicon-one-breaks-the-51-2-tbps-barrier)
 - [Accelerating Europe’s Connectivity: fast forward to sustainable, secure, and resilient networks](https://feedpress.me/link/23532/16198582/europe-connectivity-policy-sustainable-secure-resilient-networks)
 - [The Value of SOC2 and ISO27001 in Enhancing Customer Trust](https://feedpress.me/link/23532/16198543/the-value-of-soc2-and-iso27001-in-enhancing-customer-trust)
-- [How to Automate and Manage Challenging Customer Interactions in Financial Services](https://feedpress.me/link/23532/16198544/how-to-automate-and-manage-challenging-customer-interactions)
+- [How to Automate and Manage Challenging Customer Interactions](https://feedpress.me/link/23532/16198544/how-to-automate-and-manage-challenging-customer-interactions)
 <!-- BLOG-POST-LIST:END --> 
