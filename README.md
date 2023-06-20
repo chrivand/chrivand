@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Accelerating Europe’s Connectivity: fast forward to sustainable, secure, and resilient networks](https://feedpress.me/link/23532/16198582/europe-connectivity-policy-sustainable-secure-resilient-networks)
 - [The Value of SOC2 and ISO27001 in Enhancing Customer Trust](https://feedpress.me/link/23532/16198543/the-value-of-soc2-and-iso27001-in-enhancing-customer-trust)
 - [How to Automate and Manage Challenging Customer Interactions in Financial Services](https://feedpress.me/link/23532/16198544/how-to-automate-and-manage-challenging-customer-interactions)
 - [World Refugee Day: A time to celebrate compassion and courage](https://feedpress.me/link/23532/16198545/world-refugee-day-a-time-to-celebrate-compassion-and-courage)
 - [Understanding FedRAMP: How Cisco Umbrella is Getting Certified](https://feedpress.me/link/23532/16197067/understanding-fedramp-how-cisco-umbrella-is-getting-certified)
-- [A Commitment to Sustainability: Cisco and Logicalis Leading the Charge Together](https://feedpress.me/link/23532/16193610/a-commitment-to-sustainability-cisco-and-logicalis-leading-the-charge-together)
 <!-- BLOG-POST-LIST:END --> 
