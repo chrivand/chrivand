@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Personalize in-store experiences. First step? Security](https://feedpress.me/link/23532/16200449/security-in-retail)
 - [Cisco Announces Intent to Acquire Accedian: Accelerating High Performance Service Assurance](https://feedpress.me/link/23532/16200269/cisco-announces-intent-to-acquire-accedian)
 - [Cisco ISE Training Now Offers Integrated Labs for Hands-on Digital Learning](https://feedpress.me/link/23532/16198835/cisco-ise-training-now-offers-integrated-labs-for-hands-on-digital-learning)
 - [Cisco Silicon One Breaks the 51.2 Tbps Barrier](https://feedpress.me/link/23532/16198757/cisco-silicon-one-breaks-the-51-2-tbps-barrier)
 - [Accelerating Europe’s Connectivity: fast forward to sustainable, secure, and resilient networks](https://feedpress.me/link/23532/16198582/europe-connectivity-policy-sustainable-secure-resilient-networks)
-- [The Value of SOC2 and ISO27001 in Enhancing Customer Trust](https://feedpress.me/link/23532/16198543/the-value-of-soc2-and-iso27001-in-enhancing-customer-trust)
 <!-- BLOG-POST-LIST:END --> 
