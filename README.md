@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Allyship Is Action, Not a Word](https://feedpress.me/link/23532/16202736/allyship-is-action-not-a-word)
+- [Mastering the Hunt: Five Ways XDR Enhances Threat Hunting Strategies](https://feedpress.me/link/23532/16202737/mastering-the-hunt-five-ways-xdr-enhances-threat-hunting-strategies)
 - [Unleash the Business Potential of the Cisco Catalyst SD-WAN API](https://feedpress.me/link/23532/16200827/catalystsdwanapi01)
 - [Tackling phishing in New Zealand](https://feedpress.me/link/23532/16200777/tackling-phishing-in-new-zealand)
 - [Personalize in-store experiences. First step? Security](https://feedpress.me/link/23532/16200449/security-in-retail)
-- [Cisco Announces Intent to Acquire Accedian: Accelerating High Performance Service Assurance](https://feedpress.me/link/23532/16200269/cisco-announces-intent-to-acquire-accedian)
-- [Cisco ISE Training Now Offers Integrated Labs for Hands-on Digital Learning](https://feedpress.me/link/23532/16198835/cisco-ise-training-now-offers-integrated-labs-for-hands-on-digital-learning)
 <!-- BLOG-POST-LIST:END --> 
