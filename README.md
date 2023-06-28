@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Make Your WAN Connectivity an Extraordinary Experience](https://feedpress.me/link/23532/16212143/make-your-wan-connectivity-an-extraordinary-experience)
 - [The Future of Airports, Coffee and Conversations podcast](https://feedpress.me/link/23532/16210771/the-future-of-airports-coffee-and-conversations-podcast)
 - [Lead from the front. Building a successful – and happy team](https://feedpress.me/link/23532/16210627/lead-from-the-front-building-a-successful-and-happy-team)
 - [COTA improves mobility and innovates public transit for a connected future](https://feedpress.me/link/23532/16210563/cota-improves-mobility-and-innovates-public-transit-for-a-connected-future)
 - [3 Tips for Building a Strong Firewall Foundation to Fuel Your Growth](https://feedpress.me/link/23532/16210491/3-tips-for-building-a-strong-firewall-foundation-to-fuel-your-growth)
-- [Find Your Path to a Cloud Operating Model for Simplicity and Agility](https://feedpress.me/link/23532/16210492/find-your-path-to-a-cloud-operating-model-for-simplicity-and-agility)
 <!-- BLOG-POST-LIST:END --> 
