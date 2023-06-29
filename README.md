@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Hybrid Work: Where Sustainability and Employee Experience Meet](https://feedpress.me/link/23532/16214205/hybrid-work-where-sustainability-and-employee-experience-meet)
 - [Confronting Crisis, El Paso Helps](https://feedpress.me/link/23532/16214125/confronting-crisis-el-paso-helps)
 - [Webex first collaboration suite with EU Cloud Code of Conduct Level 3 adherence](https://feedpress.me/link/23532/16213419/webex-first-collaboration-suite-with-eu-cloud-code-of-conduct-level-3-adherence)
 - [Cisco Secure Analytics Emerges as a Strong Performer in Forrester NAV Wave](https://feedpress.me/link/23532/16213420/cisco-secure-analytics-emerges-as-a-strong-performer-in-forrester-nav-wave)
 - [Is FSOaaS the new evolution of observability?](https://feedpress.me/link/23532/16212352/is-fsoaas-the-new-evolution-of-observability)
-- [The Benevolent Enterprise: When ‘Doing Good’ is Good for the Business](https://feedpress.me/link/23532/16212256/when-doing-good-is-good-for-the-business)
 <!-- BLOG-POST-LIST:END --> 
