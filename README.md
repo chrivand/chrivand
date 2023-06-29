@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Webex first collaboration suite with EU Cloud Code of Conduct Level 3 adherence](https://feedpress.me/link/23532/16213419/webex-first-collaboration-suite-with-eu-cloud-code-of-conduct-level-3-adherence)
+- [Cisco Secure Analytics Emerges as a Strong Performer in Forrester NAV Wave](https://feedpress.me/link/23532/16213420/cisco-secure-analytics-emerges-as-a-strong-performer-in-forrester-nav-wave)
 - [Is FSOaaS the new evolution of observability?](https://feedpress.me/link/23532/16212352/is-fsoaas-the-new-evolution-of-observability)
 - [The Benevolent Enterprise: When ‘Doing Good’ is Good for the Business](https://feedpress.me/link/23532/16212256/when-doing-good-is-good-for-the-business)
 - [Make Your WAN Connectivity an Extraordinary Experience](https://feedpress.me/link/23532/16212143/make-your-wan-connectivity-an-extraordinary-experience)
-- [The Future of Airports, Coffee and Conversations podcast](https://feedpress.me/link/23532/16210771/the-future-of-airports-coffee-and-conversations-podcast)
-- [Lead from the front. Building a successful – and happy team](https://feedpress.me/link/23532/16210627/lead-from-the-front-building-a-successful-and-happy-team)
 <!-- BLOG-POST-LIST:END --> 
