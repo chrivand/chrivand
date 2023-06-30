@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Revolutionizing SSE: AI powered Access and Security Integration](https://feedpress.me/link/23532/16215282/revolutionizing-sse-ai-powered-access-and-security-integration)
 - [Hybrid Work: Where Sustainability and Employee Experience Meet](https://feedpress.me/link/23532/16214205/hybrid-work-where-sustainability-and-employee-experience-meet)
 - [Navigating the Future: Insights for Developers on Observability and Cloud Native Security](https://feedpress.me/link/23532/16214430/navigatingthefuture01)
 - [Confronting Crisis, El Paso Helps](https://feedpress.me/link/23532/16214125/confronting-crisis-el-paso-helps)
 - [Webex first collaboration suite with EU Cloud Code of Conduct Level 3 adherence](https://feedpress.me/link/23532/16213419/webex-first-collaboration-suite-with-eu-cloud-code-of-conduct-level-3-adherence)
-- [Cisco Secure Analytics Emerges as a Strong Performer in Forrester NAV Wave](https://feedpress.me/link/23532/16213420/cisco-secure-analytics-emerges-as-a-strong-performer-in-forrester-nav-wave)
 <!-- BLOG-POST-LIST:END --> 
