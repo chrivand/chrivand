@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Seamless Firewall Service Insertion in the Network with Cisco Catalyst Switches](https://feedpress.me/link/23532/16226957/seamless-firewall-service-insertion-in-the-network-with-cisco-catalyst-switches)
 - [Building industrial networks that are secure by design](https://feedpress.me/link/23532/16225588/building-industrial-networks-that-are-secure-by-design)
 - [Let’s focus on security resilience for manufacturing and financial services](https://feedpress.me/link/23532/16225517/lets-focus-on-security-resilience-for-manufacturing-and-financial-services)
 - [Discovering a Better Version of Myself Through Inclusive Communities](https://feedpress.me/link/23532/16225286/discovering-a-better-version-of-myself-through-inclusive-communities)
 - [Generative AI: State of Play, Part 2](https://feedpress.me/link/23532/16224120/generativeai02)
-- [Biggest Entertainers Trust Rock Lititz: They Trust Cisco](https://feedpress.me/link/23532/16223646/biggest-entertainers-trust-rock-lititz-they-trust-cisco)
 <!-- BLOG-POST-LIST:END --> 
