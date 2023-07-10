@@ -32,6 +32,6 @@ He learned coding in C, but currently his favorite language is Python. He also v
 - [CRN Recognizes Cisco Inclusive Channel Leaders in Inaugural Awards](https://feedpress.me/link/23532/16229856/crn-recognizes-cisco-inclusive-channel-leaders-in-inaugural-awards)
 - [Going the “Middle Mile” to Transform Infrastructure](https://feedpress.me/link/23532/16229797/going-the-middle-mile-to-transform-infrastructure)
 - [Revolutionizing Partner Support: Black Belt’s Game-Changing Track Revamp](https://feedpress.me/link/23532/16227141/revolutionizing-partner-support-black-belts-game-changing-track-revamp)
+- [Seamless Firewall Service Insertion in the Network with Cisco Catalyst Switches](https://feedpress.me/link/23532/16226957/seamless-firewall-service-insertion-in-the-network-with-cisco-catalyst-switches)
 - [Building industrial networks that are secure by design](https://feedpress.me/link/23532/16225588/building-industrial-networks-that-are-secure-by-design)
-- [Let’s focus on security resilience for manufacturing and financial services](https://feedpress.me/link/23532/16225517/lets-focus-on-security-resilience-for-manufacturing-and-financial-services)
 <!-- BLOG-POST-LIST:END --> 
