@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Finding the Balance: Mission Effectiveness &amp; Resilience vs. Sustainability](https://feedpress.me/link/23532/16236282/finding-the-balance-mission-effectiveness-resilience-vs-sustainability)
 - [CODE JOSHUA: Training first responders on how to interact with individuals with autism](https://feedpress.me/link/23532/16234552/code-joshua-training-first-responders-on-how-to-interact-with-individuals-with-autism)
 - [Smart &amp; Sustainable: The Continued Evolution of Hybrid Work](https://feedpress.me/link/23532/16234233/smart-sustainable-the-continued-evolution-of-hybrid-work)
 - [Five Tips to Achieve a More Resilient SOC](https://feedpress.me/link/23532/16234081/five-tips-to-achieve-a-more-resilient-soc)
 - [Security in Financial Services: The Webinar](https://feedpress.me/link/23532/16234082/driving-security-resilience-the-webinar)
-- [CRN Recognizes Cisco Inclusive Channel Leaders in Inaugural Awards](https://feedpress.me/link/23532/16229856/crn-recognizes-cisco-inclusive-channel-leaders-in-inaugural-awards)
 <!-- BLOG-POST-LIST:END --> 
