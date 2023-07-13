@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Colorado Springs District 11: Leading the Way to an Inclusive Future](https://feedpress.me/link/23532/16237625/colorado-springs-district-11-leading-the-way-to-an-inclusive-future)
 - [Securing Identity as the New Perimeter: Cisco Announces Intent to Acquire Oort](https://feedpress.me/link/23532/16237571/cisco-announces-intent-to-acquire-oort)
 - [5 Biggest Learnings in My Career: Reflections After 5 Years at Cisco](https://feedpress.me/link/23532/16237498/5-biggest-learnings-in-my-career-reflections-after-5-years-at-cisco)
 - [FCC’s K-12 Cybersecurity Pilot Program Will Bolster School Cyber Defenses](https://feedpress.me/link/23532/16236444/fcc-k-12-cybersecurity-pilot)
 - [Finding the Balance: Mission Effectiveness &amp; Resilience vs. Sustainability](https://feedpress.me/link/23532/16236282/finding-the-balance-mission-effectiveness-resilience-vs-sustainability)
-- [CODE JOSHUA: Training first responders on how to interact with individuals with autism](https://feedpress.me/link/23532/16234552/code-joshua-training-first-responders-on-how-to-interact-with-individuals-with-autism)
 <!-- BLOG-POST-LIST:END --> 
