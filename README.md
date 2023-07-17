@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Great Wins for Cisco in CRN’s Tech Innovator Awards 2023](https://feedpress.me/link/23532/16243798/great-wins-for-cisco-in-crns-tech-innovator-awards-2023)
 - [Data Loss Prevention and the Value of Artificial Intelligence](https://feedpress.me/link/23532/16243585/data-loss-prevention-and-the-value-of-artificial-intelligence)
 - [5 Reasons Cisco Solutions Are Perfect for Small and Medium Businesses](https://feedpress.me/link/23532/16243436/5-reasons-cisco-solutions-are-perfect-for-small-and-medium-businesses)
 - [Living and Working as an Inclusive Channel Leader](https://feedpress.me/link/23532/16239321/living-and-working-as-an-inclusive-channel-leader)
 - [Building Digital Foundations for Sustainability](https://feedpress.me/link/23532/16239080/building-digital-foundations-for-sustainability)
-- [Embracing the Cloud Era with the New CCIE Collaboration Certification](https://feedpress.me/link/23532/16238322/embracing-the-cloud-era-with-the-new-ccie-collaboration-certification)
 <!-- BLOG-POST-LIST:END --> 
