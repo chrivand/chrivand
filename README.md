@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Cisco and Cohesity Join Forces Again to Unlock Value of Data in Hybrid and Multicloud Environments](https://feedpress.me/link/23532/16245325/cisco-and-cohesity-join-forces-again-to-unlock-value-of-data-in-hybrid-and-multicloud-environments)
 - [Top Three Takeaways from Forrester’s Zero Trust Platforms Landscape Overview](https://feedpress.me/link/23532/16245190/top-three-takeaways-from-forresters-zero-trust-platforms-landscape-overview)
 - [Great Wins for Cisco in CRN’s Tech Innovator Awards 2023](https://feedpress.me/link/23532/16243798/great-wins-for-cisco-in-crns-tech-innovator-awards-2023)
 - [Data Loss Prevention and the Value of Artificial Intelligence](https://feedpress.me/link/23532/16243585/data-loss-prevention-and-the-value-of-artificial-intelligence)
 - [5 Reasons Cisco Solutions Are Perfect for Small and Medium Businesses](https://feedpress.me/link/23532/16243436/5-reasons-cisco-solutions-are-perfect-for-small-and-medium-businesses)
-- [Living and Working as an Inclusive Channel Leader](https://feedpress.me/link/23532/16239321/living-and-working-as-an-inclusive-channel-leader)
 <!-- BLOG-POST-LIST:END --> 
