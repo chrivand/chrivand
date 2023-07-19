@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Rev Up and Race to Recertification with 56 Free Continuing Education Credits](https://feedpress.me/link/23532/16247416/rev-up-and-race-to-recertification-with-56-free-continuing-education-credits)
 - [Cisco Innovation for Payment Solutions](https://feedpress.me/link/23532/16247343/cisco-innovation-for-payment-solutions)
 - [Converge Networking and Security with the Right SASE](https://feedpress.me/link/23532/16245727/converge-networking-and-security-with-the-right-sase)
+- [Starbucks Open Sources Their Terraform Provider for Meraki Networks](https://feedpress.me/link/23532/16247503/starbucksmeraki01)
 - [Cisco and Cohesity Join Forces Again to Unlock Value of Data in Hybrid and Multicloud Environments](https://feedpress.me/link/23532/16245325/cisco-and-cohesity-join-forces-again-to-unlock-value-of-data-in-hybrid-and-multicloud-environments)
-- [Top Three Takeaways from Forrester’s Zero Trust Platforms Landscape Overview](https://feedpress.me/link/23532/16245190/top-three-takeaways-from-forresters-zero-trust-platforms-landscape-overview)
-- [Great Wins for Cisco in CRN’s Tech Innovator Awards 2023](https://feedpress.me/link/23532/16243798/great-wins-for-cisco-in-crns-tech-innovator-awards-2023)
 <!-- BLOG-POST-LIST:END --> 
