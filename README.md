@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Campus Ambassador to Intern to Full-time Technical Consulting Engineer](https://feedpress.me/link/23532/16251147/campus-ambassador-to-intern-to-full-time-technical-consulting-engineer)
+- [Enabling Energy Efficiency with Cisco UCS Modular Servers](https://feedpress.me/link/23532/16251148/enabling-energy-efficiency-with-cisco-ucs-modular-servers)
 - [Rev Up and Race to Recertification with 56 Free Continuing Education Credits](https://feedpress.me/link/23532/16247416/rev-up-and-race-to-recertification-with-56-free-continuing-education-credits)
 - [Cisco Innovation for Payment Solutions](https://feedpress.me/link/23532/16247343/cisco-innovation-for-payment-solutions)
 - [Converge Networking and Security with the Right SASE](https://feedpress.me/link/23532/16245727/converge-networking-and-security-with-the-right-sase)
-- [Starbucks Open Sources Their Terraform Provider for Meraki Networks](https://feedpress.me/link/23532/16247503/starbucksmeraki01)
-- [Cisco and Cohesity Join Forces Again to Unlock Value of Data in Hybrid and Multicloud Environments](https://feedpress.me/link/23532/16245325/cisco-and-cohesity-join-forces-again-to-unlock-value-of-data-in-hybrid-and-multicloud-environments)
 <!-- BLOG-POST-LIST:END --> 
