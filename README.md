@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Enhancing the China TAC Partner Enablement Program with Cisco Black Belt Academy](https://feedpress.me/link/23532/16253445/enhancing-the-china-tac-partner-enablement-program-with-cisco-black-belt-academy)
 - [Cultivating Collaborative Innovation: Unlocking the Power with Partners](https://feedpress.me/link/23532/16253237/cultivating-collaborative-innovation-unlocking-the-power-with-partners)
 - [Five Cisco Networking Academy partners receive Golden Bridge Award honors](https://feedpress.me/link/23532/16253027/five-cisco-networking-academy-partners-receive-golden-bridge-award-honors)
 - [Three signals of secure roadways infrastructure](https://feedpress.me/link/23532/16251666/three-signals-of-secure-roadways-infrastructure)
 - [The Plan for Possible: Connecting a regenerative future](https://feedpress.me/link/23532/16251462/the-plan-for-possible-connecting-a-regenerative-future)
-- [The Five Cs: a channel hiring roadmap for the future. And it’s more human.](https://feedpress.me/link/23532/16251409/the-five-cs-a-channel-hiring-roadmap-for-the-future-and-its-more-human)
 <!-- BLOG-POST-LIST:END --> 
