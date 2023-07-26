@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Innovation in the Age of Application Observability](https://feedpress.me/link/23532/16260539/cisco-fso-platform)
 - [Connecting DOTs with IoT for Intelligent Transportation Systems](https://feedpress.me/link/23532/16260456/connecting-dots-with-iot-for-intelligent-transportation-systems)
 - [Advancing Cisco’s Commitment to Accessibility and Disability Inclusion](https://feedpress.me/link/23532/16260388/advancing-ciscos-commitment-to-accessibility-and-disability-inclusion)
 - [It Is Time to Harden Our Global Infrastructure](https://feedpress.me/link/23532/16259150/it-is-time-to-harden-our-global-infrastructure)
 - [Cisco Secure Equipment Access recognized in CRN 2023 Tech Innovators Awards](https://feedpress.me/link/23532/16257796/cisco-secure-equipment-access-recognized-in-crn-2023-tech-innovators-awards)
-- [Update Your Cisco Gear &lpar;Legally and For Less&rpar;](https://feedpress.me/link/23532/16259028/update-your-cisco-gear-legally-and-for-less)
 <!-- BLOG-POST-LIST:END --> 
