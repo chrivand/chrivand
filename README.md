@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Meet our Hybrid Work Hero from the Cisco Global Advocate Awards 2023](https://feedpress.me/link/23532/16260579/meet-our-hybrid-work-hero-from-the-cisco-global-advocate-awards-2023)
+- [Provide State-of-the-Art Endpoint Protection as a Managed Service](https://feedpress.me/link/23532/16260546/provide-state-of-the-art-endpoint-protection-as-a-managed-service)
 - [Innovation in the Age of Application Observability](https://feedpress.me/link/23532/16260539/cisco-fso-platform)
 - [Connecting DOTs with IoT for Intelligent Transportation Systems](https://feedpress.me/link/23532/16260456/connecting-dots-with-iot-for-intelligent-transportation-systems)
 - [Advancing Cisco’s Commitment to Accessibility and Disability Inclusion](https://feedpress.me/link/23532/16260388/advancing-ciscos-commitment-to-accessibility-and-disability-inclusion)
-- [It Is Time to Harden Our Global Infrastructure](https://feedpress.me/link/23532/16259150/it-is-time-to-harden-our-global-infrastructure)
-- [Cisco Secure Equipment Access recognized in CRN 2023 Tech Innovators Awards](https://feedpress.me/link/23532/16257796/cisco-secure-equipment-access-recognized-in-crn-2023-tech-innovators-awards)
 <!-- BLOG-POST-LIST:END --> 
