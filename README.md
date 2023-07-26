@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Zero Trust Blueprint: Safeguarding Manufacturing Operations from Cyber Threats](https://feedpress.me/link/23532/16261681/zero-trust-blueprint-safeguarding-manufacturing-operations-from-cyber-threats)
 - [Trusted Training for Trusted Solutions: Cisco Validated Framework Tutorials on Cisco U.](https://feedpress.me/link/23532/16260629/trusted-training-for-trusted-solutions)
 - [Meet our Hybrid Work Hero from the Cisco Global Advocate Awards 2023](https://feedpress.me/link/23532/16260579/meet-our-hybrid-work-hero-from-the-cisco-global-advocate-awards-2023)
 - [Provide State-of-the-Art Endpoint Protection as a Managed Service](https://feedpress.me/link/23532/16260546/provide-state-of-the-art-endpoint-protection-as-a-managed-service)
 - [Innovation in the Age of Application Observability](https://feedpress.me/link/23532/16260539/cisco-fso-platform)
-- [Connecting DOTs with IoT for Intelligent Transportation Systems](https://feedpress.me/link/23532/16260456/connecting-dots-with-iot-for-intelligent-transportation-systems)
 <!-- BLOG-POST-LIST:END --> 
