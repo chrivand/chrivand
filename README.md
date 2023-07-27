@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Creating Economic Impact Through Digital Innovation and Industry Collaboration](https://feedpress.me/link/23532/16263281/creating-economic-impact-through-digital-innovation-and-industry-collaboration)
+- [Cisco Catalyst SD-WAN is Integrated with Microsoft Sentinel](https://feedpress.me/link/23532/16263244/cisco-catalyst-sd-wan-is-integrated-with-microsoft-sentinel)
 - [Network Resilience: Defending against sophisticated attacks targeting network infrastructure](https://feedpress.me/link/23532/16263039/network-resilience-defending-against-sophisticated-attacks-targeting-network-infrastructure)
 - [The Power of Saying “Yes”](https://feedpress.me/link/23532/16263040/the-power-of-saying-yes)
 - [Zero Trust Blueprint: Safeguarding Manufacturing Operations from Cyber Threats](https://feedpress.me/link/23532/16261681/zero-trust-blueprint-safeguarding-manufacturing-operations-from-cyber-threats)
-- [Trusted Training for Trusted Solutions: Cisco Validated Framework Tutorials on Cisco U.](https://feedpress.me/link/23532/16260629/trusted-training-for-trusted-solutions)
-- [Meet our Hybrid Work Hero from the Cisco Global Advocate Awards 2023](https://feedpress.me/link/23532/16260579/meet-our-hybrid-work-hero-from-the-cisco-global-advocate-awards-2023)
 <!-- BLOG-POST-LIST:END --> 
