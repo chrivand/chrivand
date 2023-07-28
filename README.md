@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [People Behind Purpose at Cisco: During World Day Against Trafficking in Persons, everyone can be an advocate](https://feedpress.me/link/23532/16264703/people-behind-purpose-at-cisco-during-world-day-against-trafficking-in-persons-everyone-can-be-an-advocate)
 - [Celebrating Early in Career Talent on National Intern Day – Securing a Great Career](https://feedpress.me/link/23532/16263540/celebrating-early-in-career-talent-on-national-intern-day-securing-a-great-career)
 - [Celebrating Early in Career Talent on National Intern Day](https://feedpress.me/link/23532/16263342/celebrating-early-in-career-talent-on-national-intern-day)
 - [Creating Economic Impact Through Digital Innovation and Industry Collaboration](https://feedpress.me/link/23532/16263281/creating-economic-impact-through-digital-innovation-and-industry-collaboration)
 - [Cisco Catalyst SD-WAN is Integrated with Microsoft Sentinel](https://feedpress.me/link/23532/16263244/cisco-catalyst-sd-wan-is-integrated-with-microsoft-sentinel)
-- [Network Resilience: Defending against sophisticated attacks targeting network infrastructure](https://feedpress.me/link/23532/16263039/network-resilience-defending-against-sophisticated-attacks-targeting-network-infrastructure)
 <!-- BLOG-POST-LIST:END --> 
