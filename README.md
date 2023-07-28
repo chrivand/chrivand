@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [A Technical Look at IPSEC VPN Tunnel Creation](https://feedpress.me/link/23532/16274101/a-technical-look-at-ipsec-vpn-tunnel-creation)
 - [Partnering for Success in the Age of the Partner](https://feedpress.me/link/23532/16264833/partnering-for-success-in-the-age-of-the-partner)
 - [People Behind Purpose at Cisco: During World Day Against Trafficking in Persons, everyone can be an advocate](https://feedpress.me/link/23532/16264703/people-behind-purpose-at-cisco-during-world-day-against-trafficking-in-persons-everyone-can-be-an-advocate)
 - [Celebrating Early in Career Talent on National Intern Day – Securing a Great Career](https://feedpress.me/link/23532/16263540/celebrating-early-in-career-talent-on-national-intern-day-securing-a-great-career)
 - [Celebrating Early in Career Talent on National Intern Day](https://feedpress.me/link/23532/16263342/celebrating-early-in-career-talent-on-national-intern-day)
-- [Creating Economic Impact Through Digital Innovation and Industry Collaboration](https://feedpress.me/link/23532/16263281/creating-economic-impact-through-digital-innovation-and-industry-collaboration)
 <!-- BLOG-POST-LIST:END --> 
