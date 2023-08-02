@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Hear the Latest on NIST’s Cybersecurity Framework 2.0 &lpar;and Beyond&rpar;](https://feedpress.me/link/23532/16279683/hear-the-latest-on-nists-cybersecurity-framework-2-0-and-beyond)
 - [Just how far can an internship at Cisco take you? Meet a former intern still here 26 years later.](https://feedpress.me/link/23532/16278156/just-how-far-can-an-internship-at-cisco-take-you-meet-a-former-intern-still-here-26-years-later)
 - [Cisco AppDynamics completes Australia’s IRAP assessment](https://feedpress.me/link/23532/16277941/cisco-appdynamics-completes-australias-irap-assessment)
 - [From Risk to Resilience: Ransomware Recovery with Cisco XDR and Cohesity](https://feedpress.me/link/23532/16277942/from-risk-to-resilience-ransomware-recovery-with-cisco-xdr-and-cohesity)
 - [How to Make the Best Out of A Day for Me at Cisco](https://feedpress.me/link/23532/16277939/how-to-make-the-best-out-of-a-day-for-me-at-cisco)
-- [What’s in a Name? The XDR for 2023 and beyond](https://feedpress.me/link/23532/16276628/whats-in-a-name-the-xdr-for-2023-and-beyond)
 <!-- BLOG-POST-LIST:END --> 
