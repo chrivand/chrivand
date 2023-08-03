@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Building a Stronger, More Secure, More Connected Ukraine Together](https://feedpress.me/link/23532/16281510/building-a-stronger-more-secure-more-connected-ukraine-together)
 - [Enhance operational performance and agility through your network](https://feedpress.me/link/23532/16281476/enhance-operational-performance-and-agility-through-your-network)
 - [Phishing for Dummies: Cisco Secure Special Edition](https://feedpress.me/link/23532/16281289/phishing-for-dummies-cisco-secure-special-edition)
 - [Networking Academy Alums Prove Anything Is Possible](https://feedpress.me/link/23532/16280100/networking-academy-alums-prove-anything-is-possible)
 - [New Entry-Level Cisco Certifications: CCST Gains Ground](https://feedpress.me/link/23532/16279862/ccst-entry-level-certs-gaining-ground)
-- [Mining innovation: Underground mining visibility, locating assets and protecting people](https://feedpress.me/link/23532/16279863/mining-innovation-underground-mining-visibility-locating-assets-and-protecting-people)
 <!-- BLOG-POST-LIST:END --> 
