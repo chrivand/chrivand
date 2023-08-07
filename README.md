@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Sustainability 101: What are virgin plastics?](https://feedpress.me/link/23532/16286176/sustainability-101-what-are-virgin-plastics)
 - [CISA Cybersecurity Strategic Plan: An Important Step To Secure Critical Infrastructure](https://feedpress.me/link/23532/16283411/cisa-cybersecurity-strategy)
 - [Expanding data security around the globe](https://feedpress.me/link/23532/16283009/expanding-data-security-around-the-globe)
 - [Building a Stronger, More Secure, More Connected Ukraine Together](https://feedpress.me/link/23532/16281510/building-a-stronger-more-secure-more-connected-ukraine-together)
 - [Enhance operational performance and agility through your network](https://feedpress.me/link/23532/16281476/enhance-operational-performance-and-agility-through-your-network)
-- [Phishing for Dummies: Cisco Secure Special Edition](https://feedpress.me/link/23532/16281289/phishing-for-dummies-cisco-secure-special-edition)
 <!-- BLOG-POST-LIST:END --> 
