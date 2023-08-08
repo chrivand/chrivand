@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [From Small Town to Big City: 6 Impactful Experiences During My 6-month Internship](https://feedpress.me/link/23532/16287785/from-small-town-to-big-city-6-impactful-experiences-during-my-6-month-internship)
+- [Americas FSI Digital Commentary: Ways to Ensure Communication Compliance and Mitigate Risk Right Now](https://feedpress.me/link/23532/16287786/ways-to-ensure-communication-compliance-and-mitigate-risk-right-now)
+- [Working hard and playing hard](https://feedpress.me/link/23532/16287787/working-hard-and-playing-hard)
+- [AI Collaboration Is Anything but Artificial](https://feedpress.me/link/23532/16287788/ai-collaboration-is-anything-but-artificial)
 - [Sustainability 101: What are virgin plastics?](https://feedpress.me/link/23532/16286176/sustainability-101-what-are-virgin-plastics)
-- [CISA Cybersecurity Strategic Plan: An Important Step To Secure Critical Infrastructure](https://feedpress.me/link/23532/16283411/cisa-cybersecurity-strategy)
-- [Expanding data security around the globe](https://feedpress.me/link/23532/16283009/expanding-data-security-around-the-globe)
-- [Building a Stronger, More Secure, More Connected Ukraine Together](https://feedpress.me/link/23532/16281510/building-a-stronger-more-secure-more-connected-ukraine-together)
-- [Enhance operational performance and agility through your network](https://feedpress.me/link/23532/16281476/enhance-operational-performance-and-agility-through-your-network)
 <!-- BLOG-POST-LIST:END --> 
