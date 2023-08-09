@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How Cisco’s Commitment to DEI Helped It Keep One of Its Best Employees for 23 years &lpar;and counting!&rpar;](https://feedpress.me/link/23532/16289785/how-ciscos-commitment-to-dei-helped-it-keep-one-of-its-best-employees-for-23-years-and-counting)
+- [Demonstrating Transparency through Software Bill of Materials &lpar;SBOM&rpar;](https://feedpress.me/link/23532/16289735/demonstrating-transparency-through-software-bill-of-materials-sbom)
 - [Empowering Partner Success: Minimize deployment risk and accelerate your customers’ time to value](https://feedpress.me/link/23532/16288302/empowering-partner-success-minimize-deployment-risk-and-accelerate-your-customers-time-to-value)
 - [From Small Town to Big City: 6 Impactful Experiences During My 6-month Internship](https://feedpress.me/link/23532/16287785/from-small-town-to-big-city-6-impactful-experiences-during-my-6-month-internship)
 - [Americas FSI Digital Commentary: Ways to Ensure Communication Compliance and Mitigate Risk Right Now](https://feedpress.me/link/23532/16287786/ways-to-ensure-communication-compliance-and-mitigate-risk-right-now)
-- [Working hard and playing hard](https://feedpress.me/link/23532/16287787/working-hard-and-playing-hard)
-- [AI Collaboration Is Anything but Artificial](https://feedpress.me/link/23532/16287788/ai-collaboration-is-anything-but-artificial)
 <!-- BLOG-POST-LIST:END --> 
