@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Cisco Drives Full-Stack Observability with Telemetry](https://feedpress.me/link/23532/16292117/open-telemetry)
 - [Inside the Cisco Modeling Labs 2.6 Workbench Revamp](https://feedpress.me/link/23532/16291991/blog-cisco-inside-the-cml-2-6-workbench-revamp)
 - [School Tech Trends: Making Sense of AI, Security, and Future IT Workforce](https://feedpress.me/link/23532/16291410/school-tech-trends-making-sense-of-ai-security-and-future-it-workforce)
 - [Cisco Announces Intent to Acquire Working Group Two](https://feedpress.me/link/23532/16291411/cisco-announces-intent-to-acquire-working-group-two)
 - [A More Resilient Future with Automated Ransomware Recovery](https://feedpress.me/link/23532/16291335/a-more-resilient-future-with-automated-ransomware-recovery)
-- [Maximize Security and Embrace Firewall-as-a-Service from Managed Security Service Providers](https://feedpress.me/link/23532/16289930/maximize-security-and-embrace-firewall-as-a-service-from-managed-security-service-providers)
 <!-- BLOG-POST-LIST:END --> 
