@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [School Tech Trends: Making Sense of AI, Security, and Future IT Workforce](https://feedpress.me/link/23532/16291410/school-tech-trends-making-sense-of-ai-security-and-future-it-workforce)
+- [Cisco Announces Intent to Acquire Working Group Two](https://feedpress.me/link/23532/16291411/cisco-announces-intent-to-acquire-working-group-two)
 - [A More Resilient Future with Automated Ransomware Recovery](https://feedpress.me/link/23532/16291335/a-more-resilient-future-with-automated-ransomware-recovery)
 - [Maximize Security and Embrace Firewall-as-a-Service from Managed Security Service Providers](https://feedpress.me/link/23532/16289930/maximize-security-and-embrace-firewall-as-a-service-from-managed-security-service-providers)
 - [How Cisco’s Commitment to DEI Helped It Keep One of Its Best Employees for 23 years &lpar;and counting!&rpar;](https://feedpress.me/link/23532/16289785/how-ciscos-commitment-to-dei-helped-it-keep-one-of-its-best-employees-for-23-years-and-counting)
-- [Demonstrating Transparency through Software Bill of Materials &lpar;SBOM&rpar;](https://feedpress.me/link/23532/16289735/demonstrating-transparency-through-software-bill-of-materials-sbom)
-- [Empowering Partner Success: Minimize deployment risk and accelerate your customers’ time to value](https://feedpress.me/link/23532/16288302/empowering-partner-success-minimize-deployment-risk-and-accelerate-your-customers-time-to-value)
 <!-- BLOG-POST-LIST:END --> 
