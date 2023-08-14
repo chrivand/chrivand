@@ -31,7 +31,7 @@ He learned coding in C, but currently his favorite language is Python. He also v
 <!-- BLOG-POST-LIST:START -->
 - [Comply to Connect: The Bridge to Zero Trust](https://feedpress.me/link/23532/16295857/comply-to-connect-the-bridge-to-zero-trust)
 - [Why are CEOs Cyber Resilient?](https://feedpress.me/link/23532/16295814/why-are-ceos-cyber-resilient)
-- [Cisco Black Belt for a Reason shows how small contributions make a big impact](https://feedpress.me/link/23532/16293193/cisco-black-belt-for-a-reason-shows-how-small-contributions-make-a-big-impact)
+- [Cisco “Black Belt for a Reason” shows how small contributions make a big impact](https://feedpress.me/link/23532/16293193/cisco-black-belt-for-a-reason-shows-how-small-contributions-make-a-big-impact)
 - [Cisco Drives Full-Stack Observability with Telemetry](https://feedpress.me/link/23532/16292117/open-telemetry)
 - [Inside the Cisco Modeling Labs 2.6 Workbench Revamp](https://feedpress.me/link/23532/16291991/blog-cisco-inside-the-cml-2-6-workbench-revamp)
 <!-- BLOG-POST-LIST:END --> 
