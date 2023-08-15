@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Climate Finance Tracker: Mapping the Climate Finance Ecosystem](https://feedpress.me/link/23532/16297336/climate-finance-tracker-mapping-the-climate-finance-ecosystem)
 - [One Company, Many Careers: My Experiment in Career Growth](https://feedpress.me/link/23532/16297300/one-company-many-careers-my-experiment-in-career-growth)
 - [Comply to Connect: The Bridge to Zero Trust](https://feedpress.me/link/23532/16295857/comply-to-connect-the-bridge-to-zero-trust)
 - [Why are CEOs Cyber Resilient?](https://feedpress.me/link/23532/16295814/why-are-ceos-cyber-resilient)
 - [Cisco “Black Belt for a Reason” shows how small contributions make a big impact](https://feedpress.me/link/23532/16293193/cisco-black-belt-for-a-reason-shows-how-small-contributions-make-a-big-impact)
-- [Cisco Drives Full-Stack Observability with Telemetry](https://feedpress.me/link/23532/16292117/open-telemetry)
 <!-- BLOG-POST-LIST:END --> 
