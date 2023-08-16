@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Hybrid Work for Government: Resiliency in Emergency Situations](https://feedpress.me/link/23532/16299401/hybrid-work-for-government-resiliency-in-emergency-situations)
 - [How to Get a Tech Internship in 5 Steps](https://feedpress.me/link/23532/16298839/how-to-get-a-tech-internship-in-5-steps)
 - [Making Your First Terraform File Doesn’t Have to Be Scary](https://feedpress.me/link/23532/16297696/making-your-first-terraform-file-doesnt-have-to-be-scary)
 - [Utilities Leadership Summit: Three trends, and two surprises](https://feedpress.me/link/23532/16297532/utilities-leadership-summit-three-trends-and-two-surprises)
 - [Cisco Umbrella for Government: Delivering Mission-Critical Security](https://feedpress.me/link/23532/16297458/cisco-umbrella-for-government-delivering-mission-critical-security)
-- [Climate Finance Tracker: Mapping the Climate Finance Ecosystem](https://feedpress.me/link/23532/16297336/climate-finance-tracker-mapping-the-climate-finance-ecosystem)
 <!-- BLOG-POST-LIST:END --> 
