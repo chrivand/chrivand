@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [The Power and Importance of a Free and Open Internet](https://feedpress.me/link/23532/16307167/the-power-and-importance-of-a-free-and-open-internet)
 - [Cybersecurity Funding for  State, Local, and Tribal Nations and Electric Utilities](https://feedpress.me/link/23532/16306972/cybersecurity-funding-for-state-local-and-tribal-nations-and-electric-utilities)
 - [Cisco Networking Academy fostering founders, one learner at a time](https://feedpress.me/link/23532/16306828/cisco-networking-academy-fostering-founders-one-learner-at-a-time)
 - [Demystifying Duo APIs: Advanced Security with Duo Integrations](https://feedpress.me/link/23532/16306643/demystifying-duo-apis-advanced-security-with-duo-integrations)
 - [Cisco Full-Stack Observability Platform: Rapid Development and Partner Collaboration](https://feedpress.me/link/23532/16303424/cisco-fso-platform-2)
-- [Signpost reminds us that great things are possible through collaboration](https://feedpress.me/link/23532/16302423/signpost-reminds-us-that-great-things-are-possible-through-collaboration)
 <!-- BLOG-POST-LIST:END --> 
