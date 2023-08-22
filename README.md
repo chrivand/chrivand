@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Cisco CX Helps Trident Technical College Deliver Secure Educational Services](https://feedpress.me/link/23532/16308397/cisco-cx-helps-trident-technical-college-deliver-secure-educational-services)
 - [The power of INFRAM for providing technology ROI](https://feedpress.me/link/23532/16308318/the-power-of-infram-for-providing-technology-roi)
 - [Unleashing Hidden Talents: From Rubik’s Cubes to Mosaics, Redefining Success through Curiosity and Creativity](https://feedpress.me/link/23532/16308319/unleashing-hidden-talents-from-rubiks-cubes-to-mosaics-this-cisco-intern-redefines-success-through-curiosity-and-creativity)
 - [Increasing your Alpha in Banking](https://feedpress.me/link/23532/16308314/increasing-your-alpha-in-banking)
 - [The Power and Importance of a Free and Open Internet](https://feedpress.me/link/23532/16307167/the-power-and-importance-of-a-free-and-open-internet)
-- [Cybersecurity Funding for  State, Local, and Tribal Nations and Electric Utilities](https://feedpress.me/link/23532/16306972/cybersecurity-funding-for-state-local-and-tribal-nations-and-electric-utilities)
 <!-- BLOG-POST-LIST:END --> 
