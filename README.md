@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Top 10 Ways to Make the Most of Your Cybersecurity Internship](https://feedpress.me/link/23532/16310162/top-10-ways-to-make-the-most-of-your-cybersecurity-internship)
 - [How SD-WAN Solves Multicloud Complexity](https://feedpress.me/link/23532/16299111/how-sd-wan-solves-multicloud-complexity)
 - [Cisco CX Helps Trident Technical College Deliver Secure Educational Services](https://feedpress.me/link/23532/16308397/cisco-cx-helps-trident-technical-college-deliver-secure-educational-services)
 - [The power of INFRAM for providing technology ROI](https://feedpress.me/link/23532/16308318/the-power-of-infram-for-providing-technology-roi)
 - [Unleashing Hidden Talents: From Rubik’s Cubes to Mosaics, Redefining Success through Curiosity and Creativity](https://feedpress.me/link/23532/16308319/unleashing-hidden-talents-from-rubiks-cubes-to-mosaics-this-cisco-intern-redefines-success-through-curiosity-and-creativity)
-- [Increasing your Alpha in Banking](https://feedpress.me/link/23532/16308314/increasing-your-alpha-in-banking)
 <!-- BLOG-POST-LIST:END --> 
