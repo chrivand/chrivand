@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [ThousandEyes Pi4 Wireless Deployment at Black Hat USA](https://feedpress.me/link/23532/16311806/thousandeyes-pi4-wireless-deployment-at-black-hat-usa)
 - [Celebrating 30 Years of the CCIE Certification Program](https://feedpress.me/link/23532/16310646/celebrating-30-years-of-the-ccie-certification-program)
 - [Synchronizing Technology and Organizational Culture for Optimal Outcomes](https://feedpress.me/link/23532/16310427/synchronizing-technology-and-organizational-culture-for-optimal-outcomes)
 - [The Superpower of Partnership: Cisco and Hitachi Vantara Deliver Best-in-class Solutions](https://feedpress.me/link/23532/16310345/the-superpower-of-partnership-cisco-and-hitachi-vantara-deliver-best-in-class-solutions)
 - [Top 10 Ways to Make the Most of Your Cybersecurity Internship](https://feedpress.me/link/23532/16310162/top-10-ways-to-make-the-most-of-your-cybersecurity-internship)
-- [How SD-WAN Solves Multicloud Complexity](https://feedpress.me/link/23532/16299111/how-sd-wan-solves-multicloud-complexity)
 <!-- BLOG-POST-LIST:END --> 
