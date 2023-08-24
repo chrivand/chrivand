@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Building Trust from the Ground Up: The Role of Secure ZTP in Zero Trust Networks](https://feedpress.me/link/23532/16312166/secureztp01)
 - [CloudFabrix helps organizations observe their vSphere environments with cloud native applications on Cisco FSO Platform](https://feedpress.me/link/23532/16312009/cloudfabrix-vsphere-observability-and-data-modernization)
 - [ThousandEyes Pi4 Wireless Deployment at Black Hat USA](https://feedpress.me/link/23532/16311806/thousandeyes-pi4-wireless-deployment-at-black-hat-usa)
 - [Celebrating 30 Years of the CCIE Certification Program](https://feedpress.me/link/23532/16310646/celebrating-30-years-of-the-ccie-certification-program)
-- [Synchronizing Technology and Organizational Culture for Optimal Outcomes](https://feedpress.me/link/23532/16310427/synchronizing-technology-and-organizational-culture-for-optimal-outcomes)
-- [The Superpower of Partnership: Cisco and Hitachi Vantara Deliver Best-in-class Solutions](https://feedpress.me/link/23532/16310345/the-superpower-of-partnership-cisco-and-hitachi-vantara-deliver-best-in-class-solutions)
+- [DevNet Celebrates 10 Years](https://feedpress.me/link/23532/16312167/devnetturnsten01)
 <!-- BLOG-POST-LIST:END --> 
