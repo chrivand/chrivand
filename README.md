@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Akira Ransomware Targeting VPNs without Multi-Factor Authentication](https://feedpress.me/link/23532/16312347/akira-ransomware-targeting-vpns-without-multi-factor-authentication)
 - [Complying with the new TSA mandates to secure the nation’s critical infrastructure](https://feedpress.me/link/23532/16312255/complying-with-the-new-tsa-mandates-to-secure-the-nations-critical-infrastructure)
 - [Building Trust from the Ground Up: The Role of Secure ZTP in Zero Trust Networks](https://feedpress.me/link/23532/16312166/secureztp01)
 - [CloudFabrix helps organizations observe their vSphere environments with cloud native applications on Cisco FSO Platform](https://feedpress.me/link/23532/16312009/cloudfabrix-vsphere-observability-and-data-modernization)
 - [ThousandEyes Pi4 Wireless Deployment at Black Hat USA](https://feedpress.me/link/23532/16311806/thousandeyes-pi4-wireless-deployment-at-black-hat-usa)
-- [Celebrating 30 Years of the CCIE Certification Program](https://feedpress.me/link/23532/16310646/celebrating-30-years-of-the-ccie-certification-program)
 <!-- BLOG-POST-LIST:END --> 
