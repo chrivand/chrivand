@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Raj Bhat: From Neighborhood Walks to Mount Kilimanjaro](https://feedpress.me/link/23532/16320744/raj-bhat-from-neighborhood-walks-to-mount-kilimanjaro)
 - [Returning to Cisco: Discovering Company Values and Culture Matter the Most](https://feedpress.me/link/23532/16320686/returning-to-cisco-discovering-company-values-and-culture-matter-the-most)
 - [Black Hat USA 2023 NOC: Network Assurance](https://feedpress.me/link/23532/16317341/black-hat-usa-2023-noc-network-assurance)
 - [New Cisco Services Help You Achieve Business Outcomes— Faster](https://feedpress.me/link/23532/16316861/new-cisco-services-help-you-achieve-business-outcomes-faster)
 - [Cisco Secure Access will enable MSSPs to provide comprehensive SSE capabilities](https://feedpress.me/link/23532/16313812/cisco-secure-access-will-enable-mssps-to-provide-comprehensive-sse-capabilities)
-- [EPSS and Its Role in Cisco Vulnerability Management Risk Scoring](https://feedpress.me/link/23532/16313480/epss-and-its-role-in-cisco-vulnerability-management-risk-scoring)
 <!-- BLOG-POST-LIST:END --> 
