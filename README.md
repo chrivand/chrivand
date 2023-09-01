@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to run Cisco Modeling Labs in the Cloud](https://feedpress.me/link/23532/16328835/how-to-run-cisco-modeling-labs-in-the-cloud)
 - [From frustration to clarity: Embracing Progressive Disclosure in security design](https://feedpress.me/link/23532/16328584/from-frustration-to-clarity-embracing-progressive-disclosure-in-security-design)
 - [Cisco Partners and Sustainability: We Can Help You Do Your Part](https://feedpress.me/link/23532/16327149/cisco-partners-and-sustainability-we-can-help-you-do-your-part)
 - [Connectivity: reliability, security and sustainability emerge as primary demands for European customers](https://feedpress.me/link/23532/16322186/connectivity-reliability-security-sustainability-demands-for-european-customers)
 - [Manufacturing Leadership Summit: Five Takeaways](https://feedpress.me/link/23532/16322826/manufacturing-leadership-summit-five-takeaways)
-- [My Experience as a First-Time Cisco Live Speaker](https://feedpress.me/link/23532/16321244/my-experience-as-a-first-time-cisco-live-speaker)
 <!-- BLOG-POST-LIST:END --> 
