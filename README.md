@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Cisco and F5 Innovations Power Enhanced Application Performance in a Hybrid, Multi-cloud World](https://feedpress.me/link/23532/16338440/ciscoandf501)
+- [4 Lessons of Success from Our CX SVP, Harry Caldwell](https://feedpress.me/link/23532/16338314/4-lessons-of-success-from-our-cx-svp-harry-caldwell)
+- [What I learned during last year’s World Cleanup Day and why you should participate too](https://feedpress.me/link/23532/16338289/what-i-learned-during-last-years-world-cleanup-day-and-why-you-should-participate-too)
 - [The Ultimate Guide to On-Demand Developer Content from Cisco Live 2023](https://feedpress.me/link/23532/16334766/the-ultimate-guide-to-on-demand-developer-content-from-cisco-live-2023)
 - [Cisco Catalyst IE9300 Rugged Series switches: Enterprise-grade industrial-strength](https://feedpress.me/link/23532/16334590/cisco-catalyst-ie9300-rugged-series-switches-enterprise-grade-industrial-strength)
-- [Data Centers Designed for Sustainability: A Catalyst for Mission Effectiveness &amp; Resiliency](https://feedpress.me/link/23532/16334348/data-centers-designed-for-sustainability-a-catalyst-for-mission-effectiveness-resiliency)
-- [You’re ready for the new SEC cybersecurity rules. Have you included your OT?](https://feedpress.me/link/23532/16334128/youre-ready-for-the-new-sec-cybersecurity-rules-have-you-included-your-ot)
-- [The importance of cybersecurity in the rail industry](https://feedpress.me/link/23532/16332997/the-importance-of-cybersecurity-in-the-rail-industry)
 <!-- BLOG-POST-LIST:END --> 
