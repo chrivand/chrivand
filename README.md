@@ -32,6 +32,6 @@ He learned coding in C, but currently his favorite language is Python. He also v
 - [Tips to optimize your drive-thru](https://feedpress.me/link/23532/16338705/optimize-your-drive-thru)
 - [Five characteristics of highly capable industrial switches](https://feedpress.me/link/23532/16338691/five-characteristics-of-highly-capable-industrial-switches)
 - [Embracing Authentic Connections in a Digital World to Rise Above the Competition](https://feedpress.me/link/23532/16338617/embracing-authentic-connections-in-a-digital-world-to-rise-above-the-competition)
-- [Cisco and F5 Innovations Power Enhanced Application Performance in a Hybrid, Multi-cloud World](https://feedpress.me/link/23532/16338440/ciscoandf501)
 - [What I learned during last year’s World Cleanup Day and why you should participate too](https://feedpress.me/link/23532/16338289/what-i-learned-during-last-years-world-cleanup-day-and-why-you-should-participate-too)
+- [The Ultimate Guide to On-Demand Developer Content from Cisco Live 2023](https://feedpress.me/link/23532/16334766/the-ultimate-guide-to-on-demand-developer-content-from-cisco-live-2023)
 <!-- BLOG-POST-LIST:END --> 
