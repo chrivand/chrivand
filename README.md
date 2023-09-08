@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [The New Normal is Here with Secure Firewall 4200 Series and Threat Defense 7.4](https://feedpress.me/link/23532/16339971/the-new-normal-is-here-with-secure-firewall-4200-series-and-threat-defense-7-4)
 - [Tips to optimize your drive-thru](https://feedpress.me/link/23532/16338705/optimize-your-drive-thru)
 - [Five characteristics of highly capable industrial switches](https://feedpress.me/link/23532/16338691/five-characteristics-of-highly-capable-industrial-switches)
 - [Embracing Authentic Connections in a Digital World to Rise Above the Competition](https://feedpress.me/link/23532/16338617/embracing-authentic-connections-in-a-digital-world-to-rise-above-the-competition)
 - [What I learned during last year’s World Cleanup Day and why you should participate too](https://feedpress.me/link/23532/16338289/what-i-learned-during-last-years-world-cleanup-day-and-why-you-should-participate-too)
-- [The Ultimate Guide to On-Demand Developer Content from Cisco Live 2023](https://feedpress.me/link/23532/16334766/the-ultimate-guide-to-on-demand-developer-content-from-cisco-live-2023)
 <!-- BLOG-POST-LIST:END --> 
