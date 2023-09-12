@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [The Power of Networking: Transforming Industries in the Era of Industry 4.0](https://feedpress.me/link/23532/16346215/the-power-of-networking-transforming-industries-in-the-era-of-industry-4-0)
 - [Cisco Secure Application now delivers business risk observability for cloud environments](https://feedpress.me/link/23532/16346133/cisco-secure-application-now-delivers-business-risk-observability-for-cloud-environments)
 - [Transforming sustainable food systems through transparency and digital inclusion](https://feedpress.me/link/23532/16346069/transforming-sustainable-food-systems-through-transparency-and-digital-inclusion)
 - [The NFL and Cisco: Teaming up for game changing protection](https://feedpress.me/link/23532/16345961/the-nfl-and-cisco-teaming-up-for-game-changing-protection)
 - [Top Themes in Portfolio Explorer for Financial Services](https://feedpress.me/link/23532/16345959/top-themes-in-portfolio-explorer-for-financial-services)
-- [Welcome to a Year in My Life as a Lifelong Learner at Cisco](https://feedpress.me/link/23532/16345960/welcome-to-a-year-in-my-life-as-a-lifelong-learner-at-cisco)
 <!-- BLOG-POST-LIST:END --> 
