@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [The NFL and Cisco: Teaming up for game changing protection](https://feedpress.me/link/23532/16345961/the-nfl-and-cisco-teaming-up-for-game-changing-protection)
+- [Top Themes in Portfolio Explorer for Financial Services](https://feedpress.me/link/23532/16345959/top-themes-in-portfolio-explorer-for-financial-services)
+- [Welcome to a Year in My Life as a Lifelong Learner at Cisco](https://feedpress.me/link/23532/16345960/welcome-to-a-year-in-my-life-as-a-lifelong-learner-at-cisco)
 - [The Journey to CCIE Certification, a Personal Story](https://feedpress.me/link/23532/16344732/the-journey-to-ccie-certification-a-personal-story)
 - [Enhancing Firepower at the National Security Agency](https://feedpress.me/link/23532/16342719/enhancing-firepower-at-the-national-security-agency)
-- [Cisco Welcomes Nicole Isaac as Vice President of Global Public Policy](https://feedpress.me/link/23532/16341735/cisco-welcomes-nicole-isaac-as-vice-president-of-global-public-policy)
-- [Prepare for Managed Services Growth](https://feedpress.me/link/23532/16339992/prepare-for-managed-services-growth)
-- [The New Normal is Here with Secure Firewall 4200 Series and Threat Defense 7.4](https://feedpress.me/link/23532/16339971/the-new-normal-is-here-with-secure-firewall-4200-series-and-threat-defense-7-4)
 <!-- BLOG-POST-LIST:END --> 
