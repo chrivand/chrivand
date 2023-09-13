@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Supercharging offshore wind power connects ScottishPower Renewables with Cisco IoT](https://feedpress.me/link/23532/16347710/supercharging-offshore-wind-power-connects-scottishpower-renewables-with-cisco-iot)
+- [Building a Sustainable Future Together](https://feedpress.me/link/23532/16347660/building-a-sustainable-future-together)
 - [Safeguarding Cross-Border Data Transfers](https://feedpress.me/link/23532/16347498/safeguarding-cross-border-data-transfers)
 - [The Power of Cybersecurity Product Technology Integrations: Strengthening Our Digital Defenses](https://feedpress.me/link/23532/16347499/the-power-of-cybersecurity-product-technology-integrations-strengthening-our-digital-defenses)
 - [Empower your team’s collaborative efforts with ACW](https://feedpress.me/link/23532/16346797/empower-your-teams-collaborative-efforts-with-acw)
-- [The Power of Networking: Transforming Industries in the Era of Industry 4.0](https://feedpress.me/link/23532/16346215/the-power-of-networking-transforming-industries-in-the-era-of-industry-4-0)
-- [Cisco Secure Application now delivers business risk observability for cloud environments](https://feedpress.me/link/23532/16346133/cisco-secure-application-now-delivers-business-risk-observability-for-cloud-environments)
 <!-- BLOG-POST-LIST:END --> 
