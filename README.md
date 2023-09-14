@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Efficiently Managing Meraki Licensing: A Guide for MSPs](https://feedpress.me/link/23532/16349055/efficiently-managing-meraki-licensing-a-guide-for-msps)
+- [Cisco Announces General Availability of the NCS 1014 and 2.4T WDM Line Card](https://feedpress.me/link/23532/16347898/cisco-announces-general-availability-of-the-ncs-1014-and-2-4t-wdm-line-card)
 - [Cisco Secure Access is generally available to secure today’s hyper distributed environments](https://feedpress.me/link/23532/16347921/cisco-secure-access-is-generally-available-to-secure-todays-hyper-distributed-environments)
 - [Supercharging offshore wind power connects ScottishPower Renewables with Cisco IoT](https://feedpress.me/link/23532/16347710/supercharging-offshore-wind-power-connects-scottishpower-renewables-with-cisco-iot)
 - [Building a Sustainable Future Together](https://feedpress.me/link/23532/16347660/building-a-sustainable-future-together)
-- [Safeguarding Cross-Border Data Transfers](https://feedpress.me/link/23532/16347498/safeguarding-cross-border-data-transfers)
-- [The Power of Cybersecurity Product Technology Integrations: Strengthening Our Digital Defenses](https://feedpress.me/link/23532/16347499/the-power-of-cybersecurity-product-technology-integrations-strengthening-our-digital-defenses)
 <!-- BLOG-POST-LIST:END --> 
