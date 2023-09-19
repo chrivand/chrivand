@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [I’m Wendy, It’s Nice to Meet You](https://feedpress.me/link/23532/16355651/im-wendy-its-nice-to-meet-you)
+- [Cisco Umbrella for Government: Continuous Innovation in Cloud Security](https://feedpress.me/link/23532/16355652/cisco-umbrella-for-government-continuous-innovation-in-cloud-security)
 - [Expand Secure Network Analytics with Cisco XDR](https://feedpress.me/link/23532/16354144/expand-secure-network-analytics-with-cisco-xdr)
 - [Cisco and F5 Innovations Power Enhanced Application Performance in a Hybrid and Multi-cloud World](https://feedpress.me/link/23532/16338440/ciscoandf501)
 - [Working Together to Bridge Equity in Talent Sourcing](https://feedpress.me/link/23532/16350625/working-together-to-bridge-equity-in-talent-sourcing)
-- [Getting Work Done Despite the Skills Gap](https://feedpress.me/link/23532/16350312/getting-work-done-despite-the-skills-gap)
-- [Introducing the Official Ansible Collection for Meraki Dashboard API](https://feedpress.me/link/23532/16349274/merakiansiblecollectio01)
 <!-- BLOG-POST-LIST:END --> 
