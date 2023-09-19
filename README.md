@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [See the Air You Breathe with Cisco Spaces](https://feedpress.me/link/23532/16355824/see-the-air-you-breathe-with-cisco-spaces)
+- [Evolutio FinTech module on Cisco FSO Platform gives visibility to financial transactions](https://feedpress.me/link/23532/16355823/evolutio-fintech-on-cisco-fso-platform)
 - [Cisco’s grantee and investee partners share what they look forward to most at Climate Week NYC](https://feedpress.me/link/23532/16355714/ciscos-grantee-and-investee-partners-share-what-they-look-forward-to-most-at-climate-week-nyc)
 - [I’m Wendy, It’s Nice to Meet You](https://feedpress.me/link/23532/16355651/im-wendy-its-nice-to-meet-you)
 - [Cisco Umbrella for Government: Continuous Innovation in Cloud Security](https://feedpress.me/link/23532/16355652/cisco-umbrella-for-government-continuous-innovation-in-cloud-security)
-- [Expand Secure Network Analytics with Cisco XDR](https://feedpress.me/link/23532/16354144/expand-secure-network-analytics-with-cisco-xdr)
-- [Cisco and F5 Innovations Power Enhanced Application Performance in a Hybrid and Multi-cloud World](https://feedpress.me/link/23532/16338440/ciscoandf501)
 <!-- BLOG-POST-LIST:END --> 
