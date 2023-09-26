@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Sustainability 101: What is carbon accounting?](https://feedpress.me/link/23532/16366514/sustainability-101-what-is-carbon-accounting)
 - [How Technology Empowers Me To Break Barriers and Build Bridges](https://feedpress.me/link/23532/16366440/how-technology-empowers-me-to-break-barriers-and-build-bridges)
 - [Activating patients through the digital front door](https://feedpress.me/link/23532/16366441/activating-patients-through-the-digital-front-door)
 - [Cisco Contact Center Delivering Visibility to Improve the Banking Experience](https://feedpress.me/link/23532/16366442/contact-center-delivering-visibility)
 - [The future of roadways and intersections. Coffee and Conversations podcast](https://feedpress.me/link/23532/16361344/the-future-of-roadways-and-intersections-coffee-and-conversations-podcast)
-- [The one with a bank, the cloud, and SASE](https://feedpress.me/link/23532/16359704/the-one-with-a-bank-the-cloud-and-sase)
 <!-- BLOG-POST-LIST:END --> 
