@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Kanari helps organizations with capacity planning using Cisco FSO Platform insights](https://feedpress.me/link/23532/16366665/kanari-capacity-planner-and-forecasting-module-on-cisco-fso-platform)
+- [Let’s be Greater Together at Cisco Partner Summit 2023](https://feedpress.me/link/23532/16366653/lets-be-greater-together-at-cisco-partner-summit-2023)
 - [Sustainability 101: What is carbon accounting?](https://feedpress.me/link/23532/16366514/sustainability-101-what-is-carbon-accounting)
 - [How Technology Empowers Me To Break Barriers and Build Bridges](https://feedpress.me/link/23532/16366440/how-technology-empowers-me-to-break-barriers-and-build-bridges)
 - [Activating patients through the digital front door](https://feedpress.me/link/23532/16366441/activating-patients-through-the-digital-front-door)
-- [Cisco Contact Center Delivering Visibility to Improve the Banking Experience](https://feedpress.me/link/23532/16366442/contact-center-delivering-visibility)
-- [The future of roadways and intersections. Coffee and Conversations podcast](https://feedpress.me/link/23532/16361344/the-future-of-roadways-and-intersections-coffee-and-conversations-podcast)
 <!-- BLOG-POST-LIST:END --> 
