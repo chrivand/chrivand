@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Distributed ZTNA enables simple and scalable secure remote access to OT assets](https://feedpress.me/link/23532/16369870/distributed-ztna-enables-simple-and-scalable-secure-remote-access-to-ot-assets)
 - [Unifying Security: Elevate Your Zero Trust Strategy with Cisco’s Duo and Cisco Secure Access](https://feedpress.me/link/23532/16369563/unifying-security-elevate-your-zero-trust-strategy-with-ciscos-duo-and-cisco-secure-access)
 - [2023: The Big Shift to Managed Services](https://feedpress.me/link/23532/16368235/2023-the-big-shift-to-managed-services)
 - [Kickstart your journey to IPv6 with Segment Routing over IPv6 &lpar;SRv6&rpar;](https://feedpress.me/link/23532/16368226/kickstart-your-journey-to-ipv6-with-segment-routing-over-ipv6-srv6)
 - [Empowering youth to combat climate change through service years](https://feedpress.me/link/23532/16368097/empowering-youth-to-combat-climate-change-through-service-years)
-- [Innovation + impact = A rewarding career in security](https://feedpress.me/link/23532/16368050/innovation-impact-a-rewarding-career-in-security)
 <!-- BLOG-POST-LIST:END --> 
