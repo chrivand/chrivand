@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Cisco Compute Hyperconverged with Nutanix: A Simpler Path to Hybrid Multicloud Is Here](https://feedpress.me/link/23532/16375231/cisco-compute-hyperconverged-with-nutanix-a-simpler-path-to-hybrid-multicloud-is-here)
 - [Powering the Experience-Driven Institution](https://feedpress.me/link/23532/16375061/powering-the-experience-driven-institution)
+- [Investing in your success scaling SMB sales like never before](https://feedpress.me/link/23532/16375190/investing-in-your-success-scaling-smb-sales-like-never-before)
 - [Grow Your Managed Services Business with AI-Driven Managed Intelligent Workspaces](https://feedpress.me/link/23532/16375103/grow-your-managed-services-business-with-ai-driven-managed-intelligent-workspaces)
 - [When it Comes to Compliance Requirements – Topology Matters!](https://feedpress.me/link/23532/16372220/topology-matters)
-- [Debbie goes from being a full-time mother to a dynamo in networking](https://feedpress.me/link/23532/16370771/debbie-goes-from-being-a-full-time-mother-to-a-dynamo-in-networking)
-- [Distributed ZTNA enables simple and scalable secure remote access to OT assets](https://feedpress.me/link/23532/16369870/distributed-ztna-enables-simple-and-scalable-secure-remote-access-to-ot-assets)
 <!-- BLOG-POST-LIST:END --> 
