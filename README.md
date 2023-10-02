@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Powering the Experience-Driven Institution](https://feedpress.me/link/23532/16375061/powering-the-experience-driven-institution)
+- [Grow Your Managed Services Business with AI-Driven Managed Intelligent Workspaces](https://feedpress.me/link/23532/16375103/grow-your-managed-services-business-with-ai-driven-managed-intelligent-workspaces)
 - [When it Comes to Compliance Requirements – Topology Matters!](https://feedpress.me/link/23532/16372220/topology-matters)
 - [Debbie goes from being a full-time mother to a dynamo in networking](https://feedpress.me/link/23532/16370771/debbie-goes-from-being-a-full-time-mother-to-a-dynamo-in-networking)
 - [Distributed ZTNA enables simple and scalable secure remote access to OT assets](https://feedpress.me/link/23532/16369870/distributed-ztna-enables-simple-and-scalable-secure-remote-access-to-ot-assets)
-- [Unifying Security: Elevate Your Zero Trust Strategy with Cisco’s Duo and Cisco Secure Access](https://feedpress.me/link/23532/16369563/unifying-security-elevate-your-zero-trust-strategy-with-ciscos-duo-and-cisco-secure-access)
-- [2023: The Big Shift to Managed Services](https://feedpress.me/link/23532/16368235/2023-the-big-shift-to-managed-services)
 <!-- BLOG-POST-LIST:END --> 
