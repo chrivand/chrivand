@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Cisco Compute Hyperconverged with Nutanix: A Simpler Path to Hybrid Multicloud Is Here](https://feedpress.me/link/23532/16375231/cisco-compute-hyperconverged-with-nutanix-a-simpler-path-to-hybrid-multicloud-is-here)
+- [Cisco’s Digital Impact Office powers digital inclusion across the globe](https://feedpress.me/link/23532/16375263/ciscos-digital-impact-office-powers-digital-inclusion-across-the-globe)
 - [Powering the Experience-Driven Institution](https://feedpress.me/link/23532/16375061/powering-the-experience-driven-institution)
 - [Investing in your success scaling SMB sales like never before](https://feedpress.me/link/23532/16375190/investing-in-your-success-scaling-smb-sales-like-never-before)
 - [Grow Your Managed Services Business with AI-Driven Managed Intelligent Workspaces](https://feedpress.me/link/23532/16375103/grow-your-managed-services-business-with-ai-driven-managed-intelligent-workspaces)
-- [When it Comes to Compliance Requirements – Topology Matters!](https://feedpress.me/link/23532/16372220/topology-matters)
+- [Cisco Compute Hyperconverged with Nutanix: A Simpler Path to Hybrid Multicloud Is Here](https://feedpress.me/link/23532/16375231/cisco-compute-hyperconverged-with-nutanix-a-simpler-path-to-hybrid-multicloud-is-here)
 <!-- BLOG-POST-LIST:END --> 
