@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Lift up and empower your associates](https://feedpress.me/link/23532/16377741/empower-your-associates)
+- [The complexity of the web of life](https://feedpress.me/link/23532/16377708/the-complexity-of-the-web-of-life)
 - [Forecasting Capacity in Cisco Catalyst SD-WAN](https://feedpress.me/link/23532/16377648/forecasting-capacity-in-cisco-catalyst-sd-wan)
 - [Shining a Light on Partners on Customer Experience &lpar;CX&rpar; Day!](https://feedpress.me/link/23532/16377542/shining-a-light-on-partners-on-customer-experience-cx-day)
 - [How El Camino Health uses HIMSS INFRAM to avoid costly IT mistakes](https://feedpress.me/link/23532/16377498/how-el-camino-health-uses-himss-infram-to-avoid-costly-it-mistakes)
-- [Grab a Chair, Girls. You Belong in STEM.](https://feedpress.me/link/23532/16377497/grab-a-chair-girls-you-belong-in-stem)
-- [A Day in the Life of CX is better with YOU!](https://feedpress.me/link/23532/16376683/a-day-in-the-life-of-cx-is-better-with-you)
 <!-- BLOG-POST-LIST:END --> 
