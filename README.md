@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Cisco Refresh reinforces sustainability efforts](https://feedpress.me/link/23532/16378952/cisco-refresh-reinforces-sustainability-efforts)
+- [Driving a Successful Sustainability Agenda – A Deep Dive into a Holistic Approach](https://feedpress.me/link/23532/16378876/driving-a-successful-sustainability-agenda-a-deep-dive-into-a-holistic-approach)
 - [Lift up and empower your associates](https://feedpress.me/link/23532/16377741/empower-your-associates)
 - [The complexity of the web of life](https://feedpress.me/link/23532/16377708/the-complexity-of-the-web-of-life)
 - [Forecasting Capacity in Cisco Catalyst SD-WAN](https://feedpress.me/link/23532/16377648/forecasting-capacity-in-cisco-catalyst-sd-wan)
-- [Shining a Light on Partners on Customer Experience &lpar;CX&rpar; Day!](https://feedpress.me/link/23532/16377542/shining-a-light-on-partners-on-customer-experience-cx-day)
-- [How El Camino Health uses HIMSS INFRAM to avoid costly IT mistakes](https://feedpress.me/link/23532/16377498/how-el-camino-health-uses-himss-infram-to-avoid-costly-it-mistakes)
 <!-- BLOG-POST-LIST:END --> 
