@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Cisco portfolio for transportation: What can we help you solve today?](https://feedpress.me/link/23532/16380095/cisco-portfolio-for-transportation-what-can-we-help-you-solve-today)
 - [Building a transparent Notification Center to Enable Customer Control](https://feedpress.me/link/23532/16379298/building-a-transparent-notification-center-to-enable-customer-control)
 - [Sustainable Tribal Broadband: The real challenge isn’t technology.](https://feedpress.me/link/23532/16379173/sustainable-tribal-broadband-the-real-challenge-isnt-technology)
 - [Cisco Refresh reinforces sustainability efforts](https://feedpress.me/link/23532/16378952/cisco-refresh-reinforces-sustainability-efforts)
 - [Driving a Successful Sustainability Agenda – A Deep Dive into a Holistic Approach](https://feedpress.me/link/23532/16378876/driving-a-successful-sustainability-agenda-a-deep-dive-into-a-holistic-approach)
-- [Lift up and empower your associates](https://feedpress.me/link/23532/16377741/empower-your-associates)
 <!-- BLOG-POST-LIST:END --> 
