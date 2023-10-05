@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Reduce your Managed Services TCO &lpar;Total Cost of Ownership&rpar; with Secure MSP Center](https://feedpress.me/link/23532/16381337/reduce-your-managed-services-tco-total-cost-of-ownership-with-secure-msp-center)
 - [NSO Playground, A New Environment Available on Cisco Code Exchange](https://feedpress.me/link/23532/16380305/nsoplayground01)
 - [Cisco portfolio for transportation: What can we help you solve today?](https://feedpress.me/link/23532/16380095/cisco-portfolio-for-transportation-what-can-we-help-you-solve-today)
 - [Building a transparent Notification Center to Enable Customer Control](https://feedpress.me/link/23532/16379298/building-a-transparent-notification-center-to-enable-customer-control)
 - [Sustainable Tribal Broadband: The real challenge isn’t technology.](https://feedpress.me/link/23532/16379173/sustainable-tribal-broadband-the-real-challenge-isnt-technology)
-- [Cisco Refresh reinforces sustainability efforts](https://feedpress.me/link/23532/16378952/cisco-refresh-reinforces-sustainability-efforts)
 <!-- BLOG-POST-LIST:END --> 
