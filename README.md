@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [More than an Asset: The People Side of Mergers &amp; Acquisitions](https://feedpress.me/link/23532/16382859/more-than-an-asset-the-people-side-of-mergers-acquisitions)
 - [Spice up Cybersecurity Awareness Month with Free Security Tutorials in Cisco U.](https://feedpress.me/link/23532/16381862/spice-up-cybersecurity-awareness-month-with-free-security-tutorials-in-cisco-u)
 - [New bundles make it easy to start your Cisco Full-Stack Observability journey](https://feedpress.me/link/23532/16381622/cisco-full-stack-observability-bundles)
 - [End-to-End Visibility and Actionable Insights Underpin Great Connected Experiences](https://feedpress.me/link/23532/16381533/end-to-end-visibility-and-actionable-insights-underpin-great-connected-experiences)
 - [Cisco CX Collaborates with Puntonet on Network Modernization](https://feedpress.me/link/23532/16381457/cisco-cx-collaborates-with-puntonet-on-network-modernization)
-- [Reduce your Managed Services TCO &lpar;Total Cost of Ownership&rpar; with Secure MSP Center](https://feedpress.me/link/23532/16381337/reduce-your-managed-services-tco-total-cost-of-ownership-with-secure-msp-center)
 <!-- BLOG-POST-LIST:END --> 
