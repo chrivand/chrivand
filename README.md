@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [It’s “by mistake” – How I got into Cybersecurity](https://feedpress.me/link/23532/16386298/its-by-mistake-how-i-got-into-cybersecurity)
 - [Choosing a Cisco partner with the expertise you need](https://feedpress.me/link/23532/16383035/choosing-a-cisco-partner-with-the-expertise-you-need)
 - [More than an Asset: The People Side of Mergers &amp; Acquisitions](https://feedpress.me/link/23532/16382859/more-than-an-asset-the-people-side-of-mergers-acquisitions)
 - [Spice up Cybersecurity Awareness Month with Free Security Tutorials in Cisco U.](https://feedpress.me/link/23532/16381862/spice-up-cybersecurity-awareness-month-with-free-security-tutorials-in-cisco-u)
 - [New bundles make it easy to start your Cisco Full-Stack Observability journey](https://feedpress.me/link/23532/16381622/cisco-full-stack-observability-bundles)
-- [End-to-End Visibility and Actionable Insights Underpin Great Connected Experiences](https://feedpress.me/link/23532/16381533/end-to-end-visibility-and-actionable-insights-underpin-great-connected-experiences)
 <!-- BLOG-POST-LIST:END --> 
