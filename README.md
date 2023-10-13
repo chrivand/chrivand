@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Flying in Pairs](https://feedpress.me/link/23532/16393946/flying-in-pairs)
 - [Securing the Modern Hyper-Distributed Network: Perspectives from the 2023 Gartner Magic Quadrant™ for SD-WAN](https://feedpress.me/link/23532/16393860/securing-the-modern-hyper-distributed-network-perspectives-from-the-2023-gartner-magic-quadrant-for-sd-wan)
 - [Partner Summit 2023 – Powering up for Profitability and Growth in EMEA!](https://feedpress.me/link/23532/16392321/partner-summit-2023-powering-up-for-profitability-and-growth-in-emea)
 - [Cisco Black Belt Partner Listening Program: Pioneering Success through Partner Engagement](https://feedpress.me/link/23532/16391074/cisco-black-belt-partner-listening-program-pioneering-success-through-partner-engagement)
 - [The New Normal: How XDR is Tackling Social Engineering in Today’s World](https://feedpress.me/link/23532/16390346/the-new-normal-how-xdr-is-tackling-social-engineering-in-todays-world)
-- [Stay Focused – Don’t Be Distracted by Bright, Shiny Objects](https://feedpress.me/link/23532/16389300/stay-focused-dont-be-distracted-by-bright-shiny-objects)
 <!-- BLOG-POST-LIST:END --> 
