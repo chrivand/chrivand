@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [New Cybersecurity and Cloud skills to protect companies from cybersecurity attacks of the future](https://feedpress.me/link/23532/16396366/new-cybersecurity-and-cloud-skills-to-protect-companies-from-cybersecurity-attacks-of-the-future)
+- [Enabling a new generation of AI with Ethernet](https://feedpress.me/link/23532/16396384/enabling-a-new-generation-of-ai-with-ethernet)
 - [Up, Up, and Away to the Clouds: Cisco Multicloud Specialist Certifications](https://feedpress.me/link/23532/16394194/up-up-and-away-to-the-clouds-cisco-multicloud-specialist-certifications)
 - [Embracing Heritage: A Journey of Resilience and Leadership](https://feedpress.me/link/23532/16394115/embracing-heritage-a-journey-of-resilience-and-leadership)
 - [Securing the Modern Hyper-Distributed Network: Perspectives from the 2023 Gartner Magic Quadrant™ for SD-WAN](https://feedpress.me/link/23532/16393860/securing-the-modern-hyper-distributed-network-perspectives-from-the-2023-gartner-magic-quadrant-for-sd-wan)
-- [Partner Summit 2023 – Powering up for Profitability and Growth in EMEA!](https://feedpress.me/link/23532/16392321/partner-summit-2023-powering-up-for-profitability-and-growth-in-emea)
-- [Cisco Black Belt Partner Listening Program: Pioneering Success through Partner Engagement](https://feedpress.me/link/23532/16391074/cisco-black-belt-partner-listening-program-pioneering-success-through-partner-engagement)
 <!-- BLOG-POST-LIST:END --> 
