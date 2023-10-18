@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Generation Privacy](https://feedpress.me/link/23532/16400951/generation-privacy)
 - [Cisco Network Automation Developer Days in New York, December 5-6](https://feedpress.me/link/23532/16397135/developerdaysus2023)
 - [Hack Your Way to a New Career in Cybersecurity: Cisco Networking Academy offers new Ethical Hacker course](https://feedpress.me/link/23532/16396490/hack-your-way-to-a-new-career-in-cybersecurity)
 - [New Cybersecurity and Cloud Skills to Protect Companies from Cybersecurity Attacks of the Future](https://feedpress.me/link/23532/16396366/new-cybersecurity-and-cloud-skills-to-protect-companies-from-cybersecurity-attacks-of-the-future)
 - [Enabling a new generation of AI with Ethernet](https://feedpress.me/link/23532/16396384/enabling-a-new-generation-of-ai-with-ethernet)
-- [Up, Up, and Away to the Clouds: Cisco Multicloud Specialist Certifications](https://feedpress.me/link/23532/16394194/up-up-and-away-to-the-clouds-cisco-multicloud-specialist-certifications)
 <!-- BLOG-POST-LIST:END --> 
