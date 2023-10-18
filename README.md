@@ -31,7 +31,7 @@ He learned coding in C, but currently his favorite language is Python. He also v
 <!-- BLOG-POST-LIST:START -->
 - [Protecting against Ransomware, how Cisco Umbrella can help meet 2022 FFIEC Regulatory Update](https://feedpress.me/link/23532/16400987/protecting-against-ransomware-how-cisco-umbrella-can-help-meet-2022-ffiec-regulatory-update)
 - [Generation Privacy](https://feedpress.me/link/23532/16400951/generation-privacy)
+- [The Overlooked Risks in Supply Chain Security](https://feedpress.me/link/23532/16401292/the-overlooked-risks-in-supply-chain-security)
 - [Cisco Network Automation Developer Days in New York, December 5-6](https://feedpress.me/link/23532/16397135/developerdaysus2023)
 - [Hack Your Way to a New Career in Cybersecurity: Cisco Networking Academy offers new Ethical Hacker course](https://feedpress.me/link/23532/16396490/hack-your-way-to-a-new-career-in-cybersecurity)
-- [New Cybersecurity and Cloud Skills to Protect Companies from Cybersecurity Attacks of the Future](https://feedpress.me/link/23532/16396366/new-cybersecurity-and-cloud-skills-to-protect-companies-from-cybersecurity-attacks-of-the-future)
 <!-- BLOG-POST-LIST:END --> 
