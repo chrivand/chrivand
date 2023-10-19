@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Hybrid Work in Higher Education: What’s Next?](https://feedpress.me/link/23532/16402486/hybrid-work-in-higher-education-whats-next)
+- [IDC Spotlight: Cisco Secure Access Delivers on Promise of SSE](https://feedpress.me/link/23532/16402450/idc-spotlight-cisco-secure-access-delivers-on-promise-of-sse)
+- [Closing the Cybersecurity Skills Gap and Opening Opportunities](https://feedpress.me/link/23532/16402448/closing-the-cybersecurity-skills-gap-and-opening-opportunities)
 - [Sustainability data — Are we comparing apples and oranges?](https://feedpress.me/link/23532/16402120/sustainability-data-are-we-comparing-apples-and-oranges)
 - [Protecting against Ransomware, how Cisco Umbrella can help meet 2022 FFIEC Regulatory Update](https://feedpress.me/link/23532/16400987/protecting-against-ransomware-how-cisco-umbrella-can-help-meet-2022-ffiec-regulatory-update)
-- [Generation Privacy](https://feedpress.me/link/23532/16400951/generation-privacy)
-- [The Overlooked Risks in Supply Chain Security](https://feedpress.me/link/23532/16401292/the-overlooked-risks-in-supply-chain-security)
-- [Cisco Network Automation Developer Days in New York, December 5-6](https://feedpress.me/link/23532/16397135/developerdaysus2023)
 <!-- BLOG-POST-LIST:END --> 
