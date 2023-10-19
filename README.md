@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Sustainability data — Are we comparing apples and oranges?](https://feedpress.me/link/23532/16402120/sustainability-data-are-we-comparing-apples-and-oranges)
 - [Protecting against Ransomware, how Cisco Umbrella can help meet 2022 FFIEC Regulatory Update](https://feedpress.me/link/23532/16400987/protecting-against-ransomware-how-cisco-umbrella-can-help-meet-2022-ffiec-regulatory-update)
 - [Generation Privacy](https://feedpress.me/link/23532/16400951/generation-privacy)
 - [The Overlooked Risks in Supply Chain Security](https://feedpress.me/link/23532/16401292/the-overlooked-risks-in-supply-chain-security)
 - [Cisco Network Automation Developer Days in New York, December 5-6](https://feedpress.me/link/23532/16397135/developerdaysus2023)
-- [Hack Your Way to a New Career in Cybersecurity: Cisco Networking Academy offers new Ethical Hacker course](https://feedpress.me/link/23532/16396490/hack-your-way-to-a-new-career-in-cybersecurity)
 <!-- BLOG-POST-LIST:END --> 
