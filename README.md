@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Explorations in the spam folder: A sum greater than the parts](https://feedpress.me/link/23532/16403609/explorations-in-the-spam-folder-a-sum-greater-than-the-parts)
 - [Protecting industrial networks from cyber threats. Where do I start?](https://feedpress.me/link/23532/16402669/protecting-industrial-networks-from-cyber-threats-where-do-i-start)
 - [Hybrid Work in Higher Education: What’s Next?](https://feedpress.me/link/23532/16402486/hybrid-work-in-higher-education-whats-next)
 - [IDC Spotlight: Cisco Secure Access Delivers on Promise of SSE](https://feedpress.me/link/23532/16402450/idc-spotlight-cisco-secure-access-delivers-on-promise-of-sse)
 - [Closing the Cybersecurity Skills Gap and Opening Opportunities](https://feedpress.me/link/23532/16402448/closing-the-cybersecurity-skills-gap-and-opening-opportunities)
-- [Sustainability data — Are we comparing apples and oranges?](https://feedpress.me/link/23532/16402120/sustainability-data-are-we-comparing-apples-and-oranges)
 <!-- BLOG-POST-LIST:END --> 
