@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Cisco Catalyst SD-WAN: Driving High Efficiency on AWS Cloud WAN using Tunnel-less Connect](https://feedpress.me/link/23532/16406990/cisco-catalyst-sd-wan-driving-high-efficiency-on-aws-cloud-wan-using-tunnel-less-connect)
+- [Multi-region connectivity just got faster and easier with Meraki vMX and AWS Cloud WAN](https://feedpress.me/link/23532/16406991/multi-region-connectivity-just-got-faster-and-easier-with-meraki-vmx-and-aws-cloud-wan)
 - [Labels for Consumer IoT Devices? Cisco’s View](https://feedpress.me/link/23532/16406759/iot-consumer-label)
 - [How FlexPod Cybersecure Architecture Helps You Protect, Detect, and Recover Your Precious Data](https://feedpress.me/link/23532/16406726/how-flexpod-cybersecure-architecture-helps-you-protect-detect-and-recover-your-precious-data)
 - [Sustainability 101: What is embodied carbon?](https://feedpress.me/link/23532/16406606/sustainability-101-what-is-embodied-carbon)
-- [Improve protection and simplify security with Cisco Security](https://feedpress.me/link/23532/16406555/improve-protection-and-simplify-security-with-cisco-security)
-- [Unlocking Success in the Digital Landscape: Deloitte and Cisco](https://feedpress.me/link/23532/16404193/unlocking-success-in-the-digital-landscape-deloitte-and-cisco)
 <!-- BLOG-POST-LIST:END --> 
