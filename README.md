@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Sustainability 101: What is embodied carbon?](https://feedpress.me/link/23532/16406606/sustainability-101-what-is-embodied-carbon)
+- [Improve protection and simplify security with Cisco Security](https://feedpress.me/link/23532/16406555/improve-protection-and-simplify-security-with-cisco-security)
 - [Unlocking Success in the Digital Landscape: Deloitte and Cisco](https://feedpress.me/link/23532/16404193/unlocking-success-in-the-digital-landscape-deloitte-and-cisco)
 - [Learning Partner Strategies Can Add Movement and Balance on Your Journey](https://feedpress.me/link/23532/16404187/learning-partner-strategies-can-add-movement-and-balance-on-your-journey)
 - [Maximizing the Value of Your Technology Investments](https://feedpress.me/link/23532/16404058/maximizing-the-value-of-your-technology-investments)
-- [An opportunity and a responsibility](https://feedpress.me/link/23532/16403908/an-opportunity-and-a-responsibility)
-- [Explorations in the spam folder: A sum greater than the parts](https://feedpress.me/link/23532/16403609/explorations-in-the-spam-folder-a-sum-greater-than-the-parts)
 <!-- BLOG-POST-LIST:END --> 
