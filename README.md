@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Rev up for the Last Lap of Cybersecurity Awareness Month](https://feedpress.me/link/23532/16407321/rev-up-for-the-last-lap-of-cybersecurity-awareness-month)
 - [Labels for Consumer IoT Devices? Cisco’s View](https://feedpress.me/link/23532/16406759/iot-consumer-label)
 - [How FlexPod Cybersecure Architecture Helps You Protect, Detect, and Recover Your Precious Data](https://feedpress.me/link/23532/16406726/how-flexpod-cybersecure-architecture-helps-you-protect-detect-and-recover-your-precious-data)
 - [Sustainability 101: What is embodied carbon?](https://feedpress.me/link/23532/16406606/sustainability-101-what-is-embodied-carbon)
 - [Improve protection and simplify security with Cisco Security](https://feedpress.me/link/23532/16406555/improve-protection-and-simplify-security-with-cisco-security)
-- [Unlocking Success in the Digital Landscape: Deloitte and Cisco](https://feedpress.me/link/23532/16404193/unlocking-success-in-the-digital-landscape-deloitte-and-cisco)
 <!-- BLOG-POST-LIST:END --> 
