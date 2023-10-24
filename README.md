@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Cisco U.’s Live Learning Event: Join the Halloween Fun!](https://feedpress.me/link/23532/16408799/cisco-us-live-learning-event-join-the-halloween-fun)
 - [Prioritizing sustainability can open doors to profitability](https://feedpress.me/link/23532/16408467/prioritizing-sustainability-can-open-doors-to-profitability)
 - [Learn how to revolutionize your applications the Carhartt way](https://feedpress.me/link/23532/16408468/learn-how-to-revolutionize-your-applications-the-carhartt-way)
 - [Driving API Security Forward: Protecting Vehicle-to-Cloud Communications](https://feedpress.me/link/23532/16408345/driving-api-security-forward-protecting-vehicle-to-cloud-communications)
 - [Why access to timely and relevant health information is critical to patient engagement](https://feedpress.me/link/23532/16408287/why-access-to-timely-and-relevant-health-information-is-critical-to-patient-engagement)
-- [Remote Scripts with Cisco Secure Endpoint: Defend your endpoint from attackers without business disruption](https://feedpress.me/link/23532/16408009/remote-scripts-with-cisco-secure-endpoint)
 <!-- BLOG-POST-LIST:END --> 
