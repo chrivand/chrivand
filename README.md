@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [RSA Conference™ 2023 Security Operations Center Findings Report](https://feedpress.me/link/23532/16411458/rsa-conference-2023-security-operations-center-findings-report)
 - [CCIE Security Certification Exam Tips for Success](https://feedpress.me/link/23532/16410621/ccie-security-certification-exam-tips-for-success)
 - [Reporting Custom Metrics to FSO Platform Using the OpenTelemetry SDK](https://feedpress.me/link/23532/16410197/fsocustommetrics01)
 - [SD WAN solutions for utility Distribution Automation](https://feedpress.me/link/23532/16410193/sd-wan-solutions-for-utility-distribution-automation)
 - [It’s “by mistake” – How I got into Cybersecurity](https://feedpress.me/link/23532/16386298/its-by-mistake-how-i-got-into-cybersecurity)
-- [Cisco U.’s Live Learning Event: Join the Halloween Fun!](https://feedpress.me/link/23532/16408799/cisco-us-live-learning-event-join-the-halloween-fun)
 <!-- BLOG-POST-LIST:END --> 
