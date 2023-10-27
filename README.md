@@ -33,5 +33,5 @@ He learned coding in C, but currently his favorite language is Python. He also v
 - [Cisco report reveals observability as the new strategic priority for IT leaders](https://feedpress.me/link/23532/16413142/cisco-report-reveals-observability-as-the-new-strategic-priority-for-it-leaders)
 - [How to Begin Observability at the Data Source](https://feedpress.me/link/23532/16412340/edgedelta01)
 - [Evolve to Cloud-Enforced Security to Empower Your Anywhere Workforce](https://feedpress.me/link/23532/16411656/evolve-to-cloud-enforced-security-to-empower-your-anywhere-workforce)
-- [Be You, With Us: Empowering Diverse Authentic Voices in Corporate Spaces](https://feedpress.me/link/23532/16411774/be-you-with-us-empowering-diverse-authentic-voices-in-corporate-spaces)
+- [Be You, With Us: Empowering Diverse Authentic Voices in Corporate Spaces](https://feedpress.me/link/23532/16411658/be-you-with-us-empowering-diverse-authentic-voices-in-corporate-spaces)
 <!-- BLOG-POST-LIST:END --> 
