@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Empowering Partner Success: How Cisco’s PXP Transforms the Partner Experience](https://feedpress.me/link/23532/16413185/empowering-partner-success-how-ciscos-pxp-transforms-the-partner-experience)
 - [Cisco report reveals observability as the new strategic priority for IT leaders](https://feedpress.me/link/23532/16413142/cisco-report-reveals-observability-as-the-new-strategic-priority-for-it-leaders)
 - [How to Begin Observability at the Data Source](https://feedpress.me/link/23532/16412340/edgedelta01)
 - [Evolve to Cloud-Enforced Security to Empower Your Anywhere Workforce](https://feedpress.me/link/23532/16411656/evolve-to-cloud-enforced-security-to-empower-your-anywhere-workforce)
 - [Be You, With Us: Empowering Diverse Authentic Voices in Corporate Spaces](https://feedpress.me/link/23532/16411774/be-you-with-us-empowering-diverse-authentic-voices-in-corporate-spaces)
-- [Customer Experience &lpar;CX&rpar; and Partners are Greater Together at Cisco Partner Summit 2023](https://feedpress.me/link/23532/16411657/customer-experience-cx-and-partners-are-greater-together-at-cisco-partner-summit-2023)
 <!-- BLOG-POST-LIST:END --> 
