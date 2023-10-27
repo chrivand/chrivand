@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Begin Observability at the Data Source](https://feedpress.me/link/23532/16412340/edgedelta01)
 - [Evolve to Cloud-Enforced Security to Empower Your Anywhere Workforce](https://feedpress.me/link/23532/16411656/evolve-to-cloud-enforced-security-to-empower-your-anywhere-workforce)
 - [Be You, With Us: Empowering Diverse Authentic Voices in Corporate Spaces](https://feedpress.me/link/23532/16411774/be-you-with-us-empowering-diverse-authentic-voices-in-corporate-spaces)
 - [Customer Experience &lpar;CX&rpar; and Partners are Greater Together at Cisco Partner Summit 2023](https://feedpress.me/link/23532/16411657/customer-experience-cx-and-partners-are-greater-together-at-cisco-partner-summit-2023)
 - [RSA Conference™ 2023 Security Operations Center Findings Report](https://feedpress.me/link/23532/16411458/rsa-conference-2023-security-operations-center-findings-report)
-- [CCIE Security Certification Exam Tips for Success](https://feedpress.me/link/23532/16410621/ccie-security-certification-exam-tips-for-success)
 <!-- BLOG-POST-LIST:END --> 
