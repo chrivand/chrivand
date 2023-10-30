@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Cisco Networking Academy introduces Professional Skills – empowering tomorrow’s leaders](https://feedpress.me/link/23532/16415719/cisco-networking-academy-introduces-professional-skills)
+- [The myth of the long-tail vulnerability](https://feedpress.me/link/23532/16415720/the-myth-of-the-long-tail-vulnerability)
 - [Combating retail theft &amp; fraud](https://feedpress.me/link/23532/16413414/combating-retail-theft-fraud)
 - [After the Deal Closes: Lessons Learned in M&amp;A Cybersecurity](https://feedpress.me/link/23532/16413286/after-the-deal-closes-lessons-learned-in-ma-cybersecurity)
 - [Empowering Partner Success: How Cisco’s PXP Transforms the Partner Experience](https://feedpress.me/link/23532/16413185/empowering-partner-success-how-ciscos-pxp-transforms-the-partner-experience)
-- [Cisco report reveals observability as the new strategic priority for IT leaders](https://feedpress.me/link/23532/16413142/cisco-report-reveals-observability-as-the-new-strategic-priority-for-it-leaders)
-- [How to Begin Observability at the Data Source](https://feedpress.me/link/23532/16412340/edgedelta01)
 <!-- BLOG-POST-LIST:END --> 
