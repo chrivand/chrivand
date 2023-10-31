@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Preventing E-Communication Fines in Financial Services](https://feedpress.me/link/23532/16417364/prevent-e-communication-fines)
+- [Determining the 10 most critical vulnerabilities on your network](https://feedpress.me/link/23532/16417368/determining-the-10-most-critical-vulnerabilities-on-your-network)
+- [Collaboration Comes Together in San FranCISCO](https://feedpress.me/link/23532/16417365/collaboration-comes-together-in-san-francisco)
 - [An Anchor in the Race](https://feedpress.me/link/23532/16416351/an-anchor-in-the-race)
 - [Cisco Americas Partner Organization: Laser Focused on Customer and Partner Success](https://feedpress.me/link/23532/16416064/cisco-americas-partner-organization-laser-focused-on-customer-and-partner-success)
-- [Cisco Networking Academy introduces Professional Skills – empowering tomorrow’s leaders](https://feedpress.me/link/23532/16415719/cisco-networking-academy-introduces-professional-skills)
-- [The myth of the long-tail vulnerability](https://feedpress.me/link/23532/16415720/the-myth-of-the-long-tail-vulnerability)
-- [Combating retail theft &amp; fraud](https://feedpress.me/link/23532/16413414/combating-retail-theft-fraud)
 <!-- BLOG-POST-LIST:END --> 
