@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Cisco’s Catalyst SD-WAN: Now available through Azure Marketplace Multiparty Partner Offers Program](https://feedpress.me/link/23532/16417519/ciscos-catalyst-sd-wan-now-available-through-azure-marketplace-multiparty-partner-offers-program)
 - [Preventing E-Communication Fines in Financial Services](https://feedpress.me/link/23532/16417364/prevent-e-communication-fines)
 - [Determining the 10 most critical vulnerabilities on your network](https://feedpress.me/link/23532/16417368/determining-the-10-most-critical-vulnerabilities-on-your-network)
 - [Collaboration Comes Together in San FranCISCO](https://feedpress.me/link/23532/16417365/collaboration-comes-together-in-san-francisco)
 - [An Anchor in the Race](https://feedpress.me/link/23532/16416351/an-anchor-in-the-race)
-- [Cisco Americas Partner Organization: Laser Focused on Customer and Partner Success](https://feedpress.me/link/23532/16416064/cisco-americas-partner-organization-laser-focused-on-customer-and-partner-success)
 <!-- BLOG-POST-LIST:END --> 
