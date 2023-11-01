@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Cisco at Smart City Expo World Congress &lpar;SCEWC&rpar; 2023](https://feedpress.me/link/23532/16420582/cisco-at-smart-city-expo-world-congress-scewc-2023)
+- [Cisco Security + Partners = Greater Together](https://feedpress.me/link/23532/16420449/cisco-security-partners-greater-together)
 - [Extortionware – how bad actors are taking the shortest path to your money](https://feedpress.me/link/23532/16419943/extortionware-how-bad-actors-are-taking-the-shortest-path-to-your-money)
 - [The Power of AI, New Products, and Partner Excellence](https://feedpress.me/link/23532/16417733/the-power-of-ai-new-products-and-partner-excellence)
 - [Cisco’s Catalyst SD-WAN: Now available through Azure Marketplace Multiparty Partner Offers Program](https://feedpress.me/link/23532/16417519/ciscos-catalyst-sd-wan-now-available-through-azure-marketplace-multiparty-partner-offers-program)
-- [Preventing E-Communication Fines in Financial Services](https://feedpress.me/link/23532/16417364/prevent-e-communication-fines)
-- [Determining the 10 most critical vulnerabilities on your network](https://feedpress.me/link/23532/16417368/determining-the-10-most-critical-vulnerabilities-on-your-network)
 <!-- BLOG-POST-LIST:END --> 
