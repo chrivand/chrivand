@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Cloud Connectivity: Learn How to Connect the Cloud &lpar;The Right Way&rpar;](https://feedpress.me/link/23532/16432589/cloud-connectivity-learn-how-to-connect-the-cloud-the-right-way)
 - [Cisco Welcomes Rodney Clark to Lead Global Partner Sales](https://feedpress.me/link/23532/16431552/cisco-welcomes-rodney-clark-to-lead-global-partner-sales)
 - [6th Annual Partner Innovation Challenge: Remarkable Growth, Outstanding Winners](https://feedpress.me/link/23532/16431499/6th-annual-partner-innovation-challenge-remarkable-growth-outstanding-winners)
 - [Realize significant value with a true consumption model, increased performance, and comprehensive services](https://feedpress.me/link/23532/16426970/realize-significant-value-with-a-true-consumption-model-increased-performance-and-comprehensive-services)
 - [Responsible AI is built on a foundation of privacy](https://feedpress.me/link/23532/16426971/responsible-ai-is-built-on-a-foundation-of-privacy)
-- [Intuition and Curiosity Mix Well with Technology](https://feedpress.me/link/23532/16426774/intuition-and-curiosity-mix-well-with-technology)
 <!-- BLOG-POST-LIST:END --> 
