@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [6th Annual Partner Innovation Challenge: Remarkable Growth, Outstanding Winners](https://feedpress.me/link/23532/16431499/6th-annual-partner-innovation-challenge-remarkable-growth-outstanding-winners)
 - [Realize significant value with a true consumption model, increased performance, and comprehensive services](https://feedpress.me/link/23532/16426970/realize-significant-value-with-a-true-consumption-model-increased-performance-and-comprehensive-services)
 - [Responsible AI is built on a foundation of privacy](https://feedpress.me/link/23532/16426971/responsible-ai-is-built-on-a-foundation-of-privacy)
 - [Intuition and Curiosity Mix Well with Technology](https://feedpress.me/link/23532/16426774/intuition-and-curiosity-mix-well-with-technology)
 - [Bridging the IT Skills Gap Through SASE: A Path to Radical Simplification and Transformation](https://feedpress.me/link/23532/16423099/bridging-the-it-skills-gap-through-sase-a-path-to-radical-simplification-and-transformation)
-- [Cisco Partner Summit 2023: Know Before You Go](https://feedpress.me/link/23532/16423072/cisco-partner-summit-2023-know-before-you-go)
 <!-- BLOG-POST-LIST:END --> 
