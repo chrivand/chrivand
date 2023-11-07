@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How Splunk and Cisco will Keep Customers at the Center](https://feedpress.me/link/23532/16434202/how-splunk-and-cisco-will-keep-customers-at-the-center)
 - [Time to Simplify: A Fresh Look at Infrastructure and Operations for Artificial Intelligence](https://feedpress.me/link/23532/16433578/time-to-simplify-a-fresh-look-at-infrastructure-and-operations-for-artificial-intelligence)
 - [Cisco further delivers on Full-Stack Observability ecosystem vision](https://feedpress.me/link/23532/16433576/cisco-further-delivers-on-full-stack-observability-ecosystem-vision)
 - [Introducing Cisco User Protection Suite](https://feedpress.me/link/23532/16433563/introducing-cisco-user-protection-suite)
 - [The Evolution of Oil &amp; Gas Industry](https://feedpress.me/link/23532/16432713/the-evolution-of-oil-gas-industry)
-- [Cloud Connectivity: Learn How to Connect the Cloud &lpar;The Right Way&rpar;](https://feedpress.me/link/23532/16432589/cloud-connectivity-learn-how-to-connect-the-cloud-the-right-way)
 <!-- BLOG-POST-LIST:END --> 
