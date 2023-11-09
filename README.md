@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Finding Support as a Navy Reservist at Cisco: My Bridge To Possible](https://feedpress.me/link/23532/16438068/finding-support-as-a-navy-reservist-at-cisco-my-bridge-to-possible)
+- [Introducing Cisco Cloud Protection – Complete Protection, from Ground to Cloud](https://feedpress.me/link/23532/16438069/cisco-cloud-protection-suite-protect-apps-simplify-multicloud-operations)
+- [Unlocking New Opportunities: Cisco Capital’s Next Wave of Partner Innovations](https://feedpress.me/link/23532/16438066/unlocking-new-opportunities-cisco-capitals-next-wave-of-partner-innovations)
+- [Cisco Networking Academy helps veterans with career transition programs](https://feedpress.me/link/23532/16438067/cisco-networking-academy-helps-veterans-with-career-transition-programs)
 - [Intern to DevNet Professional Certification: My Personal Journey](https://feedpress.me/link/23532/16437185/intern-to-devnet-professional-a-personal-journey)
-- [Key Announcements from Cisco Partner Summit 2023](https://feedpress.me/link/23532/16436752/key-announcements-from-cisco-partner-summit-2023)
-- [Greater Together: Cisco Partner Summit 2023 Global Award Winners](https://feedpress.me/link/23532/16436672/greater-together-cisco-partner-summit-2023-global-award-winners)
-- [Is it time to virtualize your factory floor?](https://feedpress.me/link/23532/16436667/is-it-time-to-virtualize-your-factory-floor)
-- [Greater Together! Creating more value at Partner Summit 2023](https://feedpress.me/link/23532/16436469/greater-together-creating-more-value-at-partner-summit-2023)
 <!-- BLOG-POST-LIST:END --> 
