@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [OT remote access: can you trust your technician’s laptop?](https://feedpress.me/link/23532/16438927/ot-remote-access-can-you-trust-your-technicians-laptop)
+- [Meet Swisscom’s Damian Erni, a Cisco Insider Advocate](https://feedpress.me/link/23532/16438854/meet-swisscoms-damian-erni-a-cisco-insider-advocate)
 - [Finding Support as a Navy Reservist at Cisco: My Bridge To Possible](https://feedpress.me/link/23532/16438068/finding-support-as-a-navy-reservist-at-cisco-my-bridge-to-possible)
 - [Introducing Cisco Cloud Protection – Complete Protection, from Ground to Cloud](https://feedpress.me/link/23532/16438069/cisco-cloud-protection-suite-protect-apps-simplify-multicloud-operations)
 - [Unlocking New Opportunities: Cisco Capital’s Next Wave of Partner Innovations](https://feedpress.me/link/23532/16438066/unlocking-new-opportunities-cisco-capitals-next-wave-of-partner-innovations)
-- [Cisco Networking Academy helps veterans with career transition programs](https://feedpress.me/link/23532/16438067/cisco-networking-academy-helps-veterans-with-career-transition-programs)
-- [Intern to DevNet Professional Certification: My Personal Journey](https://feedpress.me/link/23532/16437185/intern-to-devnet-professional-a-personal-journey)
 <!-- BLOG-POST-LIST:END --> 
