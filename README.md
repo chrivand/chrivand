@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [It Takes Three to Make Hybrid Work Go Right](https://feedpress.me/link/23532/16451760/it-takes-three-to-make-hybrid-work-go-right)
+- [Sustainability, Collaboration, and Cisco: A Channel Leader’s Perspective](https://feedpress.me/link/23532/16451734/sustainability-collaboration-and-cisco-a-channel-leaders-perspective)
 - [Innovation and partnership for the AI journey ahead](https://feedpress.me/link/23532/16450613/innovation-and-partnership-for-the-ai-journey-ahead)
 - [ESG Survey results reinforce the multi-faceted benefits of SSE](https://feedpress.me/link/23532/16450612/esg-survey-results-reinforce-the-multi-faceted-benefits-of-sse)
 - [A Journey of Impact and Learning: My Unforgettable Summer at AppDynamics](https://feedpress.me/link/23532/16450611/a-journey-of-impact-and-learning-my-unforgettable-summer-at-appdynamics)
-- [Ways to Improve High Transactional Customer User Experience](https://feedpress.me/link/23532/16450399/high-transactional-customer-user-experience)
-- [Cisco’s Journey to DoD 8140 Accreditation](https://feedpress.me/link/23532/16449753/ciscos-journey-to-dod-8140-accreditation)
 <!-- BLOG-POST-LIST:END --> 
