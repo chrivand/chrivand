@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Innovation and partnership for the AI journey ahead](https://feedpress.me/link/23532/16450613/innovation-and-partnership-for-the-ai-journey-ahead)
+- [ESG Survey results reinforce the multi-faceted benefits of SSE](https://feedpress.me/link/23532/16450612/esg-survey-results-reinforce-the-multi-faceted-benefits-of-sse)
+- [A Journey of Impact and Learning: My Unforgettable Summer at AppDynamics](https://feedpress.me/link/23532/16450611/a-journey-of-impact-and-learning-my-unforgettable-summer-at-appdynamics)
 - [Ways to Improve High Transactional Customer User Experience](https://feedpress.me/link/23532/16450399/high-transactional-customer-user-experience)
 - [Cisco’s Journey to DoD 8140 Accreditation](https://feedpress.me/link/23532/16449753/ciscos-journey-to-dod-8140-accreditation)
-- [Broadband Funding for Community Anchor Institutions](https://feedpress.me/link/23532/16449341/broadband-funding-for-community-anchor-institutions)
-- [Cisco Vulnerability Management Named a Leader in Omdia Universe: RBVM Solutions, 2023](https://feedpress.me/link/23532/16449311/cisco-vulnerability-management-named-a-leader-in-omdia-universe-rbvm-solutions-2023)
-- [Cisco and Rockwell strengthen OT/ICS security with visibility for converged plantwide ethernet &lpar;CPwE&rpar;](https://feedpress.me/link/23532/16439174/cisco-and-rockwell-strengthen-ot-ics-security-with-visibility-for-converged-plantwide-ethernet-cpwe)
 <!-- BLOG-POST-LIST:END --> 
