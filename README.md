@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Ways to Improve High Transactional Customer User Experience](https://feedpress.me/link/23532/16450399/high-transactional-customer-user-experience)
 - [Cisco’s Journey to DoD 8140 Accreditation](https://feedpress.me/link/23532/16449753/ciscos-journey-to-dod-8140-accreditation)
 - [Broadband Funding for Community Anchor Institutions](https://feedpress.me/link/23532/16449341/broadband-funding-for-community-anchor-institutions)
 - [Cisco Vulnerability Management Named a Leader in Omdia Universe: RBVM Solutions, 2023](https://feedpress.me/link/23532/16449311/cisco-vulnerability-management-named-a-leader-in-omdia-universe-rbvm-solutions-2023)
 - [Cisco and Rockwell strengthen OT/ICS security with visibility for converged plantwide ethernet &lpar;CPwE&rpar;](https://feedpress.me/link/23532/16439174/cisco-and-rockwell-strengthen-ot-ics-security-with-visibility-for-converged-plantwide-ethernet-cpwe)
-- [Simplified Partner Tools: Cisco’s First-Ever MSP Support for Exceptional Customer Experiences](https://feedpress.me/link/23532/16438948/simplified-partner-tools-ciscos-first-ever-msp-support-for-exceptional-customer-experiences)
 <!-- BLOG-POST-LIST:END --> 
