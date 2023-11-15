@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How We Create Human Escalation Paths in Cisco’s Digital Experiences](https://feedpress.me/link/23532/16455667/how-we-create-human-escalation-paths-in-ciscos-digital-experiences)
 - [The nominees to the Cybersecurity Defender of 2023 for the Asia Pacific Region.](https://feedpress.me/link/23532/16455562/the-nominees-to-the-cybersecurity-defender-of-2023-for-the-asia-pacific-region)
 - [The Power of LTE 450 for Critical Infrastructure](https://feedpress.me/link/23532/16451949/the-power-of-lte-450-for-critical-infrastructure)
 - [Speeding to Growth: Greater Together with Cisco Security](https://feedpress.me/link/23532/16451918/speeding-to-growth-greater-together-with-cisco-security)
 - [AIOps Drives Exceptional Digital Experience Through Network Assurance](https://feedpress.me/link/23532/16451919/aiops-drives-exceptional-digital-experience-through-network-assurance)
-- [It Takes Three to Make Hybrid Work Go Right](https://feedpress.me/link/23532/16451760/it-takes-three-to-make-hybrid-work-go-right)
 <!-- BLOG-POST-LIST:END --> 
