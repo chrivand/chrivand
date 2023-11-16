@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Partner Summit 2023: Partner managed services is at the heart of transformation!](https://feedpress.me/link/23532/16457644/partner-summit-2023-partner-managed-services-is-at-the-heart-of-transformation)
+- [On-Premises or Public Cloud? Unlocking the Value of Virtual Desktop Infrastructure](https://feedpress.me/link/23532/16457645/on-premises-or-public-cloud-unlocking-the-value-of-virtual-desktop-infrastructure)
 - [Finding the Courage to Continue: Top 3 Takeaways from the Security Outcomes Report for Zero Trust](https://feedpress.me/link/23532/16457449/finding-the-courage-to-continue-top-3-takeaways-from-the-security-outcomes-report-for-zero-trust)
 - [Cisco Partner Summit 2023: Cisco and Partners Truly are Greater Together](https://feedpress.me/link/23532/16455934/cisco-partner-summit-2023-cisco-and-partners-truly-are-greater-together)
 - [Cisco Learning Partners Recognized for Excellence at the 2023 Cisco Learning Partner Awards](https://feedpress.me/link/23532/16455755/cisco-learning-partners-recognized-for-excellence-at-the-2023-cisco-learning-partner-awards)
-- [So How do You Electrify the World’s Largest Single-Owner Vehicle Fleet?](https://feedpress.me/link/23532/16455744/so-how-do-you-electrify-the-worlds-largest-single-owner-vehicle-fleet)
-- [Sunshine, Miami Vice, and an amazing amount of interest in IoT](https://feedpress.me/link/23532/16455714/sunshine-miami-vice-and-an-amazing-amount-of-interest-in-iot)
 <!-- BLOG-POST-LIST:END --> 
