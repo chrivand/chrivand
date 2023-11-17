@@ -33,5 +33,5 @@ He learned coding in C, but currently his favorite language is Python. He also v
 - [Celebrating ThousandEyes’ Partner of the Year: World Wide Technology &lpar;WWT&rpar;](https://feedpress.me/link/23532/16459384/celebrating-thousandeyes-partner-of-the-year-world-wide-technology-wwt)
 - [Beyond the climate jargon: Reflections from climate conference season 2023](https://feedpress.me/link/23532/16459368/beyond-the-climate-jargon-reflections-from-climate-conference-season-2023)
 - [Trading Nouns and Adjectives for Variables and Function Calls](https://feedpress.me/link/23532/16457868/trading-nouns-and-adjectives-for-variables-and-function-calls)
-- [Partner Summit 2023: Partner managed services is at the heart of transformation!](https://feedpress.me/link/23532/16457644/partner-summit-2023-partner-managed-services-is-at-the-heart-of-transformation)
+- [Elevate Your Skills with Meraki APIs at Cisco Live Melbourne](https://feedpress.me/link/23532/16459718/elevate-your-skills-with-meraki-apis-at-cisco-live-melbourne)
 <!-- BLOG-POST-LIST:END --> 
