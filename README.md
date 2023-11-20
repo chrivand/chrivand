@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [The Call to Fuel Partner Success](https://feedpress.me/link/23532/16461729/the-call-to-fuel-partner-success)
 - [Cisco ISE Takes a Trio of TrustRadius Awards](https://feedpress.me/link/23532/16461553/cisco-ise-takes-a-trio-of-trustradius-awards)
 - [Cisco and Our Partners: We Are Greater Together!](https://feedpress.me/link/23532/16459485/cisco-and-our-partners-we-are-greater-together)
 - [Celebrating ThousandEyes’ Partner of the Year: World Wide Technology &lpar;WWT&rpar;](https://feedpress.me/link/23532/16459384/celebrating-thousandeyes-partner-of-the-year-world-wide-technology-wwt)
 - [Beyond the climate jargon: Reflections from climate conference season 2023](https://feedpress.me/link/23532/16459368/beyond-the-climate-jargon-reflections-from-climate-conference-season-2023)
-- [Trading Nouns and Adjectives for Variables and Function Calls](https://feedpress.me/link/23532/16457868/trading-nouns-and-adjectives-for-variables-and-function-calls)
 <!-- BLOG-POST-LIST:END --> 
