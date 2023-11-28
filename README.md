@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [From Vacation to Volunteer: How Hawaii Has Our Hearts and Our Help](https://feedpress.me/link/23532/16471429/from-vacation-to-volunteer-how-hawaii-has-our-hearts-and-our-help)
+- [Challenges, Trends and Opportunities for Healthcare Cybersecurity Leaders](https://feedpress.me/link/23532/16471430/challenges-trends-and-opportunities-for-healthcare-cybersecurity-leaders)
+- [Phil’s Food for Thought – Career Development](https://feedpress.me/link/23532/16471431/phils-food-for-thought-career-development)
 - [Next stop, the future.](https://feedpress.me/link/23532/16470679/next-stop-the-future)
 - [Sustainability 101: What is the circular economy?](https://feedpress.me/link/23532/16470197/sustainability-101-what-is-the-circular-economy)
-- [Transforming career development through AI](https://feedpress.me/link/23532/16470146/transforming-career-development-through-ai)
-- [Building a greener tomorrow: the power of partnerships](https://feedpress.me/link/23532/16470082/building-a-greener-tomorrow-the-power-of-partnerships)
-- [Explore Cisco IOS XE Automation at Cisco Live in Melbourne](https://feedpress.me/link/23532/16470077/iosxeatclapj)
 <!-- BLOG-POST-LIST:END --> 
