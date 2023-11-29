@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [The University as a Living Lab: Driving Research Value and Sustainability](https://feedpress.me/link/23532/16473131/the-university-as-a-living-lab-driving-research-value-and-sustainability)
+- [Sustainability through Cisco’s circular business practices](https://feedpress.me/link/23532/16473104/sustainability-through-ciscos-circular-business-practices)
 - [‘Start Here’ for Lifecycle Practice optimization](https://feedpress.me/link/23532/16472015/start-here-for-lifecycle-practice-optimization)
 - [Powering up in harsh environments: Five questions to ask before selecting the right industrial PoE switch](https://feedpress.me/link/23532/16471895/powering-up-in-harsh-environments-five-questions-to-ask-before-selecting-the-right-industrial-poe-switch)
 - [Delivering application performance to maximize business KPIs](https://feedpress.me/link/23532/16471832/delivering-application-performance-to-maximize-business-kpis)
-- [Cisco Wins the AWS Global ISV Partner of the Year Award!](https://feedpress.me/link/23532/16471833/cisco-wins-the-aws-global-isv-partner-of-the-year-award)
-- [New Innovations to Deliver Enhanced Visibility to AWS-powered Application Experiences](https://feedpress.me/link/23532/16471819/new-innovations-to-deliver-enhanced-visibility-to-aws-powered-application-experiences)
 <!-- BLOG-POST-LIST:END --> 
