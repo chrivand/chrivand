@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Gain control over OT remote access with session monitoring, recording, and termination](https://feedpress.me/link/23532/16475678/gain-control-over-ot-remote-access-with-session-monitoring-recording-and-termination)
+- [Cisco Live 2023, Melbourne: Top 5 Highlights](https://feedpress.me/link/23532/16476011/ciscolivetop5)
+- [Cisco cloud observability and the power of platforms](https://feedpress.me/link/23532/16475733/cisco-cloud-observability-and-the-power-of-platforms)
 - [Unlocking Industrial Data: The EU Data Act](https://feedpress.me/link/23532/16473228/unlocking-industrial-data-the-eu-data-act)
 - [Envisioning AI Mastery in Federal IT: Pioneering a Future of Enhanced Public Service](https://feedpress.me/link/23532/16473187/envisioning-ai-mastery-in-federal-it-pioneering-a-future-of-enhanced-public-service)
-- [Cisco Partner Summit Bus Tracking Pilot](https://feedpress.me/link/23532/16473165/cisco-partner-summit-bus-tracking-pilot)
-- [The University as a Living Lab: Driving Research Value and Sustainability](https://feedpress.me/link/23532/16473131/the-university-as-a-living-lab-driving-research-value-and-sustainability)
-- [Sustainability through Cisco’s circular business practices](https://feedpress.me/link/23532/16473104/sustainability-through-ciscos-circular-business-practices)
 <!-- BLOG-POST-LIST:END --> 
