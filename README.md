@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Unlocking Industrial Data: The EU Data Act](https://feedpress.me/link/23532/16473228/unlocking-industrial-data-the-eu-data-act)
 - [Envisioning AI Mastery in Federal IT: Pioneering a Future of Enhanced Public Service](https://feedpress.me/link/23532/16473187/envisioning-ai-mastery-in-federal-it-pioneering-a-future-of-enhanced-public-service)
 - [Cisco Partner Summit Bus Tracking Pilot](https://feedpress.me/link/23532/16473165/cisco-partner-summit-bus-tracking-pilot)
 - [The University as a Living Lab: Driving Research Value and Sustainability](https://feedpress.me/link/23532/16473131/the-university-as-a-living-lab-driving-research-value-and-sustainability)
 - [Sustainability through Cisco’s circular business practices](https://feedpress.me/link/23532/16473104/sustainability-through-ciscos-circular-business-practices)
-- [‘Start Here’ for Lifecycle Practice optimization](https://feedpress.me/link/23532/16472015/start-here-for-lifecycle-practice-optimization)
 <!-- BLOG-POST-LIST:END --> 
