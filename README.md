@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [New Cisco and Microsoft Partnership is Redefining Hybrid Work and Learning in Universities](https://feedpress.me/link/23532/16477321/new-cisco-and-microsoft-partnership-is-redefining-hybrid-work-and-learning-in-universities)
+- [Cisco expands support to Tribal Colleges and Universities](https://feedpress.me/link/23532/16477285/cisco-expands-support-to-tribal-colleges-and-universities)
+- [Healthy forests: Tribal forestry and science innovations for disaster reduction](https://feedpress.me/link/23532/16477286/healthy-forests-tribal-forestry-and-science-innovations-for-disaster-reduction)
 - [Sharing the Cisco Networking Academy Vision](https://feedpress.me/link/23532/16477226/sharing-the-cisco-networking-academy-vision)
 - [Navigating the DevOps Roadmap](https://feedpress.me/link/23532/16476389/navigating-the-devops-roadmap)
-- [Gain control over OT remote access with session monitoring, recording, and termination](https://feedpress.me/link/23532/16475678/gain-control-over-ot-remote-access-with-session-monitoring-recording-and-termination)
-- [Cisco Live 2023, Melbourne: Top 5 Highlights](https://feedpress.me/link/23532/16476011/ciscolivetop5)
-- [Cisco cloud observability and the power of platforms](https://feedpress.me/link/23532/16475733/cisco-cloud-observability-and-the-power-of-platforms)
 <!-- BLOG-POST-LIST:END --> 
