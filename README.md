@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Navigating Retail Disruption: Maximize Customer Centricity and Business Performance with Observability](https://feedpress.me/link/23532/16484778/observabilityforretail01)
+- [The Rise of Digital Customer Experience](https://feedpress.me/link/23532/16484777/the-rise-of-digital-customer-experience)
 - [The Power of Purpose](https://feedpress.me/link/23532/16484577/the-power-of-purpose)
 - [Give Your Firewall Admins Superpowers with the Cisco AI Assistant for Security](https://feedpress.me/link/23532/16483839/give-your-firewall-admins-superpowers-with-cisco-ai-assistant-for-security)
 - [How We’re Making AI Pervasive in the Cisco Security Cloud](https://feedpress.me/link/23532/16483836/how-were-making-ai-pervasive-in-the-cisco-security-cloud)
-- [Cisco Secure Access Extends SSE Innovation with Mobile Zero Trust and Flexible Resource Connectors](https://feedpress.me/link/23532/16484083/cisco-secure-access-extends-sse-innovation-with-mobile-zero-trust-flexible-resource-connectors)
-- [Webex announces comprehensive Device Management Capabilities with Phonism integration](https://feedpress.me/link/23532/16483685/webex-announces-comprehensive-device-management-capabilities-with-phonism-integration)
 <!-- BLOG-POST-LIST:END --> 
