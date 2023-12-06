@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Give Your Firewall Admins Superpowers with the Cisco AI Assistant for Security](https://feedpress.me/link/23532/16483839/give-your-firewall-admins-superpowers-with-cisco-ai-assistant-for-security)
+- [How We’re Making AI Pervasive in the Cisco Security Cloud](https://feedpress.me/link/23532/16483836/how-were-making-ai-pervasive-in-the-cisco-security-cloud)
+- [Cisco Extends SSE innovation with Mobile Zero Trust and Flexible Resource Connectors](https://feedpress.me/link/23532/16483833/cisco-extends-sse-innovation-with-mobile-zero-trust-flexible-resource-connectors)
 - [Webex announces comprehensive Device Management Capabilities with Phonism integration](https://feedpress.me/link/23532/16483685/webex-announces-comprehensive-device-management-capabilities-with-phonism-integration)
-- [Takeaways from Cisco at InsureTech Connect 2023](https://feedpress.me/link/23532/16483337/takeaways-from-cisco-at-insuretech-connect-2023)
-- [Why We’re a Cisco Family Through and Through](https://feedpress.me/link/23532/16483152/why-were-a-cisco-family-through-and-through)
-- [Data Power: What the EU Data Act Means for You](https://feedpress.me/link/23532/16482930/data-power-the-eu-data-act)
-- [Congratulations to our 2023 CX Customer Hero Award Winners](https://feedpress.me/link/23532/16482897/congratulations-to-our-2023-cx-customer-hero-award-winners)
+- [Cisco CX Empowers Sustainability with Expanded Services](https://feedpress.me/link/23532/16483837/cisco-cx-empowers-sustainability-with-expanded-services)
 <!-- BLOG-POST-LIST:END --> 
