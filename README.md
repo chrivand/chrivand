@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Webex Connect and a New Digital Experience](https://feedpress.me/link/23532/16484892/a-new-digital-experience)
+- [Marketing Trends Heading into 2024](https://feedpress.me/link/23532/16484883/marketing-trends-heading-into-2024)
 - [Navigating Retail Disruption: Maximize Customer Centricity and Business Performance with Observability](https://feedpress.me/link/23532/16484778/observabilityforretail01)
 - [The Rise of Digital Customer Experience](https://feedpress.me/link/23532/16484777/the-rise-of-digital-customer-experience)
 - [The Power of Purpose](https://feedpress.me/link/23532/16484577/the-power-of-purpose)
-- [Give Your Firewall Admins Superpowers with the Cisco AI Assistant for Security](https://feedpress.me/link/23532/16483839/give-your-firewall-admins-superpowers-with-cisco-ai-assistant-for-security)
-- [How We’re Making AI Pervasive in the Cisco Security Cloud](https://feedpress.me/link/23532/16483836/how-were-making-ai-pervasive-in-the-cisco-security-cloud)
 <!-- BLOG-POST-LIST:END --> 
