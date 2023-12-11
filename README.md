@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Happy Holidays and Happy New Year Cisco Distributors](https://feedpress.me/link/23532/16490668/happy-holidays-and-happy-new-year-cisco-distributors)
 - [Security Series: Protecting the Edge Against DDoS Attacks with a Simplified Integrated Solution](https://feedpress.me/link/23532/16490602/security-series-protecting-the-edge-against-ddos-attacks-with-a-simplified-integrated-solution)
 - [Partnering for Sustainability: Cisco’s Collaborative Approach](https://feedpress.me/link/23532/16490493/partnering-for-sustainability-ciscos-collaborative-approach)
 - [Cisco Duo and ISE: Better together in the cybersecurity battlefield](https://feedpress.me/link/23532/16490445/cisco-duo-and-ise-better-together-in-the-cybersecurity-battlefield)
 - [Bringing Simplicity to Security: The Journey of the Cisco Security Cloud](https://feedpress.me/link/23532/16490443/bringing-simplicity-to-security-the-journey-of-the-cisco-security-cloud)
-- [Simplify budgets and purchasing with Cisco Security Suites](https://feedpress.me/link/23532/16490444/simplify-budgets-and-purchasing-with-cisco-security-suites)
 <!-- BLOG-POST-LIST:END --> 
