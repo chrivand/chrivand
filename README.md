@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Partnering for Sustainability: Cisco’s Collaborative Approach](https://feedpress.me/link/23532/16490493/partnering-for-sustainability-ciscos-collaborative-approach)
 - [Cisco Duo and ISE: Better together in the cybersecurity battlefield](https://feedpress.me/link/23532/16490445/cisco-duo-and-ise-better-together-in-the-cybersecurity-battlefield)
 - [Bringing Simplicity to Security: The Journey of the Cisco Security Cloud](https://feedpress.me/link/23532/16490443/bringing-simplicity-to-security-the-journey-of-the-cisco-security-cloud)
 - [Simplify budgets and purchasing with Cisco Security Suites](https://feedpress.me/link/23532/16490444/simplify-budgets-and-purchasing-with-cisco-security-suites)
 - [Cisco’s Commitment to Human Rights: A Tribute to the 75th Anniversary of the Universal Declaration of Human Rights](https://feedpress.me/link/23532/16487385/ciscos-commitment-to-human-rights-a-tribute-to-the-75th-anniversary-of-the-universal-declaration-of-human-rights)
-- [Cisco Partners and Purpose are Greater Together](https://feedpress.me/link/23532/16488290/cisco-partners-and-purpose-are-greater-together)
 <!-- BLOG-POST-LIST:END --> 
