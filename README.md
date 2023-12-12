@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Amplifying Connection and Embracing Collaboration Through Volunteering at Mix 92.6 Community Radio](https://feedpress.me/link/23532/16491998/amplifying-connection-and-embracing-collaboration-through-volunteering-at-mix-92-6-community-radio)
+- [The Next One Billion Lives](https://feedpress.me/link/23532/16491999/the-next-one-billion-lives)
+- [The Challenges of Building Generative AI Applications in Cybersecurity](https://feedpress.me/link/23532/16492000/the-challenges-of-building-generative-ai-applications-in-cybersecurity)
 - [Happy Holidays and Happy New Year Cisco Distributors](https://feedpress.me/link/23532/16490668/happy-holidays-and-happy-new-year-cisco-distributors)
 - [Security Series: Protecting the Edge Against DDoS Attacks with a Simplified Integrated Solution](https://feedpress.me/link/23532/16490602/security-series-protecting-the-edge-against-ddos-attacks-with-a-simplified-integrated-solution)
-- [Partnering for Sustainability: Cisco’s Collaborative Approach](https://feedpress.me/link/23532/16490493/partnering-for-sustainability-ciscos-collaborative-approach)
-- [Cisco Duo and ISE: Better together in the cybersecurity battlefield](https://feedpress.me/link/23532/16490445/cisco-duo-and-ise-better-together-in-the-cybersecurity-battlefield)
-- [Bringing Simplicity to Security: The Journey of the Cisco Security Cloud](https://feedpress.me/link/23532/16490443/bringing-simplicity-to-security-the-journey-of-the-cisco-security-cloud)
 <!-- BLOG-POST-LIST:END --> 
