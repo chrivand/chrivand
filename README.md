@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Secure your critical roadways infrastructure as you digitize and resolve congestion](https://feedpress.me/link/23532/16492218/secure-your-critical-roadways-infrastructure-as-you-digitize-and-resolve-congestion)
 - [Something exciting is brewing for NRF24](https://feedpress.me/link/23532/16492170/what-is-brewing-for-nrf24)
 - [The Technology That’s Remaking OU Health into a Top-Tier Medical Center](https://feedpress.me/link/23532/16492145/the-technology-thats-remaking-ou-health-into-a-top-tier-medical-center)
 - [Amplifying Connection and Embracing Collaboration Through Volunteering at Mix 92.6 Community Radio](https://feedpress.me/link/23532/16491998/amplifying-connection-and-embracing-collaboration-through-volunteering-at-mix-92-6-community-radio)
 - [The Next One Billion Lives](https://feedpress.me/link/23532/16491999/the-next-one-billion-lives)
-- [The Challenges of Building Generative AI Applications in Cybersecurity](https://feedpress.me/link/23532/16492000/the-challenges-of-building-generative-ai-applications-in-cybersecurity)
 <!-- BLOG-POST-LIST:END --> 
