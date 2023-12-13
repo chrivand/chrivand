@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Building inclusive AI will accelerate innovation](https://feedpress.me/link/23532/16494306/building-inclusive-ai-will-accelerate-innovation)
 - [Tonsley Innovation District Attracting Global Attention](https://feedpress.me/link/23532/16494213/tonsley-innovation-district-attracting-global-attention)
 - [What Should We Expect for State and Local Government IT Priorities in 2024?](https://feedpress.me/link/23532/16494170/state-and-local-government-priorities-2024)
 - [Cybersecurity career training for the real world](https://feedpress.me/link/23532/16494116/cybersecurity-career-training-for-the-real-world)
 - [Cisco XDR: SLEDs “SOC in a Box”](https://feedpress.me/link/23532/16494117/cisco-xdr-sleds-soc-in-a-box)
-- [Secure your critical roadways infrastructure as you digitize and resolve congestion](https://feedpress.me/link/23532/16492218/secure-your-critical-roadways-infrastructure-as-you-digitize-and-resolve-congestion)
 <!-- BLOG-POST-LIST:END --> 
