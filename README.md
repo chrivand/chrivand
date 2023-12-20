@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Managing API Contracts and OpenAPI Documents at Scale](https://feedpress.me/link/23532/16503792/apidaysparis02)
 - [Cisco and Nutanix Team Up in Response to Customer Demand: Another Win for Customer-Centric Innovation](https://feedpress.me/link/23532/16503655/cisco-and-nutanix-team-up-in-response-to-customer-demand-another-win-for-customer-centric-innovation)
 - [Keeping the lights on: Brazilian power utility wins cybersecurity award for securing grid network with Cisco](https://feedpress.me/link/23532/16503650/keeping-the-lights-on-brazilian-power-utility-wins-cybersecurity-award-for-securing-grid-network-with-cisco)
 - [Why CISOs and CIOs Should Work Together More Closely](https://feedpress.me/link/23532/16503622/why-cisos-and-cios-should-work-together-more-closely)
 - [How Cisco and Wipro are Improving the Airport Experience](https://feedpress.me/link/23532/16503541/how-cisco-and-wipro-are-improving-the-airport-experience)
-- [How Education Institution Technology Needs to Evolve](https://feedpress.me/link/23532/16503459/how-education-institution-technology-needs-to-evolve)
 <!-- BLOG-POST-LIST:END --> 
