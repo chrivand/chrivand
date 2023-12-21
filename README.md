@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Recapping Cisco industrial IoT’s journey: A year of security, simplification and innovation](https://feedpress.me/link/23532/16504941/recapping-cisco-industrial-iots-journey-a-year-of-security-simplification-and-innovation)
+- [Cheers to 2023 and a Year of Partner Prosperity Ahead](https://feedpress.me/link/23532/16504942/cheers-to-2023-and-a-year-of-partner-prosperity-ahead)
 - [Defining the Future of Multicloud Networking and Security: Cisco Announces Intent to Acquire Isovalent](https://feedpress.me/link/23532/16504761/defining-the-future-of-multicloud-networking-and-security-cisco-announces-intent-to-acquire-isovalent)
 - [Managing API Contracts and OpenAPI Documents at Scale](https://feedpress.me/link/23532/16503792/apidaysparis02)
 - [Cisco and Nutanix Team Up in Response to Customer Demand: Another Win for Customer-Centric Innovation](https://feedpress.me/link/23532/16503655/cisco-and-nutanix-team-up-in-response-to-customer-demand-another-win-for-customer-centric-innovation)
-- [Keeping the lights on: Brazilian power utility wins cybersecurity award for securing grid network with Cisco](https://feedpress.me/link/23532/16503650/keeping-the-lights-on-brazilian-power-utility-wins-cybersecurity-award-for-securing-grid-network-with-cisco)
-- [Why CISOs and CIOs Should Work Together More Closely](https://feedpress.me/link/23532/16503622/why-cisos-and-cios-should-work-together-more-closely)
 <!-- BLOG-POST-LIST:END --> 
