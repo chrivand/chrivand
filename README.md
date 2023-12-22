@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [CRN Recognizes Cisco Secure Firewall 4200](https://feedpress.me/link/23532/16506174/crn-recognizes-cisco-secure-firewall-4200)
 - [5 Environmental Sustainability Trends for 2024](https://feedpress.me/link/23532/16505994/5-environmental-sustainability-trends-for-2024)
 - [Recapping Cisco industrial IoT’s journey: A year of security, simplification and innovation](https://feedpress.me/link/23532/16504941/recapping-cisco-industrial-iots-journey-a-year-of-security-simplification-and-innovation)
 - [Cheers to 2023 and a Year of Partner Prosperity Ahead](https://feedpress.me/link/23532/16504942/cheers-to-2023-and-a-year-of-partner-prosperity-ahead)
 - [Defining the Future of Multicloud Networking and Security: Cisco Announces Intent to Acquire Isovalent](https://feedpress.me/link/23532/16504761/defining-the-future-of-multicloud-networking-and-security-cisco-announces-intent-to-acquire-isovalent)
-- [Managing API Contracts and OpenAPI Documents at Scale](https://feedpress.me/link/23532/16503792/apidaysparis02)
 <!-- BLOG-POST-LIST:END --> 
