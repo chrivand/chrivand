@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Easy Firewall Implementation &amp; Configuration for Small and Medium Businesses](https://feedpress.me/link/23532/16523579/easy-firewall-implementation-configuration-for-small-and-medium-businesses)
 - [NRF 2024 Know Before You Go](https://feedpress.me/link/23532/16523070/nrf2024-kbyg)
 - [PXP: Enabling Our Partnership, Now and Into the Future!](https://feedpress.me/link/23532/16506259/pxp-enabling-our-partnership-now-and-into-the-future)
 - [CRN Recognizes Cisco Secure Firewall 4200](https://feedpress.me/link/23532/16506174/crn-recognizes-cisco-secure-firewall-4200)
 - [5 Environmental Sustainability Trends for 2024](https://feedpress.me/link/23532/16505994/5-environmental-sustainability-trends-for-2024)
-- [Recapping Cisco industrial IoT’s journey: A year of security, simplification and innovation](https://feedpress.me/link/23532/16504941/recapping-cisco-industrial-iots-journey-a-year-of-security-simplification-and-innovation)
 <!-- BLOG-POST-LIST:END --> 
