@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [February 1, 2024: A Date All Email Senders Should Care About](https://feedpress.me/link/23532/16524642/february-1-2024-a-date-all-email-senders-should-care-about)
+- [Customer Success Stories – Year in Review](https://feedpress.me/link/23532/16524639/customer-success-stories-year-in-review)
+- [Egress Security: Part of a Holistic, Multidirectional Security Strategy for Today’s Multicloud World](https://feedpress.me/link/23532/16524640/egress-security-part-of-a-holistic-multidirectional-security-strategy-for-todays-multicloud-world)
+- [Cisco Allowed Me To Start My Family, Stress-Free](https://feedpress.me/link/23532/16524641/cisco-allowed-me-to-start-my-family-stress-free)
 - [Easy Firewall Implementation &amp; Configuration for Small and Medium Businesses](https://feedpress.me/link/23532/16523579/easy-firewall-implementation-configuration-for-small-and-medium-businesses)
-- [NRF 2024 Know Before You Go](https://feedpress.me/link/23532/16523070/nrf2024-kbyg)
-- [PXP: Enabling Our Partnership, Now and Into the Future!](https://feedpress.me/link/23532/16506259/pxp-enabling-our-partnership-now-and-into-the-future)
-- [CRN Recognizes Cisco Secure Firewall 4200](https://feedpress.me/link/23532/16506174/crn-recognizes-cisco-secure-firewall-4200)
-- [5 Environmental Sustainability Trends for 2024](https://feedpress.me/link/23532/16505994/5-environmental-sustainability-trends-for-2024)
 <!-- BLOG-POST-LIST:END --> 
