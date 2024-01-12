@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Grow and Differentiate Your Business with Expanded Managed Security Solutions](https://feedpress.me/link/23532/16532676/grow-and-differentiate-your-business-with-expanded-managed-security-solutions)
 - [Using the Knowledge Store on Cisco Observability Platform](https://feedpress.me/link/23532/16531945/using-the-knowledge-store-on-cisco-observability-platform)
 - [Empowering Crisis-Affected Communities: Cisco’s Commitment to IRC Signpost](https://feedpress.me/link/23532/16531059/empowering-crisis-affected-communities-ciscos-commitment-to-irc-signpost)
 - [Cisco wins Manufacturing Solution of the Year award for integrating industrial security with networking](https://feedpress.me/link/23532/16530954/cisco-wins-manufacturing-solution-of-the-year-award-for-integrating-industrial-security-with-networking)
 - [Employee giving and volunteerism drives positive business outcomes](https://feedpress.me/link/23532/16527659/employee-giving-and-volunteerism-drives-positive-business-outcomes)
-- [Sustainability 101: What are smart grids?](https://feedpress.me/link/23532/16526828/sustainability-101-what-are-smart-grids)
 <!-- BLOG-POST-LIST:END --> 
