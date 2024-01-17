@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Come Together Right Now, IT Operations Teams](https://feedpress.me/link/23532/16537333/come-together-right-now-it-operations-teams)
 - [Cisco Automation Developer Days 2024 in Stockholm – Call for Speakers](https://feedpress.me/link/23532/16536241/developerdays2024stockholm)
 - [MSSPs: Differentiate your Managed Security Offerings with Cisco XDR](https://feedpress.me/link/23532/16536040/mssps-differentiate-your-managed-security-offerings-with-cisco-xdr)
 - [How Wi-Fi 7 Is About to Transform Business As We Know It](https://feedpress.me/link/23532/16536004/how-wi-fi-7-is-about-to-transform-business-as-we-know-it)
 - [A Symphony of Network Success: Simplify, Secure, and Scale with Cisco SD-WAN Enhancements](https://feedpress.me/link/23532/16535998/a-symphony-of-network-success-simplify-secure-and-scale-with-cisco-sd-wan-enhancements)
-- [My Journey with Cisco: A Decade of Growth, Opportunity, and Empowerment](https://feedpress.me/link/23532/16535844/my-journey-with-cisco-a-decade-of-growth-opportunity-and-empowerment)
 <!-- BLOG-POST-LIST:END --> 
