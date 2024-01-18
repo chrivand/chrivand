@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Digitizing the Physical World: Insights from Cisco Live Melbourne and the Industrial IoT Industry Summit](https://feedpress.me/link/23532/16539309/digitizing-the-physical-world-insights-from-cisco-live-melbourne-and-the-industrial-iot-industry-summit)
+- [Want to Justify Your IT Investments Faster? Measure Business Outcomes.](https://feedpress.me/link/23532/16539296/want-to-justify-your-it-investments-faster-measure-business-outcomes)
 - [Cisco Secure Equipment Access wins “IoT Security Innovation of the Year” in the 2024 IoT Breakthrough Awards](https://feedpress.me/link/23532/16539083/cisco-secure-equipment-access-wins-iot-security-innovation-of-the-year-in-the-2024-iot-breakthrough-awards)
 - [How to Use Ansible with CML](https://feedpress.me/link/23532/16537533/how-to-use-ansible-with-cml)
 - [2024 Tech Predictions: Hybrid Collaboration is Here to Stay](https://feedpress.me/link/23532/16537394/2024-tech-predictions-hybrid-collaboration-is-here-to-stay)
-- [Come Together Right Now, IT Operations Teams](https://feedpress.me/link/23532/16537333/come-together-right-now-it-operations-teams)
-- [Cisco Automation Developer Days 2024 in Stockholm – Call for Speakers](https://feedpress.me/link/23532/16536241/developerdays2024stockholm)
 <!-- BLOG-POST-LIST:END --> 
