@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Cisco and Schneider Electric Are Creating Smarter, More Efficient Buildings](https://feedpress.me/link/23532/16539530/cisco-and-schneider-electric-are-creating-smarter-more-efficient-buildings)
 - [Empowering Exceptional Digital Experiences at Cisco Live EMEA](https://feedpress.me/link/23532/16539441/empowering-exceptional-digital-experiences-at-cisco-live-emea)
 - [Digitizing the Physical World: Insights from Cisco Live Melbourne and the Industrial IoT Industry Summit](https://feedpress.me/link/23532/16539309/digitizing-the-physical-world-insights-from-cisco-live-melbourne-and-the-industrial-iot-industry-summit)
 - [Want to Justify Your IT Investments Faster? Measure Business Outcomes.](https://feedpress.me/link/23532/16539296/want-to-justify-your-it-investments-faster-measure-business-outcomes)
 - [Cisco Secure Equipment Access wins “IoT Security Innovation of the Year” in the 2024 IoT Breakthrough Awards](https://feedpress.me/link/23532/16539083/cisco-secure-equipment-access-wins-iot-security-innovation-of-the-year-in-the-2024-iot-breakthrough-awards)
-- [How to Use Ansible with CML](https://feedpress.me/link/23532/16537533/how-to-use-ansible-with-cml)
 <!-- BLOG-POST-LIST:END --> 
