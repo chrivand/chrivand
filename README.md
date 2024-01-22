@@ -31,7 +31,7 @@ He learned coding in C, but currently his favorite language is Python. He also v
 <!-- BLOG-POST-LIST:START -->
 - [Purpose. Partnership. Impact.](https://feedpress.me/link/23532/16543333/purpose-partnership-impact)
 - [Meet ENNA, the New Cisco Enterprise Network Assurance &lpar;ENNA&rpar; Specialist Certification](https://feedpress.me/link/23532/16543289/meet-enna-the-new-cisco-enterprise-network-assurance-enna-specialist-certification)
+- [DevNet Learning Maps Help You Get the Most From Your Cisco Live Experience](https://feedpress.me/link/23532/16543462/learningmapsciscoliveemea2024)
 - [BEAD Funding: Grants Now Available to States and Cisco Customers](https://feedpress.me/link/23532/16542915/bead-funding-grants-now-available-to-states-and-cisco-customers)
 - [New M6 based CSW-Cluster Hardware](https://feedpress.me/link/23532/16542809/new-m6-based-csw-cluster-hardware)
-- [Driving a Cloud Operating Model in Education](https://feedpress.me/link/23532/16540403/driving-a-cloud-operating-model-in-education)
 <!-- BLOG-POST-LIST:END --> 
