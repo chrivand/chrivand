@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How I’m Leaving My Legacy at Cisco](https://feedpress.me/link/23532/16544558/how-im-leaving-my-legacy-at-cisco)
+- [Pervasive Ransomware Visibility on Existing Infrastructure: How Cisco Secure Network Analytics Helps](https://feedpress.me/link/23532/16544559/pervasive-ransomware-visibility-secure-network-analytics-helps)
+- [Using Data Connectors for a Consolidated View of Risk in Cisco Vulnerability Management](https://feedpress.me/link/23532/16544560/using-data-connectors-for-a-consolidated-view-of-risk-in-cisco-vulnerability-management)
+- [Ingress security from Cisco Multicloud Defense: Protecting cloud networks and infrastructure against advanced inbound th …](https://feedpress.me/link/23532/16544561/ingress-security-from-cisco-multicloud-defense-protecting-cloud-networks-and-infrastructure-against-advanced-inbound-threats)
 - [Purpose. Partnership. Impact.](https://feedpress.me/link/23532/16543333/purpose-partnership-impact)
-- [Meet ENNA, the New Cisco Enterprise Network Assurance &lpar;ENNA&rpar; Specialist Certification](https://feedpress.me/link/23532/16543289/meet-enna-the-new-cisco-enterprise-network-assurance-enna-specialist-certification)
-- [DevNet Learning Maps Help You Get the Most From Your Cisco Live Experience](https://feedpress.me/link/23532/16543462/learningmapsciscoliveemea2024)
-- [BEAD Funding: Grants Now Available to States and Cisco Customers](https://feedpress.me/link/23532/16542915/bead-funding-grants-now-available-to-states-and-cisco-customers)
-- [New M6 based CSW-Cluster Hardware](https://feedpress.me/link/23532/16542809/new-m6-based-csw-cluster-hardware)
 <!-- BLOG-POST-LIST:END --> 
