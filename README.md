@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Achieving Successful Business Outcomes Through Digital Infrastructure](https://feedpress.me/link/23532/16544823/achieving-successful-business-outcomes-through-digital-infrastructure)
 - [How I’m Leaving My Legacy at Cisco](https://feedpress.me/link/23532/16544558/how-im-leaving-my-legacy-at-cisco)
 - [Pervasive Ransomware Visibility on Existing Infrastructure: How Cisco Secure Network Analytics Helps](https://feedpress.me/link/23532/16544559/pervasive-ransomware-visibility-secure-network-analytics-helps)
 - [Using Data Connectors for a Consolidated View of Risk in Cisco Vulnerability Management](https://feedpress.me/link/23532/16544560/using-data-connectors-for-a-consolidated-view-of-risk-in-cisco-vulnerability-management)
 - [Ingress security from Cisco Multicloud Defense: Protecting cloud networks and infrastructure against advanced inbound th …](https://feedpress.me/link/23532/16544561/ingress-security-from-cisco-multicloud-defense-protecting-cloud-networks-and-infrastructure-against-advanced-inbound-threats)
-- [Purpose. Partnership. Impact.](https://feedpress.me/link/23532/16543333/purpose-partnership-impact)
 <!-- BLOG-POST-LIST:END --> 
