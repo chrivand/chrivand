@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [The world convenes to discuss AI protections and policies amid growing data asymmetries](https://feedpress.me/link/23532/16549191/the-world-convenes-to-discuss-ai-protections-and-policies-amid-growing-data-asymmetries)
 - [Cisco Foundation Grantees prioritize Indigenous leadership to protect the Amazon Basin](https://feedpress.me/link/23532/16548520/cisco-foundation-grantees-prioritize-indigenous-leadership-to-protect-the-amazon-basin)
 - [12 Days of Learning at Cisco](https://feedpress.me/link/23532/16548396/12-days-of-learning-at-cisco)
 - [3 Key takeaways from NRF2024](https://feedpress.me/link/23532/16547980/takeaways-from-nrf2024)
 - [Cisco Meraki Developer Highlights Coming to Cisco Live Amsterdam](https://feedpress.me/link/23532/16547979/merakiciscoliveamsterdam)
-- [Navigating the Complex Cybersecurity Landscape: Kyndryl and Cisco’s Innovative Security Edge Services](https://feedpress.me/link/23532/16547775/navigating-the-complex-cybersecurity-landscape-kyndryl-and-ciscos-innovative-security-edge-services)
 <!-- BLOG-POST-LIST:END --> 
