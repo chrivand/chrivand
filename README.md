@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Global Partner Engineering Building Momentum into 2024](https://feedpress.me/link/23532/16551830/global-partner-engineering-building-momentum-into-2024)
 - [E-Rate Update: $4.5 Billion for Discounts Available](https://feedpress.me/link/23532/16551577/e-rate-update-4-5-billion-for-discounts-available)
 - [Cisco Customer Experience &lpar;CX&rpar; Sweepstakes at Cisco Live EMEA](https://feedpress.me/link/23532/16551534/cisco-customer-experience-cx-sweepstakes-at-cisco-live-emea)
 - [Shift-left Convergence with Generative AI Improves the Programmer’s Role](https://feedpress.me/link/23532/16549595/shift-left-convergence-with-generative-ai)
 - [Improving Audience Understanding and Store Operations with EVERYANGLE and Meraki](https://feedpress.me/link/23532/16549368/improving-store-operations)
-- [What’s Coming to Cisco Live Europe 2024 for the Data Center Developer?](https://feedpress.me/link/23532/16549367/clemeadatacenter)
 <!-- BLOG-POST-LIST:END --> 
