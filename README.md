@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Achieving Operational Simplicity with a Network Platform Approach](https://feedpress.me/link/23532/16554889/achieving-operational-simplicity-with-a-network-platform-approach)
+- [Sustainability: From Strategy to Reality](https://feedpress.me/link/23532/16554890/sustainability-from-strategy-to-reality)
 - [Cisco and Hitachi Vantara Simplify Hybrid Cloud Adoption with New IaaS and Flexible Consumption Options](https://feedpress.me/link/23532/16554750/cisco-and-hitachi-vantara-simplify-hybrid-cloud-adoption-with-new-iaas-and-flexible-consumption-options)
 - [Cisco Store Xplorer: An AR Experience](https://feedpress.me/link/23532/16554079/cisco-store-xplorer)
 - [Hybrid Work in Government Survey Results: Big Trends Revealed](https://feedpress.me/link/23532/16553650/hybrid-work-survey-results-big-trends-revealed)
-- [Reimagine Your Data Center for Responsible AI Deployments](https://feedpress.me/link/23532/16553808/reimagine-your-data-center-for-responsible-ai-deployments)
-- [Securing APIs From Left to Right &lpar;and Everywhere in Between&rpar;](https://feedpress.me/link/23532/16553384/securing-apis-from-left-to-right-and-everywhere-in-between)
 <!-- BLOG-POST-LIST:END --> 
