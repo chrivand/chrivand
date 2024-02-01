@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [New Technology for an Old Industry – Coffee and Conversations podcast](https://feedpress.me/link/23532/16555406/new-technology-for-an-old-industry-coffee-and-conversations-podcast)
 - [Achieving Operational Simplicity with a Network Platform Approach](https://feedpress.me/link/23532/16554889/achieving-operational-simplicity-with-a-network-platform-approach)
 - [Sustainability: From Strategy to Reality](https://feedpress.me/link/23532/16554890/sustainability-from-strategy-to-reality)
 - [Cisco and Hitachi Vantara Simplify Hybrid Cloud Adoption with New IaaS and Flexible Consumption Options](https://feedpress.me/link/23532/16554750/cisco-and-hitachi-vantara-simplify-hybrid-cloud-adoption-with-new-iaas-and-flexible-consumption-options)
 - [Cisco Store Xplorer: An AR Experience](https://feedpress.me/link/23532/16554079/cisco-store-xplorer)
-- [Hybrid Work in Government Survey Results: Big Trends Revealed](https://feedpress.me/link/23532/16553650/hybrid-work-survey-results-big-trends-revealed)
 <!-- BLOG-POST-LIST:END --> 
