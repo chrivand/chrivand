@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Cisco AppDynamics observability solutions help partners expand their business](https://feedpress.me/link/23532/16556500/cisco-appdynamics-observability-solutions-help-partners-expand-their-business)
+- [The Multicloud Landscape: Global Trends, Sovereignty, and Cisco’s Strategic Support](https://feedpress.me/link/23532/16556467/the-multicloud-landscape-global-trends-sovereignty-and-ciscos-strategic-support)
 - [Interview: Former FBI Analyst on the CJIS MFA Mandate &amp; Duo](https://feedpress.me/link/23532/16556285/interview-former-fbi-analyst-on-the-cjis-mfa-mandate-duo)
 - [Cisco Revolutionizes Networking with Pay-As-You-Go for Equinix Network Edge and Equinix Fabric](https://feedpress.me/link/23532/16556286/cisco-revolutionizes-networking-with-pay-as-you-go-for-equinix-network-edge-and-equinix-fabric)
 - [The Cost of Not Conducting a Network Infrastructure Risk Assessment: A Costly Gamble](https://feedpress.me/link/23532/16556287/the-cost-of-not-conducting-a-network-infrastructure-risk-assessment-a-costly-gamble)
-- [New Technology for an Old Industry – Coffee and Conversations podcast](https://feedpress.me/link/23532/16555406/new-technology-for-an-old-industry-coffee-and-conversations-podcast)
-- [Achieving Operational Simplicity with a Network Platform Approach](https://feedpress.me/link/23532/16554889/achieving-operational-simplicity-with-a-network-platform-approach)
 <!-- BLOG-POST-LIST:END --> 
