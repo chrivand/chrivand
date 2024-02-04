@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Embrace the Multicloud Era with Cisco Learning and Certifications at Cisco Live Amsterdam](https://feedpress.me/link/23532/16559116/embrace-the-multicloud-era-with-cisco-learning-and-certifications-atcisco-live-amsterdam)
 - [Cisco User Protection Suite Provides MSSPs a Comprehensive and Compelling Package](https://feedpress.me/link/23532/16557814/cisco-user-protection-suite-provides-mssps-a-comprehensive-and-compelling-package)
 - [Redefining the IT war room with end-to-end observability](https://feedpress.me/link/23532/16557782/redefining-the-it-war-room-with-end-to-end-observability)
 - [Game on: Level up your AI knowledge with Cisco U.](https://feedpress.me/link/23532/16556635/game-on-level-up-your-ai-knowledge-with-cisco-u)
 - [Retail Tech Deep-Dive: Webex Connect](https://feedpress.me/link/23532/16556554/retail-tech-deep-dive-webex-connect)
-- [Cisco AppDynamics observability solutions help partners expand their business](https://feedpress.me/link/23532/16556500/cisco-appdynamics-observability-solutions-help-partners-expand-their-business)
 <!-- BLOG-POST-LIST:END --> 
