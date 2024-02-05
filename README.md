@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [The Journey to CCDE, a Personal Story](https://feedpress.me/link/23532/16560804/the-journey-to-ccde-a-personal-story)
 - [Safeguard Your Network in a Post-Quantum World](https://feedpress.me/link/23532/16560477/safeguard-your-network-in-a-post-quantum-world)
 - [Congratulations to Cisco’s 2024 CRN Channel Chiefs!](https://feedpress.me/link/23532/16560329/congratulations-to-ciscos-2024-crn-channel-chiefs)
 - [Cisco CX is Accelerating Outcomes Through Technology Innovation](https://feedpress.me/link/23532/16559853/cisco-cx-is-accelerating-outcomes-through-technology-innovation)
 - [Embrace the Multicloud Era with Cisco Learning and Certifications at Cisco Live Amsterdam](https://feedpress.me/link/23532/16559116/embrace-the-multicloud-era-with-cisco-learning-and-certifications-atcisco-live-amsterdam)
-- [Cisco User Protection Suite Provides MSSPs a Comprehensive and Compelling Package](https://feedpress.me/link/23532/16557814/cisco-user-protection-suite-provides-mssps-a-comprehensive-and-compelling-package)
 <!-- BLOG-POST-LIST:END --> 
