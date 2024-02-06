@@ -31,7 +31,7 @@ He learned coding in C, but currently his favorite language is Python. He also v
 <!-- BLOG-POST-LIST:START -->
 - [How Cisco, together with Apple, is tackling the next frontier of hybrid work — spatial computing](https://feedpress.me/link/23532/16561794/how-cisco-together-with-apple-is-tackling-the-next-frontier-of-hybrid-work-spatial-computing)
 - [Paving the Way to a More Inclusive Future](https://feedpress.me/link/23532/16561795/paving-the-way-to-a-more-inclusive-future)
+- [Driving Business Outcomes for a Customer with the Power of Cisco Catalyst Center](https://feedpress.me/link/23532/16561889/driving-business-outcomes-for-a-customer-with-the-power-of-cisco-catalyst-center)
 - [Unlock Rapid, Trusted Delivery of Generative AI Applications](https://feedpress.me/link/23532/16561541/unlock-rapid-trusted-delivery-of-generative-ai-applications)
 - [Staying Connected and Protected in a Highly Distributed World with Cisco Secure Networking](https://feedpress.me/link/23532/16561539/staying-connected-and-protected-in-a-highly-distributed-world-with-cisco-secure-networking)
-- [Connect, Secure, Assure Every Digital Experience Everywhere](https://feedpress.me/link/23532/16561540/connect-secure-assure-every-digital-experience-everywhere)
 <!-- BLOG-POST-LIST:END --> 
