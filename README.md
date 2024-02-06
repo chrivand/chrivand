@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [The Journey to CCDE, a Personal Story](https://feedpress.me/link/23532/16560804/the-journey-to-ccde-a-personal-story)
-- [Safeguard Your Network in a Post-Quantum World](https://feedpress.me/link/23532/16560477/safeguard-your-network-in-a-post-quantum-world)
-- [Congratulations to Cisco’s 2024 CRN Channel Chiefs!](https://feedpress.me/link/23532/16560329/congratulations-to-ciscos-2024-crn-channel-chiefs)
-- [Cisco CX is Accelerating Outcomes Through Technology Innovation](https://feedpress.me/link/23532/16559853/cisco-cx-is-accelerating-outcomes-through-technology-innovation)
-- [Embrace the Multicloud Era with Cisco Learning and Certifications at Cisco Live Amsterdam](https://feedpress.me/link/23532/16559116/embrace-the-multicloud-era-with-cisco-learning-and-certifications-atcisco-live-amsterdam)
+- [Unlock Rapid, Trusted Delivery of Generative AI Applications](https://feedpress.me/link/23532/16561541/unlock-rapid-trusted-delivery-of-generative-ai-applications)
+- [Staying Connected and Protected in a Highly Distributed World with Cisco Secure Networking](https://feedpress.me/link/23532/16561539/staying-connected-and-protected-in-a-highly-distributed-world-with-cisco-secure-networking)
+- [Connect, Secure, Assure Every Digital Experience Everywhere](https://feedpress.me/link/23532/16561540/connect-secure-assure-every-digital-experience-everywhere)
+- [The power of the platform: Observability takes a seat at the boardroom table](https://feedpress.me/link/23532/16561538/the-power-of-the-platform-observability-takes-a-seat-at-the-boardroom-table)
+- [The New Cisco Digital Experience Monitoring Application for Full-Stack Observability](https://feedpress.me/link/23532/16561536/the-new-cisco-digital-experience-monitoring-application-for-full-stack-observability)
 <!-- BLOG-POST-LIST:END --> 
