@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How Cisco, together with Apple, is tackling the next frontier of hybrid work — spatial computing](https://feedpress.me/link/23532/16561794/how-cisco-together-with-apple-is-tackling-the-next-frontier-of-hybrid-work-spatial-computing)
+- [Paving the Way to a More Inclusive Future](https://feedpress.me/link/23532/16561795/paving-the-way-to-a-more-inclusive-future)
 - [Unlock Rapid, Trusted Delivery of Generative AI Applications](https://feedpress.me/link/23532/16561541/unlock-rapid-trusted-delivery-of-generative-ai-applications)
 - [Staying Connected and Protected in a Highly Distributed World with Cisco Secure Networking](https://feedpress.me/link/23532/16561539/staying-connected-and-protected-in-a-highly-distributed-world-with-cisco-secure-networking)
 - [Connect, Secure, Assure Every Digital Experience Everywhere](https://feedpress.me/link/23532/16561540/connect-secure-assure-every-digital-experience-everywhere)
-- [The power of the platform: Observability takes a seat at the boardroom table](https://feedpress.me/link/23532/16561538/the-power-of-the-platform-observability-takes-a-seat-at-the-boardroom-table)
-- [The New Cisco Digital Experience Monitoring Application for Full-Stack Observability](https://feedpress.me/link/23532/16561536/the-new-cisco-digital-experience-monitoring-application-for-full-stack-observability)
 <!-- BLOG-POST-LIST:END --> 
