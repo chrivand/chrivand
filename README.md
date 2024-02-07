@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Win the SMB Market with Cisco Secure Networking](https://feedpress.me/link/23532/16564119/how-to-win-the-smb-market-with-cisco-secure-networking)
 - [Celebrating the 2024 CX Customer Hero Award Winners](https://feedpress.me/link/23532/16563701/celebrating-the-2024-cx-customer-hero-award-winners)
 - [How GPL-1 Drug Success Transforms Healthcare Revenue – Is your Organization Ready?](https://feedpress.me/link/23532/16562083/how-gpl-1-drug-success-transforms-healthcare-revenue-is-your-organization-ready)
 - [Navigating the AI Frontier with Cisco](https://feedpress.me/link/23532/16562036/navigating-the-ai-frontier-with-cisco)
 - [How Cisco, together with Apple, is tackling the next frontier of hybrid work — spatial computing](https://feedpress.me/link/23532/16561794/how-cisco-together-with-apple-is-tackling-the-next-frontier-of-hybrid-work-spatial-computing)
-- [Paving the Way to a More Inclusive Future](https://feedpress.me/link/23532/16561795/paving-the-way-to-a-more-inclusive-future)
 <!-- BLOG-POST-LIST:END --> 
