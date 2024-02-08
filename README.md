@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Converging On-Premises &amp; Cloud Network Security Into a Unified Hybrid Strategy](https://feedpress.me/link/23532/16565012/converging-on-premises-cloud-network-security-into-unified-hybrid-strategy)
 - [Meet the Cybersecurity Defender of 2024 for EMEA](https://feedpress.me/link/23532/16564174/meet-the-cybersecurity-defender-of-2024-for-emea)
 - [How to Win the SMB Market with Cisco Secure Networking](https://feedpress.me/link/23532/16564119/how-to-win-the-smb-market-with-cisco-secure-networking)
 - [Try the New “Recommendations” Feature in Cisco Code Exchange](https://feedpress.me/link/23532/16564120/new-recommendations-feature-in-cisco-code-exchange)
 - [Celebrating the 2024 CX Customer Hero Award Winners](https://feedpress.me/link/23532/16563701/celebrating-the-2024-cx-customer-hero-award-winners)
-- [How GPL-1 Drug Success Transforms Healthcare Revenue – Is your Organization Ready?](https://feedpress.me/link/23532/16562083/how-gpl-1-drug-success-transforms-healthcare-revenue-is-your-organization-ready)
 <!-- BLOG-POST-LIST:END --> 
