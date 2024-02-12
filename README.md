@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Introducing Cisco Breach Protection Premier](https://feedpress.me/link/23532/16570729/introducing-cisco-breach-protection-premier)
 - [Honoring Cisco Designated VIPs at Cisco Live Amsterdam 2024](https://feedpress.me/link/23532/16567739/honoring-cisco-designated-vips-at-cisco-live-amsterdam)
 - [Cisco and Megaport Simplify Cloud Networking with Pay-As-You-Go Model](https://feedpress.me/link/23532/16567056/cisco-and-megaport-simplify-cloud-networking-with-pay-as-you-go-model)
 - [Cisco Joins U.S. Department of Commerce Consortium Dedicated to AI Safety](https://feedpress.me/link/23532/16565155/cisco-ai-safety-consortium)
 - [Converging On-Premises &amp; Cloud Network Security Into a Unified Hybrid Strategy](https://feedpress.me/link/23532/16565012/converging-on-premises-cloud-network-security-into-unified-hybrid-strategy)
-- [Meet the Cybersecurity Defender of 2024 for EMEA](https://feedpress.me/link/23532/16564174/meet-the-cybersecurity-defender-of-2024-for-emea)
 <!-- BLOG-POST-LIST:END --> 
