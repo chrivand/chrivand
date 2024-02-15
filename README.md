@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Award-Winning Centralized Platform Helps Unlock Value Through Simplicity](https://feedpress.me/link/23532/16578753/award-winning-centralized-platform-helps-unlock-value-through-simplicity)
 - [Enhanced Cybersecurity with Cisco Secure Endpoint and Vulnerability Management](https://feedpress.me/link/23532/16578588/enhanced-cybersecurity-with-cisco-secure-endpoint-and-vulnerability-management)
 - [The Managed Services Surge: Insights from Cisco Live EMEA](https://feedpress.me/link/23532/16577508/the-managed-services-surge-insights-from-cisco-live-emea)
 - [Leverage the Power of a Cloud Operating Model to Streamline IT Operations](https://feedpress.me/link/23532/16577471/leverage-the-power-of-a-cloud-operating-model-to-streamline-it-operations)
 - [Secure Network Analytics 7.5.0 Launch](https://feedpress.me/link/23532/16577317/secure-network-analytics-7-5-0-launch)
-- [Don’t Understand RADIUS and TACACS+? Cisco has You Covered](https://feedpress.me/link/23532/16576093/dont-understand-radius-and-tacacs-cisco-has-you-covered)
 <!-- BLOG-POST-LIST:END --> 
