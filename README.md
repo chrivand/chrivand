@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Partner Competencies, Credentials Valued as Key Success Metrics by Customers](https://feedpress.me/link/23532/16584672/partner-competencies-credentials-valued-as-key-success-metrics-by-customers)
+- [Cisco Meraki for Government Achieves FedRAMP® Agency Authority to Operate](https://feedpress.me/link/23532/16584673/meraki-for-government-achieves-fedramp-ato)
 - [Meeting Financial Regulatory Requirements with Duo Multi-Factor Authentication](https://feedpress.me/link/23532/16584501/meeting-financial-regulatory-requirements-with-duo-multi-factor-authentication)
 - [Time to Leverage the USDA’s Distance Learning and Telemedicine Program](https://feedpress.me/link/23532/16582093/time-to-leverage-the-usdas-distance-learning-and-telemedicine-program)
 - [Cisco Secure Access Accelerates SSE Innovation with AI, User Experience Monitoring, and Identity Intelligence](https://feedpress.me/link/23532/16582047/cisco-secure-access-accelerates-sse-innovation-with-ai-user-experience-monitoring-and-identity-intelligence)
-- [Fly to Amsterdam with the Cisco Store](https://feedpress.me/link/23532/16580125/cisco-travel-store-emea)
-- [NIS2 compliance for industrial networks: Are you ready?](https://feedpress.me/link/23532/16580074/nis2-compliance-for-industrial-networks-are-you-ready)
 <!-- BLOG-POST-LIST:END --> 
