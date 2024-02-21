@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Network Resilience: Accelerating Efforts to Protect Critical Infrastructure](https://feedpress.me/link/23532/16587390/network-resilience-accelerating-efforts-to-protect-critical-infrastructure)
+- [Organizations increasingly look to observability to solve critical challenges](https://feedpress.me/link/23532/16587385/organizations-increasing-look-to-observability-to-solve-critical-challenges)
 - [Driving Sustainability in Solutions: The Cisco-Computacenter Partnership](https://feedpress.me/link/23532/16587349/driving-sustainability-in-solutions-the-cisco-computacenter-partnership)
+- [Cisco Announces Availability of OpenCSMP](https://feedpress.me/link/23532/16587381/cisco-announces-availability-of-opencsmp)
 - [Social Justice: a global perspective](https://feedpress.me/link/23532/16584977/social-justice-a-global-perspective)
-- [Partner Competencies, Credentials Valued as Key Success Metrics by Customers](https://feedpress.me/link/23532/16584672/partner-competencies-credentials-valued-as-key-success-metrics-by-customers)
-- [Cisco Meraki for Government Achieves FedRAMP® Agency Authority to Operate](https://feedpress.me/link/23532/16584673/meraki-for-government-achieves-fedramp-ato)
-- [Accessing the Power of AI-led Digital Transformation with API Abstraction](https://feedpress.me/link/23532/16584726/accessing-the-power-of-ai-led-digital-transformation-with-api-abstraction)
 <!-- BLOG-POST-LIST:END --> 
