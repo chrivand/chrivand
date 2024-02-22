@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [To win against cyber attackers at Super Bowl LVIII, the NFL turns to Cisco XDR](https://feedpress.me/link/23532/16588557/to-win-against-cyber-attackers-at-super-bowl-lviii-the-nfl-turns-to-cisco-xdr)
+- [From childhood curiosity to Cisco’s FIFA Women’s World Cup all-female Dream Team](https://feedpress.me/link/23532/16588558/from-childhood-curiosity-to-ciscos-fifa-womens-world-cup-all-female-dream-team)
 - [How sponsorship is a catalyst for change](https://feedpress.me/link/23532/16587609/how-sponsorship-is-a-catalyst-for-change)
 - [The AI Threat Landscape: Tech Companies and Governments Must Unite Behind Cybersecurity in 2024](https://feedpress.me/link/23532/16587926/the-ai-threat-landscape-tech-companies-and-governments-must-unite-behind-cybersecurity-in-2024)
 - [Building a More Sustainable Global Network for the Future – Cisco and BT](https://feedpress.me/link/23532/16587808/building-a-more-sustainable-global-network-for-the-future-cisco-and-bt)
-- [Network Resilience: Accelerating Efforts to Protect Critical Infrastructure](https://feedpress.me/link/23532/16587390/network-resilience-accelerating-efforts-to-protect-critical-infrastructure)
-- [Organizations increasingly look to observability to solve critical challenges](https://feedpress.me/link/23532/16587385/organizations-increasing-look-to-observability-to-solve-critical-challenges)
 <!-- BLOG-POST-LIST:END --> 
