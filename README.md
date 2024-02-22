@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [IBM and Cisco: A Powerful Partnership Unveiled at Cisco Live EMEA](https://feedpress.me/link/23532/16588740/ibm-and-cisco-a-powerful-partnership-unveiled-at-cisco-live-emea)
 - [To win against cyber attackers at Super Bowl LVIII, the NFL turns to Cisco XDR](https://feedpress.me/link/23532/16588557/to-win-against-cyber-attackers-at-super-bowl-lviii-the-nfl-turns-to-cisco-xdr)
 - [From childhood curiosity to Cisco’s FIFA Women’s World Cup all-female Dream Team](https://feedpress.me/link/23532/16588558/from-childhood-curiosity-to-ciscos-fifa-womens-world-cup-all-female-dream-team)
 - [How sponsorship is a catalyst for change](https://feedpress.me/link/23532/16587609/how-sponsorship-is-a-catalyst-for-change)
 - [The AI Threat Landscape: Tech Companies and Governments Must Unite Behind Cybersecurity in 2024](https://feedpress.me/link/23532/16587926/the-ai-threat-landscape-tech-companies-and-governments-must-unite-behind-cybersecurity-in-2024)
-- [Building a More Sustainable Global Network for the Future – Cisco and BT](https://feedpress.me/link/23532/16587808/building-a-more-sustainable-global-network-for-the-future-cisco-and-bt)
 <!-- BLOG-POST-LIST:END --> 
