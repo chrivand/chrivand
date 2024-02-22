@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Webex Connect’s Second Quarter](https://feedpress.me/link/23532/16588929/webex-connect-q2)
+- [Coming Soon to Wi-SUN Field Area Network: Versatility to connect sensors with low power and high throughput capabilities](https://feedpress.me/link/23532/16588917/coming-soon-to-wi-sun-field-area-network-versatility-to-connect-sensors-with-low-power-and-high-throughput-capabilities)
 - [Securing the power grid: Are you ready for NERC CIP’s upcoming mandate?](https://feedpress.me/link/23532/16588783/securing-the-power-grid-are-you-ready-for-nerc-cips-upcoming-mandate)
 - [IBM and Cisco: A Powerful Partnership Unveiled at Cisco Live EMEA](https://feedpress.me/link/23532/16588740/ibm-and-cisco-a-powerful-partnership-unveiled-at-cisco-live-emea)
 - [To win against cyber attackers at Super Bowl LVIII, the NFL turns to Cisco XDR](https://feedpress.me/link/23532/16588557/to-win-against-cyber-attackers-at-super-bowl-lviii-the-nfl-turns-to-cisco-xdr)
-- [From childhood curiosity to Cisco’s FIFA Women’s World Cup all-female Dream Team](https://feedpress.me/link/23532/16588558/from-childhood-curiosity-to-ciscos-fifa-womens-world-cup-all-female-dream-team)
-- [How sponsorship is a catalyst for change](https://feedpress.me/link/23532/16587609/how-sponsorship-is-a-catalyst-for-change)
 <!-- BLOG-POST-LIST:END --> 
