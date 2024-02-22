@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Identify Weak Links in Your Application Stack – Part 2, Anomaly Detection](https://feedpress.me/link/23532/16589018/anomaly-detection-and-cisco-cloud-observability-apis)
 - [Webex Connect’s Second Quarter](https://feedpress.me/link/23532/16588929/webex-connect-q2)
 - [Coming Soon to Wi-SUN Field Area Network: Versatility to connect sensors with low power and high throughput capabilities](https://feedpress.me/link/23532/16588917/coming-soon-to-wi-sun-field-area-network-versatility-to-connect-sensors-with-low-power-and-high-throughput-capabilities)
-- [Securing the power grid: Are you ready for NERC CIP’s upcoming mandate?](https://feedpress.me/link/23532/16588783/securing-the-power-grid-are-you-ready-for-nerc-cips-upcoming-mandate)
-- [IBM and Cisco: A Powerful Partnership Unveiled at Cisco Live EMEA](https://feedpress.me/link/23532/16588740/ibm-and-cisco-a-powerful-partnership-unveiled-at-cisco-live-emea)
-- [To win against cyber attackers at Super Bowl LVIII, the NFL turns to Cisco XDR](https://feedpress.me/link/23532/16588557/to-win-against-cyber-attackers-at-super-bowl-lviii-the-nfl-turns-to-cisco-xdr)
+- [Identify Weak Links in Your Application Stack – Part 1, Health Rules](https://feedpress.me/link/23532/16589017/health-rules-and-cisco-cloud-observability-apis)
+- [Automating Observability of Public Cloud Deployments with Cisco Cloud Observability APIs](https://feedpress.me/link/23532/16589016/automating-observability-of-public-cloud-deployments-with-cisco-cloud-observability-apis)
 <!-- BLOG-POST-LIST:END --> 
