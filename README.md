@@ -32,6 +32,6 @@ He learned coding in C, but currently his favorite language is Python. He also v
 - [Using SD-WAN for securing distributed renewable energy](https://feedpress.me/link/23532/16590105/using-sd-wan-for-securing-distributed-renewable-energy)
 - [Calling, the Cloud, and the New Era of Collaboration](https://feedpress.me/link/23532/16590055/calling-the-cloud-and-the-new-era-of-collaboration)
 - [Cisco and Intel Launch Private 5G Innovation Centers](https://feedpress.me/link/23532/16590082/cisco-and-intel-launch-private-5g-innovation-centers)
+- [Helping Service Providers Ensure Their BEAD Network Build-Outs Are BABA Compliant](https://feedpress.me/link/23532/16590160/helping-service-providers-ensure-their-bead-network-build-outs-are-baba-compliant)
 - [The Real Deal About ZTNA and Zero Trust Access](https://feedpress.me/link/23532/16589317/the-real-deal-about-ztna-and-zero-trust-access)
-- [Identify Weak Links in Your Application Stack – Part 2, Anomaly Detection](https://feedpress.me/link/23532/16589018/anomaly-detection-and-cisco-cloud-observability-apis)
 <!-- BLOG-POST-LIST:END --> 
