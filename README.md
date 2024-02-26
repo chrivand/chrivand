@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Sustainability 101: What are ecolabels?](https://feedpress.me/link/23532/16593050/sustainability-101-what-are-ecolabels)
 - [Drive Your Cybersecurity Platform Transformation: Lead the Way With SSE](https://feedpress.me/link/23532/16592847/drive-your-cybersecurity-platform-transformation-lead-the-way-with-sse)
 - [Sintrex Wins 2024 ThousandEyes Integration Partner of the Year EMEA](https://feedpress.me/link/23532/16590221/sintrex-wins-2024-thousandeyes-integration-partner-of-the-year-emea)
 - [Using SD-WAN for securing distributed renewable energy](https://feedpress.me/link/23532/16590105/using-sd-wan-for-securing-distributed-renewable-energy)
 - [Calling, the Cloud, and the New Era of Collaboration](https://feedpress.me/link/23532/16590055/calling-the-cloud-and-the-new-era-of-collaboration)
-- [Cisco and Intel Launch Private 5G Innovation Centers](https://feedpress.me/link/23532/16590082/cisco-and-intel-launch-private-5g-innovation-centers)
 <!-- BLOG-POST-LIST:END --> 
