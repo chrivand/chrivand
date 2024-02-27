@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Benefits of Ingesting Data from Amazon Inspector into Cisco Vulnerability Management](https://feedpress.me/link/23532/16594317/benefits-of-ingesting-data-from-amazon-inspector-into-cisco-vulnerability-management)
+- [The Cost of Not Conducting a Network Infrastructure Risk Assessment: A Costly Gamble](https://feedpress.me/link/23532/16556287/the-cost-of-not-conducting-a-network-infrastructure-risk-assessment-a-costly-gamble)
 - [The Quick and Easy Solution to Lagging 5G Monetization](https://feedpress.me/link/23532/16593552/the-quick-and-easy-solution-to-lagging-5g-monetization)
 - [DevNet Sandbox Has a New Look &amp; Feel](https://feedpress.me/link/23532/16593092/devnet-sandbox-has-a-new-look-feel)
 - [Sustainability 101: What are ecolabels?](https://feedpress.me/link/23532/16593050/sustainability-101-what-are-ecolabels)
-- [Drive Your Cybersecurity Platform Transformation: Lead the Way With SSE](https://feedpress.me/link/23532/16592847/drive-your-cybersecurity-platform-transformation-lead-the-way-with-sse)
-- [Sintrex Wins 2024 ThousandEyes Integration Partner of the Year EMEA](https://feedpress.me/link/23532/16590221/sintrex-wins-2024-thousandeyes-integration-partner-of-the-year-emea)
 <!-- BLOG-POST-LIST:END --> 
