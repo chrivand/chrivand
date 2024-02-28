@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How HBCUs and Cisco Are Partnering to Provide Opportunities and Advancement for Students](https://feedpress.me/link/23532/16595597/how-hbcus-and-cisco-are-partnering-to-provide-opportunities-and-advancement-for-students)
 - [Enterprise security: Making hot desking secure and accessible on a global scale](https://feedpress.me/link/23532/16595573/enterprise-security-making-hot-desking-secure-and-accessible-on-a-global-scale)
 - [Enabling Network Engineering Skills in an AI World](https://feedpress.me/link/23532/16594725/enabling-network-engineering-skills-in-an-ai-world)
 - [GenAI will Transform B2B Interactions and Solutions in the Year Ahead with New Depth of Context and Control](https://feedpress.me/link/23532/16594636/genai-will-transform-b2b-interactions-and-solutions-in-the-year-ahead-with-new-depth-of-context-and-control)
 - [Where Is DevNet Going Over the Next 10 Years, and Beyond?](https://feedpress.me/link/23532/16594583/where-is-devnet-going-over-the-next-10-years-and-beyond)
-- [Evolution to 5G-Advanced and Beyond: A Blueprint for Mobile Transport](https://feedpress.me/link/23532/16594509/evolution-to-5g-advanced-and-beyond-a-blueprint-for-mobile-transport)
 <!-- BLOG-POST-LIST:END --> 
