@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Improved Area Monitoring with New Meraki Smart Cameras](https://feedpress.me/link/23532/16598652/new-meraki-mv13-mv33)
 - [Cisco Live Melbourne SOC Report](https://feedpress.me/link/23532/16598183/cisco-live-melbourne-soc-report)
 - [You’re automated for success with Cisco’s Continuing Education program](https://feedpress.me/link/23532/16597543/youre-automated-for-success-with-ciscos-continuing-education-program)
 - [Seamless shopping with Room &amp; Board](https://feedpress.me/link/23532/16597309/seamless-shopping-with-room-and-board)
 - [Strategy, Incubation and Applications shows up strong at Cisco Live EMEA](https://feedpress.me/link/23532/16596984/strategy-incubation-and-applications-shows-up-strong-at-cisco-live-emea)
-- [Cisco Accelerates Convergence of IT and Operations Technologies](https://feedpress.me/link/23532/16596862/cisco-accelerates-convergence-of-it-and-operations-technologies)
 <!-- BLOG-POST-LIST:END --> 
