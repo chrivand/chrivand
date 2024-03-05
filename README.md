@@ -31,7 +31,7 @@ He learned coding in C, but currently his favorite language is Python. He also v
 <!-- BLOG-POST-LIST:START -->
 - [Executive leadership changes to drive innovation, simplicity, and growth](https://feedpress.me/link/23532/16602665/executive-leadership-changes-to-drive-innovation-simplicity-and-growth)
 - [HIMSS 2024 Know Before You Go](https://feedpress.me/link/23532/16602545/himss-2024-kbyg)
+- [Cloud Security API Updates Improve User’s Experience](https://feedpress.me/link/23532/16602702/cloud-security-api-updates-improve-users-experience)
 - [Mitigating Lateral Movement with Zero Trust Access](https://feedpress.me/link/23532/16602131/mitigating-lateral-movement-with-zero-trust-access)
 - [Celebrating women’s inclusion  in the climate innovation space](https://feedpress.me/link/23532/16602132/celebrating-womens-inclusion-in-the-climate-innovation-space)
-- [Preparedness is the key: training with the Crisis Response Community](https://feedpress.me/link/23532/16601906/preparedness-is-the-key-training-with-the-crisis-response-community)
 <!-- BLOG-POST-LIST:END --> 
