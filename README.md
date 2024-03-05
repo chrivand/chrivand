@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Preparedness is the key: training with the Crisis Response Community](https://feedpress.me/link/23532/16601906/preparedness-is-the-key-training-with-the-crisis-response-community)
 - [Data Processing in Cisco Observability Platform – A Step-by-Step Guide](https://feedpress.me/link/23532/16601628/data-processing-in-cisco-observability-platform-a-step-by-step-guide)
 - [Simplifying Firewall Management: Cisco Defense Orchestrator Nears FedRAMP® Authorization](https://feedpress.me/link/23532/16600811/fedramp-simplifying-firewall-management-cisco-defense-orchestrator)
 - [Improved Area Monitoring with New Meraki Smart Cameras](https://feedpress.me/link/23532/16598652/new-meraki-mv13-mv33)
 - [Cisco Live Melbourne SOC Report](https://feedpress.me/link/23532/16598183/cisco-live-melbourne-soc-report)
-- [You’re automated for success with Cisco’s Continuing Education program](https://feedpress.me/link/23532/16597543/youre-automated-for-success-with-ciscos-continuing-education-program)
 <!-- BLOG-POST-LIST:END --> 
