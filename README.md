@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Elevate Your Career with the New Cisco Service Provider Cloud Networking Certification](https://feedpress.me/link/23532/16603831/elevate-your-career-with-the-new-cisco-service-provider-cloud-networking-certification)
 - [Sailing through History: NWN Carousel’s Virtual Sea-Lab Revolution](https://feedpress.me/link/23532/16603636/sailing-through-history-nwn-carousels-virtual-sea-lab-revolution)
 - [From meteorology to information technology, Cisco Insider Tim Harmon has a fascinating story to share.](https://feedpress.me/link/23532/16603536/from-meteorology-to-information-technology-cisco-insider-tim-harmon-has-a-fascinating-story-to-share)
 - [Executive leadership changes to drive innovation, simplicity, and growth](https://feedpress.me/link/23532/16602665/executive-leadership-changes-to-drive-innovation-simplicity-and-growth)
 - [HIMSS 2024 Know Before You Go](https://feedpress.me/link/23532/16602545/himss-2024-kbyg)
-- [Cloud Security API Updates Improve User’s Experience](https://feedpress.me/link/23532/16602702/cloud-security-api-updates-improve-users-experience)
 <!-- BLOG-POST-LIST:END --> 
