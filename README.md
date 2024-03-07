@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Cisco Secure Workload 3.9 Delivers Stronger Security and Greater Operational Efficiency](https://feedpress.me/link/23532/16604747/cisco-secure-workload-3-9-delivers-stronger-security-and-greater-operational-efficiency)
+- [Exploring Digital Transformation and AI in Higher Education: A Discussion with Cisco Education Experts](https://feedpress.me/link/23532/16604737/exploring-digital-transformation-and-ai-in-higher-education-a-discussion-with-cisco-education-experts)
 - [The Convergence: AI, Confidential Computing, and Blockchain](https://feedpress.me/link/23532/16603856/the-convergence-ai-confidential-computing-and-blockchain)
 - [Elevate Your Career with the New Cisco Service Provider Cloud Networking Certification](https://feedpress.me/link/23532/16603831/elevate-your-career-with-the-new-cisco-service-provider-cloud-networking-certification)
 - [Using the Power of Artificial Intelligence to Augment Network Automation](https://feedpress.me/link/23532/16603865/using-the-power-of-artificial-intelligence-to-augment-network-automation)
-- [Sailing through History: NWN Carousel’s Virtual Sea-Lab Revolution](https://feedpress.me/link/23532/16603636/sailing-through-history-nwn-carousels-virtual-sea-lab-revolution)
-- [From meteorology to information technology, Cisco Insider Tim Harmon has a fascinating story to share.](https://feedpress.me/link/23532/16603536/from-meteorology-to-information-technology-cisco-insider-tim-harmon-has-a-fascinating-story-to-share)
 <!-- BLOG-POST-LIST:END --> 
