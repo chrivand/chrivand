@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Cisco Enterprise Agreement 3.0: A Year of Transformative Impact and Growth](https://feedpress.me/link/23532/16604916/cisco-enterprise-agreement-3-0-a-year-of-transformative-impact-and-growth)
 - [Cisco Secure Workload 3.9 Delivers Stronger Security and Greater Operational Efficiency](https://feedpress.me/link/23532/16604747/cisco-secure-workload-3-9-delivers-stronger-security-and-greater-operational-efficiency)
 - [Exploring Digital Transformation and AI in Higher Education: A Discussion with Cisco Education Experts](https://feedpress.me/link/23532/16604737/exploring-digital-transformation-and-ai-in-higher-education-a-discussion-with-cisco-education-experts)
 - [The Convergence: AI, Confidential Computing, and Blockchain](https://feedpress.me/link/23532/16603856/the-convergence-ai-confidential-computing-and-blockchain)
 - [Elevate Your Career with the New Cisco Service Provider Cloud Networking Certification](https://feedpress.me/link/23532/16603831/elevate-your-career-with-the-new-cisco-service-provider-cloud-networking-certification)
-- [Using the Power of Artificial Intelligence to Augment Network Automation](https://feedpress.me/link/23532/16603865/using-the-power-of-artificial-intelligence-to-augment-network-automation)
 <!-- BLOG-POST-LIST:END --> 
