@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Supercharge your HIMSS24 experience by meeting with our Customer Experience team](https://feedpress.me/link/23532/16607391/your-himss24-experience-with-our-customer-experience-team)
 - [Real Madrid: Pushing the Boundaries of What’s Possible at the Santiago Bernabéu Stadium](https://feedpress.me/link/23532/16607317/real-madrid-pushing-the-boundaries-of-whats-possible-at-the-santiago-bernabeu-stadium)
 - [Protect Your Cloud Environments with Data Security Observability](https://feedpress.me/link/23532/16561529/protect-your-cloud-environments-with-data-security-observability)
 - [Going the Distance: What Channel Women Can Learn From Marathon Swimmer Diana Nyad](https://feedpress.me/link/23532/16606310/going-the-distance-what-channel-women-can-learn-from-marathon-swimmer-diana-nyad)
 - [Are you AI-Ready? Cisco Networking Academy is closing the gender gap in AI](https://feedpress.me/link/23532/16606543/are-you-ai-ready)
-- [Empowering women and transforming economies globally through inclusive partnerships](https://feedpress.me/link/23532/16606089/empowering-women-and-transforming-economies-globally-through-inclusive-partnerships)
 <!-- BLOG-POST-LIST:END --> 
