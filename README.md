@@ -31,7 +31,7 @@ He learned coding in C, but currently his favorite language is Python. He also v
 <!-- BLOG-POST-LIST:START -->
 - [Protect Your Cloud Environments with Data Security Observability](https://feedpress.me/link/23532/16561529/protect-your-cloud-environments-with-data-security-observability)
 - [Going the Distance: What Channel Women Can Learn From Marathon Swimmer Diana Nyad](https://feedpress.me/link/23532/16606310/going-the-distance-what-channel-women-can-learn-from-marathon-swimmer-diana-nyad)
+- [Are you AI-Ready? Cisco Networking Academy is closing the gender gap in AI](https://feedpress.me/link/23532/16606543/are-you-ai-ready)
 - [Empowering women and transforming economies globally through inclusive partnerships](https://feedpress.me/link/23532/16606089/empowering-women-and-transforming-economies-globally-through-inclusive-partnerships)
 - [Avoiding Shift Left Exhaustion – Part 1](https://feedpress.me/link/23532/16605177/avoiding-shift-left-exhaustion-part-1)
-- [Introducing the Cisco Store Lookbook](https://feedpress.me/link/23532/16604985/new-cisco-store-lookbook)
 <!-- BLOG-POST-LIST:END --> 
