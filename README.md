@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Protect Your Cloud Environments with Data Security Observability](https://feedpress.me/link/23532/16561529/protect-your-cloud-environments-with-data-security-observability)
 - [Going the Distance: What Channel Women Can Learn From Marathon Swimmer Diana Nyad](https://feedpress.me/link/23532/16606310/going-the-distance-what-channel-women-can-learn-from-marathon-swimmer-diana-nyad)
 - [Empowering women and transforming economies globally through inclusive partnerships](https://feedpress.me/link/23532/16606089/empowering-women-and-transforming-economies-globally-through-inclusive-partnerships)
 - [Avoiding Shift Left Exhaustion – Part 1](https://feedpress.me/link/23532/16605177/avoiding-shift-left-exhaustion-part-1)
 - [Introducing the Cisco Store Lookbook](https://feedpress.me/link/23532/16604985/new-cisco-store-lookbook)
-- [Cisco Enterprise Agreement 3.0: A Year of Transformative Impact and Growth](https://feedpress.me/link/23532/16604916/cisco-enterprise-agreement-3-0-a-year-of-transformative-impact-and-growth)
 <!-- BLOG-POST-LIST:END --> 
