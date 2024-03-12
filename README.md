@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [A prescription for insights: Cisco Full-Stack Observability supercharges healthcare](https://feedpress.me/link/23532/16611072/a-prescription-for-insights-cisco-full-stack-observability-supercharges-healthcare)
 - [Insurance Claim Contact Center Collaboration – Digital Customer Experience Then and Now](https://feedpress.me/link/23532/16610812/insurance-claim-contact-center-collaboration-digital-customer-experience-then-and-now)
 - [Celebrating Creativity and Authenticity: Cisconians’ Talents and Careers Shine](https://feedpress.me/link/23532/16610765/celebrating-creativity-and-authenticity-cisconians-talents-and-careers-shine)
 - [Dashify: Solving Data Wrangling for Dashboards](https://feedpress.me/link/23532/16609468/dashify-solving-data-wrangling-for-dashboards)
 - [Why 2024 is the Year of AI for Networking](https://feedpress.me/link/23532/16609388/why-2024-is-the-year-of-ai-for-networking)
-- [Helping Ivanti VPN Customers](https://feedpress.me/link/23532/16609237/helping-ivanti-vpn-customers)
 <!-- BLOG-POST-LIST:END --> 
