@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [5 Tips for Pi Day Savings at the Cisco Learning Network Store](https://feedpress.me/link/23532/16618484/5-tips-for-pi-day-savings-at-the-cisco-learning-network-store)
 - [Shift Left Exhaustion – Part 2: Smart Shift Left](https://feedpress.me/link/23532/16618368/shift-left-exhaustion-part-2-smart-shift-left)
 - [Simplifying Network Management in the Real World with AI-Driven Automation](https://feedpress.me/link/23532/16617931/simplifying-network-management-in-the-real-world-with-ai-driven-automation)
 - [A prescription for insights: Cisco Full-Stack Observability supercharges healthcare](https://feedpress.me/link/23532/16611072/a-prescription-for-insights-cisco-full-stack-observability-supercharges-healthcare)
 - [Empowering Women in Tech: Voices from Cisco’s Global Partner Engineering Team](https://feedpress.me/link/23532/16611145/empowering-women-in-tech-voices-from-ciscos-global-partner-engineering-team)
-- [Insurance Claim Contact Center Collaboration – Digital Customer Experience Then and Now](https://feedpress.me/link/23532/16610812/insurance-claim-contact-center-collaboration-digital-customer-experience-then-and-now)
 <!-- BLOG-POST-LIST:END --> 
