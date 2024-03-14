@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Redefining Network Management: The Advantages of Cisco Managed Campus for MSPs](https://feedpress.me/link/23532/16619709/redefining-network-management-the-advantages-of-cisco-managed-campus-for-msps)
 - [Complexity drives more than security risk. Secure Access can help with that too.](https://feedpress.me/link/23532/16619572/complexity-drives-more-than-security-risk-secure-access-can-help-with-that-too)
 - [Take a Cisco Store Tech Lab Tour](https://feedpress.me/link/23532/16618755/cisco-store-tech-lab-tour-emea)
 - [5 Tips for Pi Day Savings at the Cisco Learning Network Store](https://feedpress.me/link/23532/16618484/5-tips-for-pi-day-savings-at-the-cisco-learning-network-store)
 - [Shift Left Exhaustion – Part 2: Smart Shift Left](https://feedpress.me/link/23532/16618368/shift-left-exhaustion-part-2-smart-shift-left)
-- [Simplifying Network Management in the Real World with AI-Driven Automation](https://feedpress.me/link/23532/16617931/simplifying-network-management-in-the-real-world-with-ai-driven-automation)
 <!-- BLOG-POST-LIST:END --> 
