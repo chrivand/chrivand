@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Transforming the Economics of Superfast Broadband with Cisco Routed PON](https://feedpress.me/link/23532/16620828/transforming-the-economics-of-superfast-broadband-with-cisco-routed-pon)
 - [“Build for Better” – Revolutionize Sustainability with AI, Observability, and Cisco Tech](https://feedpress.me/link/23532/16619972/build-for-better-revolutionize-sustainability-with-ai-observability-and-cisco-tech)
 - [Healthy and Inclusive Learning Spaces](https://feedpress.me/link/23532/16619754/healthy-and-inclusive-learning-spaces)
 - [Redefining Network Management: The Advantages of Cisco Managed Campus for MSPs](https://feedpress.me/link/23532/16619709/redefining-network-management-the-advantages-of-cisco-managed-campus-for-msps)
 - [Complexity drives more than security risk. Secure Access can help with that too.](https://feedpress.me/link/23532/16619572/complexity-drives-more-than-security-risk-secure-access-can-help-with-that-too)
-- [Take a Cisco Store Tech Lab Tour](https://feedpress.me/link/23532/16618755/cisco-store-tech-lab-tour-emea)
 <!-- BLOG-POST-LIST:END --> 
