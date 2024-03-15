@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Simplify DNS Policy Management With New Umbrella Tagging APIs](https://feedpress.me/link/23532/16621278/simplify-dns-policy-management-with-new-umbrella-tagging-apis)
 - [Council Gives Green Light to Europe’s Corporate Sustainability Due Diligence Directive](https://feedpress.me/link/23532/16620970/europe-corporate-due-diligence-directive-business-ethics)
 - [Transforming the Economics of Superfast Broadband with Cisco Routed PON](https://feedpress.me/link/23532/16620828/transforming-the-economics-of-superfast-broadband-with-cisco-routed-pon)
 - [“Build for Better” – Revolutionize Sustainability with AI, Observability, and Cisco Tech](https://feedpress.me/link/23532/16619972/build-for-better-revolutionize-sustainability-with-ai-observability-and-cisco-tech)
 - [Healthy and Inclusive Learning Spaces](https://feedpress.me/link/23532/16619754/healthy-and-inclusive-learning-spaces)
-- [Redefining Network Management: The Advantages of Cisco Managed Campus for MSPs](https://feedpress.me/link/23532/16619709/redefining-network-management-the-advantages-of-cisco-managed-campus-for-msps)
 <!-- BLOG-POST-LIST:END --> 
