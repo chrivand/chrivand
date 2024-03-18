@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [A New Day for Data: Cisco and Splunk](https://feedpress.me/link/23532/16623053/a-new-day-for-data-cisco-and-splunk)
 - [Sign up for a Tour at the RSA Conference 2024 SOC](https://feedpress.me/link/23532/16623024/sign-up-for-a-tour-at-the-rsa-conference-2024-soc)
 - [Simplify DNS Policy Management With New Umbrella Tagging APIs](https://feedpress.me/link/23532/16621278/simplify-dns-policy-management-with-new-umbrella-tagging-apis)
 - [Council Gives Green Light to Europe’s Corporate Sustainability Due Diligence Directive](https://feedpress.me/link/23532/16620970/europe-corporate-due-diligence-directive-business-ethics)
 - [Transforming the Economics of Superfast Broadband with Cisco Routed PON](https://feedpress.me/link/23532/16620828/transforming-the-economics-of-superfast-broadband-with-cisco-routed-pon)
-- [“Build for Better” – Revolutionize Sustainability with AI, Observability, and Cisco Tech](https://feedpress.me/link/23532/16619972/build-for-better-revolutionize-sustainability-with-ai-observability-and-cisco-tech)
 <!-- BLOG-POST-LIST:END --> 
