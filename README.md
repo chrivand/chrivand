@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Cisco Launches CCST IT Support Certification: Your Pathway to a Career in IT](https://feedpress.me/link/23532/16624754/cisco-launches-ccst-it-support-certification)
 - [Cisco’s Bill Davenport Starts Term on FCC Technological Advisory Council](https://feedpress.me/link/23532/16624628/ciscos-bill-davenport-starts-term-on-fcc-technological-advisory-council)
 - [Building Data Center Infrastructure for the AI Revolution](https://feedpress.me/link/23532/16624624/building-data-center-infrastructure-for-the-ai-revolution)
 - [Navigating the Internship Odyssey: Taking a Leap To Love Where I Work](https://feedpress.me/link/23532/16624411/navigating-the-internship-odyssey-taking-a-leap-to-love-where-i-work)
 - [Cisco Secure Access named Leader in Zero Trust Network Access](https://feedpress.me/link/23532/16624412/cisco-secure-access-named-leader-in-zero-trust-network-access)
-- [Five AI topics to discuss with your CEO](https://feedpress.me/link/23532/16623531/five-ai-topics-to-discuss-with-your-ceo)
 <!-- BLOG-POST-LIST:END --> 
