@@ -31,7 +31,7 @@ He learned coding in C, but currently his favorite language is Python. He also v
 <!-- BLOG-POST-LIST:START -->
 - [Building Bridges: The Power of Purpose Alignment for Positive Impact](https://feedpress.me/link/23532/16628424/building-bridges-the-power-of-purpose-alignment-for-positive-impact)
 - [AI Trends in Program Management](https://feedpress.me/link/23532/16628396/ai-trends-in-program-management)
-- [Introducing Cisco XDR Playbooks: Finding the balance in automating and guiding incident response](https://feedpress.me/link/23532/16628301/introducing-cisco-xdr-playbooks)
 - [Transforming communities, one drop of water at a time](https://feedpress.me/link/23532/16627530/transforming-communities-one-drop-of-water-at-a-time)
 - [Cisco portfolio for manufacturing: What can we help you solve today?](https://feedpress.me/link/23532/16627284/cisco-portfolio-for-manufacturing-what-can-we-help-you-solve-today)
+- [5 Ways SMB Leaders Can Make Better IT Decisions](https://feedpress.me/link/23532/16627197/5-ways-smb-leaders-can-make-better-it-decisions)
 <!-- BLOG-POST-LIST:END --> 
