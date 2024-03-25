@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Differentiated Experience with Cisco Catalyst Center and CX Services](https://feedpress.me/link/23532/16630667/differentiated-experience-with-cisco-catalyst-center-and-cx-services)
 - [Martin Lund Joining Cisco’s Executive Leadership Team](https://feedpress.me/link/23532/16630592/martin-lund-joining-ciscos-executive-leadership-team)
 - [Building Bridges: The Power of Purpose Alignment for Positive Impact](https://feedpress.me/link/23532/16628424/building-bridges-the-power-of-purpose-alignment-for-positive-impact)
 - [AI Trends in Program Management](https://feedpress.me/link/23532/16628396/ai-trends-in-program-management)
 - [Transforming communities, one drop of water at a time](https://feedpress.me/link/23532/16627530/transforming-communities-one-drop-of-water-at-a-time)
-- [Cisco portfolio for manufacturing: What can we help you solve today?](https://feedpress.me/link/23532/16627284/cisco-portfolio-for-manufacturing-what-can-we-help-you-solve-today)
 <!-- BLOG-POST-LIST:END --> 
