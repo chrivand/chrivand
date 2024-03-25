@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Sustainability 101: What is environmental reporting?](https://feedpress.me/link/23532/16631076/sustainability-101-what-is-environmental-reporting)
 - [A Solution Engineer’s Journey into Programmability](https://feedpress.me/link/23532/16631013/a-solution-engineers-journey-into-programmability)
 - [Identify and Investigate Uncommon DNS Traffic](https://feedpress.me/link/23532/16630933/identify-and-investigate-uncommon-dns-traffic)
 - [Simplify Manufacturing Operations with Cloud Platforms](https://feedpress.me/link/23532/16630734/simplify-manufacturing-operations-with-cloud-platforms)
 - [Differentiated Experience with Cisco Catalyst Center and CX Services](https://feedpress.me/link/23532/16630667/differentiated-experience-with-cisco-catalyst-center-and-cx-services)
-- [Martin Lund Joining Cisco’s Executive Leadership Team](https://feedpress.me/link/23532/16630592/martin-lund-joining-ciscos-executive-leadership-team)
 <!-- BLOG-POST-LIST:END --> 
