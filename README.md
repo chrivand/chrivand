@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Securing the LLM Stack](https://feedpress.me/link/23532/16632169/securing-the-llm-stack)
 - [Cisco Wins CRN 5-Star Award for the 13th Year Straight](https://feedpress.me/link/23532/16631972/cisco-wins-crn-5-star-award-for-the-13th-year-straight)
 - [Hiding in Plain Sight: How Subdomain Attacks Use Your Email Authentication Against You](https://feedpress.me/link/23532/16631862/hiding-in-plain-sight-how-subdomain-attacks-use-your-email-authentication-against-you)
 - [From Academia to Cisco: How I’m Inspired and Empowered as a Woman in Tech](https://feedpress.me/link/23532/16631863/from-academia-to-cisco-how-im-inspired-and-empowered-as-a-woman-in-tech)
 - [Sustainability 101: What is environmental reporting?](https://feedpress.me/link/23532/16631076/sustainability-101-what-is-environmental-reporting)
-- [A Solution Engineer’s Journey into Programmability](https://feedpress.me/link/23532/16631013/a-solution-engineers-journey-into-programmability)
 <!-- BLOG-POST-LIST:END --> 
