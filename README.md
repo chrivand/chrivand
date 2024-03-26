@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Hiding in Plain Sight: How Subdomain Attacks Use Your Email Authentication Against You](https://feedpress.me/link/23532/16631862/hiding-in-plain-sight-how-subdomain-attacks-use-your-email-authentication-against-you)
+- [From Academia to Cisco: How I’m Inspired and Empowered as a Woman in Tech](https://feedpress.me/link/23532/16631863/from-academia-to-cisco-how-im-inspired-and-empowered-as-a-woman-in-tech)
 - [Sustainability 101: What is environmental reporting?](https://feedpress.me/link/23532/16631076/sustainability-101-what-is-environmental-reporting)
 - [A Solution Engineer’s Journey into Programmability](https://feedpress.me/link/23532/16631013/a-solution-engineers-journey-into-programmability)
 - [Identify and Investigate Uncommon DNS Traffic](https://feedpress.me/link/23532/16630933/identify-and-investigate-uncommon-dns-traffic)
-- [Simplify Manufacturing Operations with Cloud Platforms](https://feedpress.me/link/23532/16630734/simplify-manufacturing-operations-with-cloud-platforms)
-- [Differentiated Experience with Cisco Catalyst Center and CX Services](https://feedpress.me/link/23532/16630667/differentiated-experience-with-cisco-catalyst-center-and-cx-services)
 <!-- BLOG-POST-LIST:END --> 
