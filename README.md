@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Partnering for Purpose: Bridging the Gender Gap in Leadership Development](https://feedpress.me/link/23532/16634159/partnering-for-purpose-bridging-the-gender-gap-in-leadership-development)
 - [Making applications more sustainable with Cisco](https://feedpress.me/link/23532/16634106/making-applications-more-sustainable-with-cisco)
 - [SD-Routing: Unlock Agility and Efficiency for the Secure WAN Edge](https://feedpress.me/link/23532/16633054/sd-routing-unlock-agility-and-efficiency-for-the-secure-wan-edge)
 - [Introducing Cisco XDR Playbooks: Finding the balance in automating and guiding incident response](https://feedpress.me/link/23532/16628301/introducing-cisco-xdr-playbooks)
 - [Balancing agility and predictability to achieve major engineering breakthroughs](https://feedpress.me/link/23532/16632938/balancing-agility-and-predictability-to-achieve-major-engineering-breakthroughs)
-- [Securing the LLM Stack](https://feedpress.me/link/23532/16632169/securing-the-llm-stack)
 <!-- BLOG-POST-LIST:END --> 
