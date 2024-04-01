@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [7 Common Cybersecurity Mistakes Made by SMBs](https://feedpress.me/link/23532/16637106/7-common-cybersecurity-mistakes-made-by-smbs)
 - [Rev Up to Recert: Network Assurance Learn and earn CE credits for free](https://feedpress.me/link/23532/16637082/rev-up-to-recert-network-assurance)
+- [Cryptocurrency and Blockchain security due diligence: A guide to hedge risk](https://feedpress.me/link/23532/16637072/cryptocurrency-and-blockchain-security-due-diligence-a-guide-to-hedge-risk)
 - [Pave the Way for New Revenue with Transport Slicing Automation and Assurance](https://feedpress.me/link/23532/16637020/pave-the-way-for-new-revenue-with-transport-slicing-automation-and-assurance)
 - [Cisco Nexus Insights: Proactive Day 2 Operations](https://feedpress.me/link/23532/16635364/cisco-nexus-insights-proactive-day-2-operations)
-- [Collaboration Innovation at Enterprise Connect 2024](https://feedpress.me/link/23532/16635128/collaboration-innovation-at-enterprise-connect-2024)
-- [Partnering for Purpose: Bridging the Gender Gap in Leadership Development](https://feedpress.me/link/23532/16634159/partnering-for-purpose-bridging-the-gender-gap-in-leadership-development)
 <!-- BLOG-POST-LIST:END --> 
