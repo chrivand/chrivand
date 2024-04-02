@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [From Mobile Coding to Cisco Intern: My Tech Transformation Story](https://feedpress.me/link/23532/16638110/from-mobile-coding-to-cisco-intern-my-tech-transformation-story)
 - [Cisco at NAB 2024: Committed to Delivering Next-Level Experiences That ‘Wow’](https://feedpress.me/link/23532/16637186/cisco-at-nab-2024)
 - [7 Common Cybersecurity Mistakes Made by SMBs](https://feedpress.me/link/23532/16637106/7-common-cybersecurity-mistakes-made-by-smbs)
 - [Rev Up to Recert: Network Assurance Learn and earn CE credits for free](https://feedpress.me/link/23532/16637082/rev-up-to-recert-network-assurance)
 - [Cryptocurrency and Blockchain security due diligence: A guide to hedge risk](https://feedpress.me/link/23532/16637072/cryptocurrency-and-blockchain-security-due-diligence-a-guide-to-hedge-risk)
-- [Pave the Way for New Revenue with Transport Slicing Automation and Assurance](https://feedpress.me/link/23532/16637020/pave-the-way-for-new-revenue-with-transport-slicing-automation-and-assurance)
 <!-- BLOG-POST-LIST:END --> 
