@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Build for Better Code Challenge Focuses on AI and Sustainability](https://feedpress.me/link/23532/16638221/build-for-better-code-challenge-focuses-on-ai-and-sustainability)
+- [Re-architecting Broadband Networks](https://feedpress.me/link/23532/16638222/re-architecting-broadband-networks)
 - [Tech Tools for the Future: Zebras, AI, and Girls in ICT Day](https://feedpress.me/link/23532/16638140/tech-tools-for-the-future-zebras-ai-and-girls-in-ict-day)
 - [Prioritizing risk based vulnerability compliance for Financial Institutions](https://feedpress.me/link/23532/16638142/prioritizing-risk-based-vulnerability-compliance-for-financial-institutions)
 - [From Mobile Coding to Cisco Intern: My Tech Transformation Story](https://feedpress.me/link/23532/16638110/from-mobile-coding-to-cisco-intern-my-tech-transformation-story)
-- [Cisco at NAB 2024: Committed to Delivering Next-Level Experiences That ‘Wow’](https://feedpress.me/link/23532/16637186/cisco-at-nab-2024)
-- [7 Common Cybersecurity Mistakes Made by SMBs](https://feedpress.me/link/23532/16637106/7-common-cybersecurity-mistakes-made-by-smbs)
 <!-- BLOG-POST-LIST:END --> 
