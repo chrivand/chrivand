@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Unlocking the Future of Government Cybersecurity: Insights from CyberScoop’s Zero Trust Summit](https://feedpress.me/link/23532/16639551/unlocking-the-future-of-government-cybersecurity-insights-from-cyberscoops-zero-trust-summit)
 - [Cisco Secure Application makes it easier than ever to secure your cloud native applications and sensitive data](https://feedpress.me/link/23532/16638235/cisco-secure-application-makes-it-easier-than-ever-to-secure-your-cloud-native-applications-and-sensitive-data)
 - [Build for Better Code Challenge Focuses on AI and Sustainability](https://feedpress.me/link/23532/16638221/build-for-better-code-challenge-focuses-on-ai-and-sustainability)
 - [Re-architecting Broadband Networks](https://feedpress.me/link/23532/16638222/re-architecting-broadband-networks)
 - [Tech Tools for the Future: Zebras, AI, and Girls in ICT Day](https://feedpress.me/link/23532/16638140/tech-tools-for-the-future-zebras-ai-and-girls-in-ict-day)
-- [Prioritizing risk based vulnerability compliance for Financial Institutions](https://feedpress.me/link/23532/16638142/prioritizing-risk-based-vulnerability-compliance-for-financial-institutions)
 <!-- BLOG-POST-LIST:END --> 
