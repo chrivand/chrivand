@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Navigating the Multicloud Journey with Cisco’s New Certifications [Infographic]](https://feedpress.me/link/23532/16641664/navigating-the-multicloud-journey-with-ciscos-new-certifications-infographic)
+- [Cisco Industrial IoT: Enabling the global acceleration of offshore wind](https://feedpress.me/link/23532/16641662/cisco-industrial-iot-enabling-the-global-acceleration-of-offshore-wind)
 - [Empowering Partner Success: How 3 Black Female CEOs lead the charge with AACPC](https://feedpress.me/link/23532/16641591/empowering-partner-success-how-3-black-female-ceos-lead-the-charge-with-aacpc)
 - [Transforming Connectivity: Inside Bush Brothers &amp; Company’s Network Infrastructure Overhaul](https://feedpress.me/link/23532/16641581/transforming-connectivity-inside-bush-brothers-companys-network-infrastructure-overhaul)
 - [Meet the new Cisco Catalyst 1200 and 1300 Series Switches for SMBs](https://feedpress.me/link/23532/16640679/meet-the-new-cisco-catalyst-1200-and-1300-series-switches-for-smbs)
-- [Cisco Duo wins Best in KLAS again for the second year in a row](https://feedpress.me/link/23532/16639759/cisco-duo-wins-best-in-klas-again)
-- [Delivering on the vision of a modern grid network that’s secure, simple, and scalable](https://feedpress.me/link/23532/16639703/delivering-on-the-vision-of-a-modern-grid-network-thats-secure-simple-and-scalable)
 <!-- BLOG-POST-LIST:END --> 
