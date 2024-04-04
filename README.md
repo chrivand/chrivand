@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Meet the new Cisco Catalyst 1200 and 1300 Series Switches for SMBs](https://feedpress.me/link/23532/16640679/meet-the-new-cisco-catalyst-1200-and-1300-series-switches-for-smbs)
 - [Cisco Duo wins Best in KLAS again for the second year in a row](https://feedpress.me/link/23532/16639759/cisco-duo-wins-best-in-klas-again)
 - [Delivering on the vision of a modern grid network that’s secure, simple, and scalable](https://feedpress.me/link/23532/16639703/delivering-on-the-vision-of-a-modern-grid-network-thats-secure-simple-and-scalable)
 - [A True Trusted Advisor](https://feedpress.me/link/23532/16639647/a-true-trusted-advisor)
 - [Unlocking the Future of Government Cybersecurity: Insights from CyberScoop’s Zero Trust Summit](https://feedpress.me/link/23532/16639551/unlocking-the-future-of-government-cybersecurity-insights-from-cyberscoops-zero-trust-summit)
-- [Cisco Secure Application makes it easier than ever to secure your cloud native applications and sensitive data](https://feedpress.me/link/23532/16638235/cisco-secure-application-makes-it-easier-than-ever-to-secure-your-cloud-native-applications-and-sensitive-data)
 <!-- BLOG-POST-LIST:END --> 
