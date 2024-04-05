@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Retail Tech Deep-Dive: CAE Labs](https://feedpress.me/link/23532/16642739/retail-tech-deep-dive-cae-labs)
 - [Mastering Skills with Play: The Fusion of Gaming and Learning in Black Belt Gamification](https://feedpress.me/link/23532/16642619/mastering-skills-with-play-the-fusion-of-gaming-and-learning-in-black-belt-gamification)
 - [Navigating the Multicloud Journey with Cisco’s New Certifications [Infographic]](https://feedpress.me/link/23532/16641664/navigating-the-multicloud-journey-with-ciscos-new-certifications-infographic)
 - [Cisco Industrial IoT: Enabling the global acceleration of offshore wind](https://feedpress.me/link/23532/16641662/cisco-industrial-iot-enabling-the-global-acceleration-of-offshore-wind)
 - [Empowering Partner Success: How 3 Black Female CEOs lead the charge with AACPC](https://feedpress.me/link/23532/16641591/empowering-partner-success-how-3-black-female-ceos-lead-the-charge-with-aacpc)
-- [Transforming Connectivity: Inside Bush Brothers &amp; Company’s Network Infrastructure Overhaul](https://feedpress.me/link/23532/16641581/transforming-connectivity-inside-bush-brothers-companys-network-infrastructure-overhaul)
 <!-- BLOG-POST-LIST:END --> 
