@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Cisco Access Points among the First to Be Standard-Power Certified by the FCC](https://feedpress.me/link/23532/16644534/cisco-access-points-among-the-first-to-be-standard-power-certified-by-the-fcc)
+- [Transform Media Broadcasting with IP: Cisco and Imagine Communications](https://feedpress.me/link/23532/16644535/transform-media-broadcasting-with-ip-cisco-and-imagine-communications)
 - [Quantum Security and Networking are Emerging as Lifelines in Our Quantum-powered Future](https://feedpress.me/link/23532/16644426/quantum-security-and-networking-are-emerging-as-lifelines-in-our-quantum-powered-future)
 - [It’s Time to Update Your Network Assurance Skills](https://feedpress.me/link/23532/16642845/its-time-to-update-your-network-assurance-skills)
 - [Retail Tech Deep-Dive: CAE Labs](https://feedpress.me/link/23532/16642739/retail-tech-deep-dive-cae-labs)
-- [Mastering Skills with Play: The Fusion of Gaming and Learning in Black Belt Gamification](https://feedpress.me/link/23532/16642619/mastering-skills-with-play-the-fusion-of-gaming-and-learning-in-black-belt-gamification)
-- [Navigating the Multicloud Journey with Cisco’s New Certifications [Infographic]](https://feedpress.me/link/23532/16641664/navigating-the-multicloud-journey-with-ciscos-new-certifications-infographic)
 <!-- BLOG-POST-LIST:END --> 
