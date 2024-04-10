@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Cisco and Nutanix: A 360-Degree Partnership Where 1 + 1 = 3](https://feedpress.me/link/23532/16646712/cisco-and-nutanix-a-360-degree-partnership-where-1-1-3)
+- [Cisco’s Vision at Hannover Messe 2024](https://feedpress.me/link/23532/16646698/ciscos-vision-at-hannover-messe-2024)
+- [Cisco at NAB 2024: Cloud-Native Media Production](https://feedpress.me/link/23532/16646695/nab2024-cloud-native-media-production)
 - [Defusing the threat of compromised credentials](https://feedpress.me/link/23532/16645476/defusing-the-threat-of-compromised-credentials)
 - [Building Bridges: Embracing Change, Growth, and Discovery at Cisco](https://feedpress.me/link/23532/16645477/building-bridges-embracing-change-growth-and-discovery-at-cisco)
-- [Leveraging Cloud Native Technologies in the Broadcast Industry](https://feedpress.me/link/23532/16644647/leveraging-cloud-native-technologies-in-the-broadcast-industry)
-- [Cisco Access Points among the First to Be Standard-Power Certified by the FCC](https://feedpress.me/link/23532/16644534/cisco-access-points-among-the-first-to-be-standard-power-certified-by-the-fcc)
-- [Transform Media Broadcasting with IP: Cisco and Imagine Communications](https://feedpress.me/link/23532/16644535/transform-media-broadcasting-with-ip-cisco-and-imagine-communications)
 <!-- BLOG-POST-LIST:END --> 
