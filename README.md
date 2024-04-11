@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Innovative Financing for Amazon Region Preservation and Restoration](https://feedpress.me/link/23532/16647789/innovative-financing-for-amazon-region-preservation-and-restoration)
 - [Cisco Secure Access Wins Global Security Service Edge Customer Value Leadership Award](https://feedpress.me/link/23532/16647643/cisco-secure-access-wins-global-security-service-edge-customer-value-leadership-award)
 - [Cisco and Nutanix: A 360-Degree Partnership Where 1 + 1 = 3](https://feedpress.me/link/23532/16646712/cisco-and-nutanix-a-360-degree-partnership-where-1-1-3)
 - [Cisco’s Vision at Hannover Messe 2024](https://feedpress.me/link/23532/16646698/ciscos-vision-at-hannover-messe-2024)
 - [Cisco at NAB 2024: Cloud-Native Media Production](https://feedpress.me/link/23532/16646695/nab2024-cloud-native-media-production)
-- [Defusing the threat of compromised credentials](https://feedpress.me/link/23532/16645476/defusing-the-threat-of-compromised-credentials)
 <!-- BLOG-POST-LIST:END --> 
