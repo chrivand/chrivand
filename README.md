@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Maximize Managed Services: Cisco ThousandEyes Drives MSPs Towards Outstanding Client Experiences](https://feedpress.me/link/23532/16648846/maximize-managed-services-cisco-thousandeyes-drives-msps-towards-outstanding-client-experiences)
 - [Full-stack application and data security with business risk observability](https://feedpress.me/link/23532/16647999/full-stack-application-and-data-security-with-business-risk-observability)
 - [Innovative Financing for Amazon Region Preservation and Restoration](https://feedpress.me/link/23532/16647789/innovative-financing-for-amazon-region-preservation-and-restoration)
 - [Cisco Secure Access Wins Global Security Service Edge Customer Value Leadership Award](https://feedpress.me/link/23532/16647643/cisco-secure-access-wins-global-security-service-edge-customer-value-leadership-award)
 - [Cisco and Nutanix: A 360-Degree Partnership Where 1 + 1 = 3](https://feedpress.me/link/23532/16646712/cisco-and-nutanix-a-360-degree-partnership-where-1-1-3)
-- [Cisco’s Vision at Hannover Messe 2024](https://feedpress.me/link/23532/16646698/ciscos-vision-at-hannover-messe-2024)
 <!-- BLOG-POST-LIST:END --> 
