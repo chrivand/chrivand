@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Retail Tech Deep-Dive: Meraki MT Sensors](https://feedpress.me/link/23532/16649041/retail-tech-deep-dive-meraki-sensors)
+- [Cisco Gold Partner: A Team Approach to Certification Turns to Gold at Advanced Unibyte](https://feedpress.me/link/23532/16649033/cisco-gold-partner-a-team-approach-to-certification-turns-to-gold-at-advanced-unibyte)
 - [Calling All Past Alumni to Test their Strength and Compete](https://feedpress.me/link/23532/16648869/calling-all-past-alumni-to-test-their-strength-and-compete)
 - [Maximize Managed Services: Cisco ThousandEyes Drives MSPs Towards Outstanding Client Experiences](https://feedpress.me/link/23532/16648846/maximize-managed-services-cisco-thousandeyes-drives-msps-towards-outstanding-client-experiences)
 - [Full-stack application and data security with business risk observability](https://feedpress.me/link/23532/16647999/full-stack-application-and-data-security-with-business-risk-observability)
-- [Innovative Financing for Amazon Region Preservation and Restoration](https://feedpress.me/link/23532/16647789/innovative-financing-for-amazon-region-preservation-and-restoration)
-- [Cisco Secure Access Wins Global Security Service Edge Customer Value Leadership Award](https://feedpress.me/link/23532/16647643/cisco-secure-access-wins-global-security-service-edge-customer-value-leadership-award)
 <!-- BLOG-POST-LIST:END --> 
