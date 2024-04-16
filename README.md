@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Celebrating Cisco’s AI Differentiation and Our Engineers During World Creativity &amp; Innovation Week](https://feedpress.me/link/23532/16651818/celebrating-ciscos-ai-differentiation-and-our-engineers-during-world-creativity-innovation-week)
+- [Answering the Executive “Why” and “What” for Full-Stack Observability](https://feedpress.me/link/23532/16651816/answering-the-executive-why-and-what-for-full-stack-observability)
 - [Synergizing Advanced Identity Threat Detection &amp; Response Solutions](https://feedpress.me/link/23532/16651595/synergizing-advanced-identity-threat-detection-response-solutions)
 - [Coding for a Greener Tomorrow: Developer Sustainability Week Takes Center Stage](https://feedpress.me/link/23532/16650772/developer-sustainability-week-events)
 - [The Journey: Quantum’s Yellow Brick Road](https://feedpress.me/link/23532/16650626/the-journey-quantums-yellow-brick-road)
-- [Cisco Telemetry Broker &lpar;CTB&rpar; 2.1 Launch](https://feedpress.me/link/23532/16650543/cisco-telemetry-broker-ctb-2-1-launch)
-- [Retail Tech Deep-Dive: Meraki MT Sensors](https://feedpress.me/link/23532/16649041/retail-tech-deep-dive-meraki-sensors)
 <!-- BLOG-POST-LIST:END --> 
