@@ -33,5 +33,5 @@ He learned coding in C, but currently his favorite language is Python. He also v
 - [Innovation and Continuity: Cisco Meraki in the Education Sector](https://feedpress.me/link/23532/16653990/innovation-and-continuity-cisco-meraki-in-the-education-sector)
 - [Turning Cisco’s Tuition Reimbursement Green](https://feedpress.me/link/23532/16653923/turning-ciscos-tuition-reimbursement-green)
 - [Cisco Hypershield: Security reimagined — hyper-distributed security for the AI-scale data center](https://feedpress.me/link/23532/16653671/cisco-hypershield-security-reimagined-hyper-distributed-security-for-the-ai-scale-data-center)
-- [Cisco Hypershield: Reimagining Security](https://feedpress.me/link/23532/16653654/cisco-hypershield-reimagining-security)
+- [Cisco Hypershield: A New Era of Distributed, AI-Native Security](https://feedpress.me/link/23532/16653657/cisco-hypershield-a-new-era-of-distributed-ai-native-security)
 <!-- BLOG-POST-LIST:END --> 
