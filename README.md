@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Cisco Hypershield: Reimagining Security](https://feedpress.me/link/23532/16653654/cisco-hypershield-reimagining-security)
+- [Cisco Hypershield: A New Era of Distributed, AI-Native Security](https://feedpress.me/link/23532/16653657/cisco-hypershield-a-new-era-of-distributed-ai-native-security)
 - [The network effect: The secret weapon for smart manufacturing](https://feedpress.me/link/23532/16652926/the-network-effect-the-secret-weapon-for-smart-manufacturing)
 - [Supercharging Cisco XDR with AI and Identity Intelligence at RSAC 2024](https://feedpress.me/link/23532/16652759/supercharging-cisco-xdr-with-ai-and-identity-intelligence-at-rsac-2024)
 - [Celebrating Cisco’s AI Differentiation and Our Engineers During World Creativity &amp; Innovation Week](https://feedpress.me/link/23532/16651818/celebrating-ciscos-ai-differentiation-and-our-engineers-during-world-creativity-innovation-week)
-- [Answering the Executive “Why” and “What” for Full-Stack Observability](https://feedpress.me/link/23532/16651816/answering-the-executive-why-and-what-for-full-stack-observability)
-- [Synergizing Advanced Identity Threat Detection &amp; Response Solutions](https://feedpress.me/link/23532/16651595/synergizing-advanced-identity-threat-detection-response-solutions)
 <!-- BLOG-POST-LIST:END --> 
