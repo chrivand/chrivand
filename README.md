@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [For Cisco Insider Wouter Hindriks, curiosity and passion for problem solving are keys to success.](https://feedpress.me/link/23532/16654128/for-cisco-insider-wouter-hindriks-curiosity-and-passion-for-problem-solving-are-keys-to-success)
+- [Earth Day: How we’re helping our social and environmental systems heal and thrive](https://feedpress.me/link/23532/16654130/earth-day-how-were-helping-our-social-and-environmental-systems-heal-and-thrive)
 - [Cisco at Hannover Messe 2024: Know Before You Go](https://feedpress.me/link/23532/16654003/cisco-at-hannover-messe-2024-know-before-you-go)
 - [Innovation and Continuity: Cisco Meraki in the Education Sector](https://feedpress.me/link/23532/16653990/innovation-and-continuity-cisco-meraki-in-the-education-sector)
 - [Turning Cisco’s Tuition Reimbursement Green](https://feedpress.me/link/23532/16653923/turning-ciscos-tuition-reimbursement-green)
-- [Cisco Hypershield: Security reimagined — hyper-distributed security for the AI-scale data center](https://feedpress.me/link/23532/16653671/cisco-hypershield-security-reimagined-hyper-distributed-security-for-the-ai-scale-data-center)
-- [Cisco Hypershield: A New Era of Distributed, AI-Native Security](https://feedpress.me/link/23532/16653657/cisco-hypershield-a-new-era-of-distributed-ai-native-security)
 <!-- BLOG-POST-LIST:END --> 
