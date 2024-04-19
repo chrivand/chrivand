@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Introducing the 7th Annual Partner Innovation Challenge: Featuring an Exciting New Prize Category](https://feedpress.me/link/23532/16655108/introducing-the-7th-annual-partner-innovation-challenge-featuring-an-exciting-new-prize-category)
+- [How We’re Delivering Next-Gen Workforce Collaboration with Cisco Private 5G](https://feedpress.me/link/23532/16655109/how-were-delivering-next-gen-workforce-collaboration-with-cisco-private-5g)
 - [For Cisco Insider Wouter Hindriks, curiosity and passion for problem solving are keys to success.](https://feedpress.me/link/23532/16654128/for-cisco-insider-wouter-hindriks-curiosity-and-passion-for-problem-solving-are-keys-to-success)
 - [Earth Day: How we’re helping our social and environmental systems heal and thrive](https://feedpress.me/link/23532/16654130/earth-day-how-were-helping-our-social-and-environmental-systems-heal-and-thrive)
 - [Cisco at Hannover Messe 2024: Know Before You Go](https://feedpress.me/link/23532/16654003/cisco-at-hannover-messe-2024-know-before-you-go)
-- [Innovation and Continuity: Cisco Meraki in the Education Sector](https://feedpress.me/link/23532/16653990/innovation-and-continuity-cisco-meraki-in-the-education-sector)
-- [Turning Cisco’s Tuition Reimbursement Green](https://feedpress.me/link/23532/16653923/turning-ciscos-tuition-reimbursement-green)
 <!-- BLOG-POST-LIST:END --> 
