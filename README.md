@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Customers Praise the Surprising Longevity and Adaptability of Cisco UCS](https://feedpress.me/link/23532/16656998/customers-praise-the-surprising-longevity-and-adaptability-of-cisco-ucs)
+- [Find Your Path to Unmatched Security and Unified Experiences](https://feedpress.me/link/23532/16656999/find-your-path-to-unmatched-security-and-unified-experiences)
+- [It’s Earth Day!  Let’s talk Circularity, Growth and Profitability!](https://feedpress.me/link/23532/16657000/its-earth-day-lets-talk-circularity-growth-and-profitability)
 - [Transforming Operations to Eliminate Technical Debt](https://feedpress.me/link/23532/16656894/transforming-operations-to-eliminate-technical-debt)
 - [Introducing the 7th Annual Partner Innovation Challenge: Featuring an Exciting New Prize Category](https://feedpress.me/link/23532/16655108/introducing-the-7th-annual-partner-innovation-challenge-featuring-an-exciting-new-prize-category)
-- [How We’re Delivering Next-Gen Workforce Collaboration with Cisco Private 5G](https://feedpress.me/link/23532/16655109/how-were-delivering-next-gen-workforce-collaboration-with-cisco-private-5g)
-- [For Cisco Insider Wouter Hindriks, curiosity and passion for problem solving are keys to success.](https://feedpress.me/link/23532/16654128/for-cisco-insider-wouter-hindriks-curiosity-and-passion-for-problem-solving-are-keys-to-success)
-- [Earth Day: How we’re helping our social and environmental systems heal and thrive](https://feedpress.me/link/23532/16654130/earth-day-how-were-helping-our-social-and-environmental-systems-heal-and-thrive)
 <!-- BLOG-POST-LIST:END --> 
