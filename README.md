@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Full Stack Observability: Everything, everywhere, all at once](https://feedpress.me/link/23532/16661737/full-stack-observability-everything-everywhere-all-at-once)
+- [How Cisco is Redefining Security and Our Partner Experience](https://feedpress.me/link/23532/16661733/how-cisco-is-redefining-security-and-our-partner-experience)
+- [New Cisco Defense Orchestrator &lpar;CDO&rpar; API](https://feedpress.me/link/23532/16661735/new-cisco-defense-orchestrator-cdo-api)
 - [Customers Praise the Surprising Longevity and Adaptability of Cisco UCS](https://feedpress.me/link/23532/16656998/customers-praise-the-surprising-longevity-and-adaptability-of-cisco-ucs)
 - [Find Your Path to Unmatched Security and Unified Experiences](https://feedpress.me/link/23532/16656999/find-your-path-to-unmatched-security-and-unified-experiences)
-- [It’s Earth Day!  Let’s talk Circularity, Growth and Profitability!](https://feedpress.me/link/23532/16657000/its-earth-day-lets-talk-circularity-growth-and-profitability)
-- [Transforming Operations to Eliminate Technical Debt](https://feedpress.me/link/23532/16656894/transforming-operations-to-eliminate-technical-debt)
-- [Introducing the 7th Annual Partner Innovation Challenge: Featuring an Exciting New Prize Category](https://feedpress.me/link/23532/16655108/introducing-the-7th-annual-partner-innovation-challenge-featuring-an-exciting-new-prize-category)
 <!-- BLOG-POST-LIST:END --> 
