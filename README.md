@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Celebrating a New Era in Partnering: NTT DATA and Cisco](https://feedpress.me/link/23532/16663463/celebrating-a-new-era-in-partnering-ntt-data-and-cisco)
 - [CCNA in the Age of AI](https://feedpress.me/link/23532/16661878/ccna-in-the-age-of-ai)
 - [Full Stack Observability: Everything, everywhere, all at once](https://feedpress.me/link/23532/16661737/full-stack-observability-everything-everywhere-all-at-once)
 - [How Cisco is Redefining Security and Our Partner Experience](https://feedpress.me/link/23532/16661733/how-cisco-is-redefining-security-and-our-partner-experience)
 - [New Cisco Defense Orchestrator &lpar;CDO&rpar; API](https://feedpress.me/link/23532/16661735/new-cisco-defense-orchestrator-cdo-api)
-- [Customers Praise the Surprising Longevity and Adaptability of Cisco UCS](https://feedpress.me/link/23532/16656998/customers-praise-the-surprising-longevity-and-adaptability-of-cisco-ucs)
 <!-- BLOG-POST-LIST:END --> 
