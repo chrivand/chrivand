@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [A Five-Phase Strategy for Embracing Industry 4.0 with Cisco](https://feedpress.me/link/23532/16664689/a-five-phase-strategy-for-embracing-industry-4-0-with-cisco)
 - [The Student-Centric Experience: Technologies](https://feedpress.me/link/23532/16627076/student-centric-experience)
 - [Transforming Tech: Why Leadership Must Start with Our Girls in STEM](https://feedpress.me/link/23532/16663892/transforming-tech-why-leadership-must-start-with-our-girls-in-stem)
 - [Retail Tech Deep-Dive: Meraki Switching](https://feedpress.me/link/23532/16663722/retail-tech-deep-dive-meraki-switching)
 - [Helping the health of our planet, one bottle at a time](https://feedpress.me/link/23532/16663608/helping-the-health-of-our-planet-one-bottle-at-a-time)
-- [Celebrating a New Era in Partnering: NTT DATA and Cisco](https://feedpress.me/link/23532/16663463/celebrating-a-new-era-in-partnering-ntt-data-and-cisco)
 <!-- BLOG-POST-LIST:END --> 
