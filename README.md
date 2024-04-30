@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Computing that’s purpose-built for a more energy-efficient, AI-driven future](https://feedpress.me/link/23532/16668658/computing-thats-purpose-built-for-a-more-energy-efficient-ai-driven-future)
+- [How We’re Navigating Parenthood, Careers, and Connection at Cisco](https://feedpress.me/link/23532/16668659/how-were-navigating-parenthood-careers-and-connection-at-cisco)
 - [Increasing cybersecurity awareness and skills training across India](https://feedpress.me/link/23532/16668410/increasing-cybersecurity-awareness-and-skills-training-across-india)
 - [Comply-to-Connect and Cisco ISE: Revolutionizing the Department of Defense](https://feedpress.me/link/23532/16667490/comply-to-connect-and-cisco-ise-revolutionizing-the-department-of-defense)
 - [Tracking Energy Consumption at the Cisco Store](https://feedpress.me/link/23532/16665883/cisco-store-energy-tracker)
-- [Experience Eco-Friendly Data Center Efficiency with Cisco’s Unified Computing System &lpar;UCS&rpar;](https://feedpress.me/link/23532/16665747/experience-eco-friendly-data-center-efficiency-with-ciscos-unified-computing-system-ucs)
-- [Evolving Broadband Networks with Cisco Subscriber Edge](https://feedpress.me/link/23532/16665681/evolving-broadband-networks-with-cisco-subscriber-edge)
 <!-- BLOG-POST-LIST:END --> 
