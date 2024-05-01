@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Which Programming Language to Choose for AI?](https://feedpress.me/link/23532/16669860/which-programming-language-to-choose-for-ai-in-2024)
 - [Beyond visibility, there’s observability](https://feedpress.me/link/23532/16669766/beyond-visibility-theres-observability)
 - [Computing that’s purpose-built for a more energy-efficient, AI-driven future](https://feedpress.me/link/23532/16668658/computing-thats-purpose-built-for-a-more-energy-efficient-ai-driven-future)
 - [How We’re Navigating Parenthood, Careers, and Connection at Cisco](https://feedpress.me/link/23532/16668659/how-were-navigating-parenthood-careers-and-connection-at-cisco)
 - [Increasing cybersecurity awareness and skills training across India](https://feedpress.me/link/23532/16668410/increasing-cybersecurity-awareness-and-skills-training-across-india)
-- [Comply-to-Connect and Cisco ISE: Revolutionizing the Department of Defense](https://feedpress.me/link/23532/16667490/comply-to-connect-and-cisco-ise-revolutionizing-the-department-of-defense)
 <!-- BLOG-POST-LIST:END --> 
