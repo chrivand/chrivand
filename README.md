@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [The Student-Centric Experience: Leadership](https://feedpress.me/link/23532/16671516/the-student-centric-experience-leadership)
+- [Ying Ying Yang finds a new life and career in Australia as a Cisco Networking Academy Instructor](https://feedpress.me/link/23532/16671517/ying-ying-yang-finds-a-new-life-and-career-in-australia-as-a-cisco-networking-instructor)
 - [4 Takeaways from Hannover Messe 2024](https://feedpress.me/link/23532/16669900/takeaways-from-hannover-messe2024)
 - [Which Programming Language to Choose for AI?](https://feedpress.me/link/23532/16669860/which-programming-language-to-choose-for-ai-in-2024)
 - [Beyond visibility, there’s observability](https://feedpress.me/link/23532/16669766/beyond-visibility-theres-observability)
-- [Computing that’s purpose-built for a more energy-efficient, AI-driven future](https://feedpress.me/link/23532/16668658/computing-thats-purpose-built-for-a-more-energy-efficient-ai-driven-future)
-- [How We’re Navigating Parenthood, Careers, and Connection at Cisco](https://feedpress.me/link/23532/16668659/how-were-navigating-parenthood-careers-and-connection-at-cisco)
 <!-- BLOG-POST-LIST:END --> 
