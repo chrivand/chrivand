@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Unifying Excellence with Strategic Partnerships: Cisco Black Belt Academy and VQ Communications](https://feedpress.me/link/23532/16672638/unifying-excellence-with-strategic-partnerships-cisco-black-belt-academy-and-vq-communications)
 - [Strengthening our U.S. Public Sector Leadership Team with the Promotion of two Industry Veterans](https://feedpress.me/link/23532/16672551/strengthening-our-u-s-public-sector-leadership-team-with-the-promotion-of-two-industry-veterans)
+- [Up-Skill at the Cisco Live 2024 DevNet Zone](https://feedpress.me/link/23532/16672635/up-skill-at-the-cisco-live-2024-devnet-zone)
 - [Cisco at NAB2024: Takeaways](https://feedpress.me/link/23532/16671732/cisco-at-nab2024-takeaways)
 - [Setting the Standard: Cisco Catalyst switches among the first to achieve ENERGY STAR certification](https://feedpress.me/link/23532/16671844/setting-the-standard-cisco-catalyst-switches-among-the-first-to-achieve-energy-star-certification)
-- [Operational Innovations for AI and Cloud-Native Workloads from Cisco and Red Hat](https://feedpress.me/link/23532/16671596/operational-innovations-for-ai-and-cloud-native-workloads-from-cisco-and-red-hat)
-- [The Student-Centric Experience: Leadership](https://feedpress.me/link/23532/16671516/the-student-centric-experience-leadership)
 <!-- BLOG-POST-LIST:END --> 
