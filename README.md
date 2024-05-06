@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [StateRAMP: Understanding Authorization of Cisco’s Security Solutions](https://feedpress.me/link/23532/16674332/stateramp-understanding-authorization-of-ciscos-security-solutions)
 - [Outshift Leads the Way with AI at RSA Conference 2024](https://feedpress.me/link/23532/16674273/outshift-announces-its-latest-cloud-native-application-security-enhancements-at-rsa-conference-2024)
 - [Cisco Hypershield – Our Vision to Combat Unknown Vulnerabilities](https://feedpress.me/link/23532/16674268/cisco-hypershield-our-vision-to-combat-unknown-vulnerabilities)
 - [Cisco &amp; Splunk: A Complete SOC Platform Purpose-Built for the AI-Driven Future](https://feedpress.me/link/23532/16674271/cisco-splunk-a-complete-soc-platform-purpose-built-for-the-ai-driven-future)
 - [Unifying Excellence with Strategic Partnerships: Cisco Black Belt Academy and VQ Communications](https://feedpress.me/link/23532/16672638/unifying-excellence-with-strategic-partnerships-cisco-black-belt-academy-and-vq-communications)
-- [Strengthening our U.S. Public Sector Leadership Team with the Promotion of two Industry Veterans](https://feedpress.me/link/23532/16672551/strengthening-our-u-s-public-sector-leadership-team-with-the-promotion-of-two-industry-veterans)
 <!-- BLOG-POST-LIST:END --> 
