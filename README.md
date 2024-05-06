@@ -30,8 +30,8 @@ He learned coding in C, but currently his favorite language is Python. He also v
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [The Evolution of Sports Fans: From Game Day to Experience Day](https://feedpress.me/link/23532/16674439/evolution-of-sports-fans)
+- [Becoming a Model-Driven Telemetry Power User with Cisco IOS XE](https://feedpress.me/link/23532/16674521/becoming-a-model-driven-telemetry-power-user-with-cisco-ios-xe)
 - [RSAC: Partners Make The Art of Possible, Possible](https://feedpress.me/link/23532/16674383/rsac-partners-make-the-art-of-possible-possible)
 - [StateRAMP: Understanding Authorization of Cisco’s Security Solutions](https://feedpress.me/link/23532/16674332/stateramp-understanding-authorization-of-ciscos-security-solutions)
 - [Outshift Leads the Way with AI at RSA Conference 2024](https://feedpress.me/link/23532/16674273/outshift-announces-its-latest-cloud-native-application-security-enhancements-at-rsa-conference-2024)
-- [Cisco Hypershield – Our Vision to Combat Unknown Vulnerabilities](https://feedpress.me/link/23532/16674268/cisco-hypershield-our-vision-to-combat-unknown-vulnerabilities)
 <!-- BLOG-POST-LIST:END --> 
