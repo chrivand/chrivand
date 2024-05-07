@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Cisco Observability Platform is a game changer for digital-first organizations](https://feedpress.me/link/23532/16675460/cisco-observability-platform-is-a-game-changer-for-digital-first-organizations)
 - [Digital Empowerment on Display at the Cisco Broadband Innovation Center](https://feedpress.me/link/23532/16675451/digital-empowerment-on-display-at-the-cisco-broadband-innovation-center)
 - [Cisco Co-Selling Made Simple: Accelerate](https://feedpress.me/link/23532/16675452/cisco-co-selling-made-simple-accelerate)
 - [Accelerating SaaS security certifications to maximize market access](https://feedpress.me/link/23532/16675331/accelerating-saas-security-certifications-to-maximize-market-access-2)
 - [How I Found Work-Life Balance Through Fitness at Cisco](https://feedpress.me/link/23532/16675332/how-i-found-work-life-balance-through-fitness-at-cisco)
-- [Empowering Cybersecurity with AI: The Future of Cisco XDR](https://feedpress.me/link/23532/16675068/empowering-cybersecurity-with-ai-the-future-of-cisco-xdr)
 <!-- BLOG-POST-LIST:END --> 
