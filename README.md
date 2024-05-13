@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Optimizing business velocity with Cisco Full-Stack Observability](https://feedpress.me/link/23532/16680672/optimizing-business-velocity-with-cisco-full-stack-observability)
+- [Cisco’s Women of the Channel: Empowering Innovation, Leadership, and Success in 2024](https://feedpress.me/link/23532/16680669/ciscos-women-of-the-channel-empowering-innovation-leadership-and-success-in-2024)
 - [Climate concerns: Personal advice on how to navigate eco-anxiety](https://feedpress.me/link/23532/16677709/climate-concerns-personal-advice-on-how-to-navigate-eco-anxiety)
 - [Secure Firewall &amp; Multicloud Defense: Secure Connectivity With Simplified Policy Across Clouds](https://feedpress.me/link/23532/16676546/secure-firewall-multicloud-defense-secure-connectivity-with-simplified-policy-across-clouds)
 - [Go Beyond at Cisco Live with Cisco Customer Experience](https://feedpress.me/link/23532/16676547/go-beyond-at-cisco-live-with-cisco-customer-experience)
-- [INFRAM24: Measuring your IT strategy and capabilities to drive adoption and improve outcomes](https://feedpress.me/link/23532/16675658/infram24)
-- [Cisco Observability Platform is a game changer for digital-first organizations](https://feedpress.me/link/23532/16675460/cisco-observability-platform-is-a-game-changer-for-digital-first-organizations)
 <!-- BLOG-POST-LIST:END --> 
