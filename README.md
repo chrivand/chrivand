@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Explore New Freedoms with Cisco Hypershield](https://feedpress.me/link/23532/16682954/explore-new-freedoms-with-cisco-hypershield)
+- [Embracing the Platform Approach for Smart Scaling and Sustainable Growth](https://feedpress.me/link/23532/16682955/embracing-the-platform-approach-for-smart-scaling-and-sustainable-growth)
 - [Four ways DORA compliance is an opportunity for financial services organizations to accelerate digital transformation](https://feedpress.me/link/23532/16682864/four-ways-dora-compliance-is-an-opportunity-for-financial-services-organizations-to-accelerate-digital-transformation)
 - [Black Hat Asia 2024 NOC: Cisco Security Cloud](https://feedpress.me/link/23532/16682833/black-hat-asia-2024-noc-cisco-security-cloud)
 - [What we learned over coffee at the year’s biggest healthcare event](https://feedpress.me/link/23532/16682023/himss2024-webexconnect)
-- [Using Cisco’s Benefits To Ease Difficult Times: The Bridge To Giving Yourself Grace](https://feedpress.me/link/23532/16681727/using-ciscos-benefits-to-ease-difficult-times-the-bridge-to-giving-yourself-grace)
-- [Optimizing business velocity with Cisco Full-Stack Observability](https://feedpress.me/link/23532/16680672/optimizing-business-velocity-with-cisco-full-stack-observability)
 <!-- BLOG-POST-LIST:END --> 
