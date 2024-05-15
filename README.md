@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Embracing Machine-as-a-Service: Transforming Manufacturing](https://feedpress.me/link/23532/16683045/embracing-machine-as-a-service-transforming-manufacturing)
 - [Announcing the Build for Better Code Challenge Winners](https://feedpress.me/link/23532/16682988/announcing-the-build-for-better-code-challenge-winners)
 - [Cisco Customer Advocate Awards: Americas 2024 Finalists](https://feedpress.me/link/23532/16682985/cisco-customer-advocate-awards-americas-2024-finalists)
 - [Explore New Freedoms with Cisco Hypershield](https://feedpress.me/link/23532/16682954/explore-new-freedoms-with-cisco-hypershield)
 - [Embracing the Platform Approach for Smart Scaling and Sustainable Growth](https://feedpress.me/link/23532/16682955/embracing-the-platform-approach-for-smart-scaling-and-sustainable-growth)
-- [Four ways DORA compliance is an opportunity for financial services organizations to accelerate digital transformation](https://feedpress.me/link/23532/16682864/four-ways-dora-compliance-is-an-opportunity-for-financial-services-organizations-to-accelerate-digital-transformation)
 <!-- BLOG-POST-LIST:END --> 
