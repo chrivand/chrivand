@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Harnessing Network and Application Performance Insights for Effective Automation](https://feedpress.me/link/23532/16687863/harnessing-network-and-application-performance-insights-for-effective-automation)
 - [Whole of State: Leveraging Security Platforms in Government](https://feedpress.me/link/23532/16687766/whole-of-state-leveraging-security-platforms-in-government)
 - [Strengthen Your Security Operations: MITRE ATT&amp;CK Mapping in Cisco XDR](https://feedpress.me/link/23532/16687728/strengthen-your-security-operations-mitre-attck-mapping-in-cisco-xdr)
 - [Accessing Secure Client Cloud Management after the SecureX EoL](https://feedpress.me/link/23532/16685544/accessing-secure-client-cloud-management-after-the-securex-eol)
 - [Critical Steps to Bolster UK’s Cyber Resilience: Insights for Policy Makers from Cisco’s Cyber Readiness Index](https://feedpress.me/link/23532/16685354/uk-cyber-resilience-policy-cisco)
-- [Four Reasons Why Assurance Is More Critical Than Ever](https://feedpress.me/link/23532/16684081/four-reasons-why-assurance-is-more-critical-than-ever)
 <!-- BLOG-POST-LIST:END --> 
