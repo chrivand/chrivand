@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Why IT Leaders Are Evolving the Network into a High-Performance Digital Engine](https://feedpress.me/link/23532/16690185/why-it-leaders-are-evolving-the-network-into-a-high-performance-digital-engine)
 - [Public Sector at Cisco Live 2024](https://feedpress.me/link/23532/16690054/public-sector-at-cisco-live-2024)
 - [Empowering Growth: My Journey with the Cisco MentorMe Program](https://feedpress.me/link/23532/16688857/empowering-growth-my-journey-with-the-cisco-mentorme-program)
 - [Harnessing Network and Application Performance Insights for Effective Automation](https://feedpress.me/link/23532/16687863/harnessing-network-and-application-performance-insights-for-effective-automation)
 - [Whole of State: Leveraging Security Platforms in Government](https://feedpress.me/link/23532/16687766/whole-of-state-leveraging-security-platforms-in-government)
-- [Strengthen Your Security Operations: MITRE ATT&amp;CK Mapping in Cisco XDR](https://feedpress.me/link/23532/16687728/strengthen-your-security-operations-mitre-attck-mapping-in-cisco-xdr)
 <!-- BLOG-POST-LIST:END --> 
