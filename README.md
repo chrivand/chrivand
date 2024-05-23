@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Navigating Multicloud Security: How MSPs Can Leverage the Cloud Protection Suite to Secure their Customers](https://feedpress.me/link/23532/16691802/navigating-multicloud-security-how-msps-can-leverage-the-cloud-protection-suite-to-secure-their-customers)
 - [Consumer Industries at Cisco Live 2024](https://feedpress.me/link/23532/16691717/consumer-industries-at-cisco-live2024)
 - [Demystifying Multicloud Networking with Cisco Multicloud Defense](https://feedpress.me/link/23532/16691641/demystifying-multicloud-networking-with-cisco-multicloud-defense)
 - [The Crux of Android 14 Application Migration and Its Impact](https://feedpress.me/link/23532/16691058/the-crux-of-android-14-application-migration-and-its-impact)
 - [Sustainability 101: What is a resilient ecosystem?](https://feedpress.me/link/23532/16690397/sustainability-101-what-is-a-resilient-ecosystem)
-- [Why IT Leaders Are Evolving the Network into a High-Performance Digital Engine](https://feedpress.me/link/23532/16690185/why-it-leaders-are-evolving-the-network-into-a-high-performance-digital-engine)
 <!-- BLOG-POST-LIST:END --> 
