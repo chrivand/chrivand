@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Cisco Meraki Secures the Postman “Best API Award”](https://feedpress.me/link/23532/16692939/postmanawards01)
 - [Cisco Live Customer Experience Activations and Sweepstakes](https://feedpress.me/link/23532/16691885/cisco-live-customer-experience-activations-and-sweepstakes)
 - [Navigating Multicloud Security: How MSPs Can Leverage the Cloud Protection Suite to Secure their Customers](https://feedpress.me/link/23532/16691802/navigating-multicloud-security-how-msps-can-leverage-the-cloud-protection-suite-to-secure-their-customers)
 - [Consumer Industries at Cisco Live 2024](https://feedpress.me/link/23532/16691717/consumer-industries-at-cisco-live2024)
 - [Demystifying Multicloud Networking with Cisco Multicloud Defense](https://feedpress.me/link/23532/16691641/demystifying-multicloud-networking-with-cisco-multicloud-defense)
-- [The Crux of Android 14 Application Migration and Its Impact](https://feedpress.me/link/23532/16691058/the-crux-of-android-14-application-migration-and-its-impact)
 <!-- BLOG-POST-LIST:END --> 
