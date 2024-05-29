@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Integration of Cisco Secure Threat Defense Virtual with Megaport](https://feedpress.me/link/23532/16697192/integration-of-cisco-secure-threat-defense-virtual-with-megaport)
+- [Retail Tech Deep-Dive: Meraki Security](https://feedpress.me/link/23532/16697188/retail-tech-deep-dive-meraki-security)
 - [Industrials at Cisco Live 2024](https://feedpress.me/link/23532/16697044/industrials-at-cisco-live-2024)
 - [Simplify 5G Fixed Wireless Access and Scale Secure Connectivity to More Places](https://feedpress.me/link/23532/16696811/simplify-5g-fixed-wireless-access-and-scale-secure-connectivity-to-more-places)
 - [Shared Responsibility: How We Can All Ensure Election Security and Voter Confidence](https://feedpress.me/link/23532/16696069/shared-responsibility-election-security)
-- [Finding My Place, Part Three: Translating Military Skills to Cybersecurity Leadership](https://feedpress.me/link/23532/16695949/finding-my-place-part-three-translating-military-skills-to-cybersecurity-leadership)
-- [Navigating DORA &lpar;Digital Operational Resilience Act&rpar; with Secure Workload](https://feedpress.me/link/23532/16695950/navigating-dora-digital-operational-resilience-act-with-secure-workload)
 <!-- BLOG-POST-LIST:END --> 
