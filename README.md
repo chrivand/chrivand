@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Simplify 5G Fixed Wireless Access and Scale Secure Connectivity to More Places](https://feedpress.me/link/23532/16696811/simplify-5g-fixed-wireless-access-and-scale-secure-connectivity-to-more-places)
 - [Shared Responsibility: How We Can All Ensure Election Security and Voter Confidence](https://feedpress.me/link/23532/16696069/shared-responsibility-election-security)
 - [Finding My Place, Part Three: Translating Military Skills to Cybersecurity Leadership](https://feedpress.me/link/23532/16695949/finding-my-place-part-three-translating-military-skills-to-cybersecurity-leadership)
 - [Navigating DORA &lpar;Digital Operational Resilience Act&rpar; with Secure Workload](https://feedpress.me/link/23532/16695950/navigating-dora-digital-operational-resilience-act-with-secure-workload)
 - [Jumpstart your studies for ENNA with Network Assurance Prep](https://feedpress.me/link/23532/16695146/aspire-prepare-excel-now-prepare-for-the-network-assurance-exam)
-- [Cisco Meraki Secures the Postman “Best API Award”](https://feedpress.me/link/23532/16692939/postmanawards01)
 <!-- BLOG-POST-LIST:END --> 
