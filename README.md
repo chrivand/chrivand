@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [The power of community helps Cisco Insider Rob Taylor bring innovation to his customers.](https://feedpress.me/link/23532/16698789/the-power-of-community-helps-cisco-insider-rob-taylor-bring-innovation-to-his-customers)
 - [Revolutionizing Education in South Australia: Strong Networks, Strong Learning](https://feedpress.me/link/23532/16698188/revolutionizing-education-in-south-australia-strong-networks-strong-learning)
 - [Shifting gender stereotypes: ten years of Women Rock-IT](https://feedpress.me/link/23532/16698132/shifting-gender-stereotypes-ten-years-of-women-rock-it)
 - [Cisco Secure Firewall integrates with Azure Virtual WAN &lpar;vWAN&rpar; to simplify firewall insertion in Azure environments](https://feedpress.me/link/23532/16698133/cisco-secure-firewall-integrates-with-azure-virtual-wan-vwan-to-simplify-firewall-insertion-in-azure-environments)
 - [Managing Firewall complexity and Augmenting Effectiveness with AIOps for Cisco Firewall](https://feedpress.me/link/23532/16698134/managing-firewall-complexity-and-augmenting-effectiveness-with-aiops-for-cisco-firewall)
-- [A Year of Opportunity: Our Role in Empowering Global Progress](https://feedpress.me/link/23532/16697702/a-year-of-opportunity-our-role-in-empowering-global-progress)
 <!-- BLOG-POST-LIST:END --> 
