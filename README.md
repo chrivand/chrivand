@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [A Year of Opportunity: Our Role in Empowering Global Progress](https://feedpress.me/link/23532/16697702/a-year-of-opportunity-our-role-in-empowering-global-progress)
 - [From IT Pro to Swiftie, Scott Sardella’s Winning Big with Cisco Insider Advocates](https://feedpress.me/link/23532/16697247/from-it-pro-to-swiftie-scott-sardellas-winning-big-with-cisco-insider-advocates)
 - [From Trend to Mainstay: The Unstoppable Force of Managed Services](https://feedpress.me/link/23532/16697242/from-trend-to-mainstay-the-unstoppable-force-of-managed-services)
 - [Integration of Cisco Secure Threat Defense Virtual with Megaport](https://feedpress.me/link/23532/16697192/integration-of-cisco-secure-threat-defense-virtual-with-megaport)
 - [Retail Tech Deep-Dive: Meraki Security](https://feedpress.me/link/23532/16697188/retail-tech-deep-dive-meraki-security)
-- [Industrials at Cisco Live 2024](https://feedpress.me/link/23532/16697044/industrials-at-cisco-live-2024)
 <!-- BLOG-POST-LIST:END --> 
