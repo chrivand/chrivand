@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Nexus Dashboard Essentials: Learn How to Manage Your Data Center Fabric Like a Pro](https://feedpress.me/link/23532/16700080/nexus-dashboard-essentials-learn-how-to-manage-your-data-center-fabric-like-a-pro)
 - [Get Ready for more Cisco Software and Solutions on Google Cloud Marketplace](https://feedpress.me/link/23532/16699920/get-ready-for-more-cisco-software-and-solutions-on-google-cloud-marketplace)
 - [Introducing the Open Supply-Chain Information Modeling &lpar;OSIM&rpar; Technical Committee](https://feedpress.me/link/23532/16699788/introducing-the-open-supply-chain-information-modeling-osim-technical-committee)
 - [Make Your Buildings Smarter with Cisco Spaces Cloud](https://feedpress.me/link/23532/16699168/make-your-buildings-smarter-with-cisco-spaces-cloud)
 - [E80 Group secures its AGVs with Cisco industrial solutions and Italtel system integration](https://feedpress.me/link/23532/16698967/e80-group-secures-its-agvs-with-cisco-industrial-solutions-and-italtel-system-integration)
-- [Inspiring Innovation at Cisco Live Las Vegas 2024](https://feedpress.me/link/23532/16698864/inspiring-innovation-at-cisco-live-las-vegas-2024)
 <!-- BLOG-POST-LIST:END --> 
