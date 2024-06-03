@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [The Giro Effect: Transforming Partnerships in the Ecosystem Era](https://feedpress.me/link/23532/16701821/the-giro-effect-transforming-partnerships-in-the-ecosystem-era)
 - [Funding a Whole of State Approach for your Community](https://feedpress.me/link/23532/16701734/funding-a-whole-of-state-approach-for-your-community)
 - [XDR means so much more than some may realize](https://feedpress.me/link/23532/16701691/xdr-means-so-much-more-than-some-may-realize)
 - [Cisco Defense Orchestrator’s Path to FedRAMP Authorization](https://feedpress.me/link/23532/16700884/cisco-defense-orchestrators-path-to-fedramp-authorization)
 - [For the Love of Learning: We’re Here for You at Cisco Live 2024 Las Vegas!](https://feedpress.me/link/23532/16700176/for-the-love-of-learning-were-here-for-you-at-cisco-live-2024-las-vegas)
-- [Nexus Dashboard Essentials: Learn How to Manage Your Data Center Fabric Like a Pro](https://feedpress.me/link/23532/16700080/nexus-dashboard-essentials-learn-how-to-manage-your-data-center-fabric-like-a-pro)
 <!-- BLOG-POST-LIST:END --> 
