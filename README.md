@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Cisco Enhances Zero Trust Access with Google](https://feedpress.me/link/23532/16700131/cisco-enhances-zero-trust-access-with-google)
 - [New security superpowers to help IT with OT security](https://feedpress.me/link/23532/16701858/new-security-superpowers-to-help-it-with-ot-security)
 - [The Giro Effect: Transforming Partnerships in the Ecosystem Era](https://feedpress.me/link/23532/16701821/the-giro-effect-transforming-partnerships-in-the-ecosystem-era)
 - [Funding a Whole of State Approach for your Community](https://feedpress.me/link/23532/16701734/funding-a-whole-of-state-approach-for-your-community)
 - [XDR means so much more than some may realize](https://feedpress.me/link/23532/16701691/xdr-means-so-much-more-than-some-may-realize)
-- [Cisco Defense Orchestrator’s Path to FedRAMP Authorization](https://feedpress.me/link/23532/16700884/cisco-defense-orchestrators-path-to-fedramp-authorization)
 <!-- BLOG-POST-LIST:END --> 
