@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Cisco Enhances Zero Trust Access with Google](https://feedpress.me/link/23532/16700131/cisco-enhances-zero-trust-access-with-google)
-- [New security superpowers to help IT with OT security](https://feedpress.me/link/23532/16701858/new-security-superpowers-to-help-it-with-ot-security)
-- [The Giro Effect: Transforming Partnerships in the Ecosystem Era](https://feedpress.me/link/23532/16701821/the-giro-effect-transforming-partnerships-in-the-ecosystem-era)
-- [Funding a Whole of State Approach for your Community](https://feedpress.me/link/23532/16701734/funding-a-whole-of-state-approach-for-your-community)
-- [XDR means so much more than some may realize](https://feedpress.me/link/23532/16701691/xdr-means-so-much-more-than-some-may-realize)
+- [Cisco Live 2024: Enhancing Network Simplicity and Efficiency While Facilitating Superior Digital Experiences](https://feedpress.me/link/23532/16703512/cisco-live-2024-enhancing-network-simplicity-and-efficiency-while-facilitating-superior-digital-experiences)
+- [Cisco Security at Cisco Live 2024: Innovating at Scale](https://feedpress.me/link/23532/16703513/cisco-security-at-cisco-live-2024-innovating-at-scale)
+- [Entering the New Era of Digital Experience Assurance Across Every Network](https://feedpress.me/link/23532/16703514/entering-the-new-era-of-digital-experience-assurance-across-every-network)
+- [It’s Time to Take Control of Experiences and Transform Infrastructure Operations for AI](https://feedpress.me/link/23532/16703532/its-time-to-take-control-of-experiences-and-transform-infrastructure-operations-for-ai)
+- [Cisco Live 2024: Ensure Digital Resilience, Pervasive Security, and Simpler Operations](https://feedpress.me/link/23532/16703510/cisco-live-2024-ensure-digital-resilience-pervasive-security-and-simpler-operations)
 <!-- BLOG-POST-LIST:END --> 
