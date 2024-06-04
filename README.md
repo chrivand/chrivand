@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Industry Innovation: Solving Business Challenges in Retail](https://feedpress.me/link/23532/16703601/fireside-chat-solving-business-challenges-in-retail)
 - [Cisco Live 2024: Enhancing Network Simplicity and Efficiency While Facilitating Superior Digital Experiences](https://feedpress.me/link/23532/16703512/cisco-live-2024-enhancing-network-simplicity-and-efficiency-while-facilitating-superior-digital-experiences)
 - [Cisco Security at Cisco Live 2024: Innovating at Scale](https://feedpress.me/link/23532/16703513/cisco-security-at-cisco-live-2024-innovating-at-scale)
 - [Entering the New Era of Digital Experience Assurance Across Every Network](https://feedpress.me/link/23532/16703514/entering-the-new-era-of-digital-experience-assurance-across-every-network)
 - [It’s Time to Take Control of Experiences and Transform Infrastructure Operations for AI](https://feedpress.me/link/23532/16703532/its-time-to-take-control-of-experiences-and-transform-infrastructure-operations-for-ai)
-- [Cisco Live 2024: Ensure Digital Resilience, Pervasive Security, and Simpler Operations](https://feedpress.me/link/23532/16703510/cisco-live-2024-ensure-digital-resilience-pervasive-security-and-simpler-operations)
 <!-- BLOG-POST-LIST:END --> 
