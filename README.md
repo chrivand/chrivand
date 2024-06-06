@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Securing Meraki Networks with Cisco XDR](https://feedpress.me/link/23532/16706449/securing-meraki-networks-with-cisco-xdr)
 - [Cisco Continues Elevating Partner AI Capabilities to Meet Customer Demand](https://feedpress.me/link/23532/16705526/cisco-continues-elevating-partner-ai-capabilities-to-meet-customer-demand)
 - [Outshift by Cisco Releases Motific’s AI Capabilities with the Power of Mistral AI Behind It](https://feedpress.me/link/23532/16705524/outshift-by-cisco-releases-motifics-ai-capabilities-with-the-power-of-mistral-ai-behind-it)
 - [Bringing the Cisco AppDynamics + Splunk Better Together story to Cisco Live](https://feedpress.me/link/23532/16705518/bringing-appdynamics-splunk-better-together-story-to-cisco-live)
 - [Congratulations to the 2024 Americas CX Customer Hero Award Winners](https://feedpress.me/link/23532/16704044/congratulations-to-the-2024-americas-cx-customer-hero-award-winners)
-- [Best of the Best: Cisco Customer Advocate Awards: Americas 2024 Winners](https://feedpress.me/link/23532/16703650/best-of-the-best-cisco-customer-advocate-awards-americas-2024-winners)
 <!-- BLOG-POST-LIST:END --> 
