@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Securely Connect Everything Everywhere with a Unified SASE Platform](https://feedpress.me/link/23532/16707583/securely-connect-everything-everywhere-with-a-unified-sase-platform)
 - [Security, the cloud, and AI: building powerful outcomes while simplifying your experience](https://feedpress.me/link/23532/16707489/security-the-cloud-and-ai-building-powerful-outcomes-while-simplifying-your-experience)
 - [Cisco AI Assistant for Managing Firewall Policies Is Now Available](https://feedpress.me/link/23532/16706736/cisco-ai-assistant-for-managing-firewall-policies-is-now-available)
 - [Securing Meraki Networks with Cisco XDR](https://feedpress.me/link/23532/16706449/securing-meraki-networks-with-cisco-xdr)
 - [Cisco Continues Elevating Partner AI Capabilities to Meet Customer Demand](https://feedpress.me/link/23532/16705526/cisco-continues-elevating-partner-ai-capabilities-to-meet-customer-demand)
-- [Outshift by Cisco Releases Motific’s AI Capabilities with the Power of Mistral AI Behind It](https://feedpress.me/link/23532/16705524/outshift-by-cisco-releases-motifics-ai-capabilities-with-the-power-of-mistral-ai-behind-it)
 <!-- BLOG-POST-LIST:END --> 
