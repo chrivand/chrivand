@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Transforming Security: Latest Innovations Driving Partner Growth](https://feedpress.me/link/23532/16709695/transforming-security-latest-innovations-driving-partner-growth)
+- [Navigating the Digital Future: Cisco’s Vision for the UK’s Tech-Led Growth](https://feedpress.me/link/23532/16709690/digital-future-cisco-uk-technology-growth-policy)
 - [Cisco Builds on the CNAPP Movement to Secure and Protect the Cloud Native Application Estate](https://feedpress.me/link/23532/16709562/cisco-builds-on-the-cnapp-movement-to-secure-and-protect-the-cloud-native-application-estate)
 - [AI-Enabled ICT Workforce Consortium Expands to G7 Countries](https://feedpress.me/link/23532/16707702/ai-enabled-ict-workforce-consortium-expands-to-g7-countries)
 - [Securely Connect Everything Everywhere with a Unified SASE Platform](https://feedpress.me/link/23532/16707583/securely-connect-everything-everywhere-with-a-unified-sase-platform)
-- [Security, the cloud, and AI: building powerful outcomes while simplifying your experience](https://feedpress.me/link/23532/16707489/security-the-cloud-and-ai-building-powerful-outcomes-while-simplifying-your-experience)
-- [Cisco AI Assistant for Managing Firewall Policies Is Now Available](https://feedpress.me/link/23532/16706736/cisco-ai-assistant-for-managing-firewall-policies-is-now-available)
 <!-- BLOG-POST-LIST:END --> 
