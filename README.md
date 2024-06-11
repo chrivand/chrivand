@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Cisco Recognized for Global Leadership in LGBTQ+ Inclusion](https://feedpress.me/link/23532/16711351/cisco-recognized-for-global-leadership-in-lgbtq-inclusion)
 - [Cisco Simplifies Cloud Security with AWS Cloud WAN Service Insertion](https://feedpress.me/link/23532/16710908/cisco-simplifies-cloud-security-with-aws-cloud-wan-service-insertion)
 - [From “Hello World” to “Hi AI”](https://feedpress.me/link/23532/16710904/from-hello-world-to-hi-ai)
 - [Cisco Secure Connect: The Turn-Key SASE Solution for Managed Service Providers](https://feedpress.me/link/23532/16710862/cisco-secure-connect-the-turn-key-sase-solution-for-managed-service-providers)
 - [Rebooting Europe’s Sustainable Growth and Connectivity with Cisco’s Policy Roadmap](https://feedpress.me/link/23532/16710636/europe-sustainable-growth-connectivity-policy)
-- [Forrester Names Cisco a Leader in OT Security](https://feedpress.me/link/23532/16711237/forrester-names-cisco-a-leader-in-ot-cybersecurity)
 <!-- BLOG-POST-LIST:END --> 
