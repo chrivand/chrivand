@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Cisco Secure Connect: The Turn-Key SASE Solution for Managed Service Providers](https://feedpress.me/link/23532/16710862/cisco-secure-connect-the-turn-key-sase-solution-for-managed-service-providers)
 - [Rebooting Europe’s Sustainable Growth and Connectivity with Cisco’s Policy Roadmap](https://feedpress.me/link/23532/16710636/europe-sustainable-growth-connectivity-policy)
 - [Transforming Security: Latest Innovations Driving Partner Growth](https://feedpress.me/link/23532/16709695/transforming-security-latest-innovations-driving-partner-growth)
 - [Navigating the Digital Future: Cisco’s Vision for the UK’s Tech-Led Growth](https://feedpress.me/link/23532/16709690/digital-future-cisco-uk-technology-growth-policy)
 - [Cisco Builds on the CNAPP Movement to Secure and Protect the Cloud Native Application Estate](https://feedpress.me/link/23532/16709562/cisco-builds-on-the-cnapp-movement-to-secure-and-protect-the-cloud-native-application-estate)
-- [AI-Enabled ICT Workforce Consortium Expands to G7 Countries](https://feedpress.me/link/23532/16707702/ai-enabled-ict-workforce-consortium-expands-to-g7-countries)
 <!-- BLOG-POST-LIST:END --> 
