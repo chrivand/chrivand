@@ -33,5 +33,5 @@ He learned coding in C, but currently his favorite language is Python. He also v
 - [From “Hello World” to “Hi AI”](https://feedpress.me/link/23532/16710904/from-hello-world-to-hi-ai)
 - [Cisco Secure Connect: The Turn-Key SASE Solution for Managed Service Providers](https://feedpress.me/link/23532/16710862/cisco-secure-connect-the-turn-key-sase-solution-for-managed-service-providers)
 - [Rebooting Europe’s Sustainable Growth and Connectivity with Cisco’s Policy Roadmap](https://feedpress.me/link/23532/16710636/europe-sustainable-growth-connectivity-policy)
-- [Transforming Security: Latest Innovations Driving Partner Growth](https://feedpress.me/link/23532/16709695/transforming-security-latest-innovations-driving-partner-growth)
+- [Forrester Names Cisco a Leader in OT Security](https://feedpress.me/link/23532/16711237/forrester-names-cisco-a-leader-in-ot-cybersecurity)
 <!-- BLOG-POST-LIST:END --> 
