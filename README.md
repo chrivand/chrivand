@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Embracing New Additions With Cisco’s Child Bonding Leave](https://feedpress.me/link/23532/16713060/embracing-new-additions-with-ciscos-child-bonding-leave)
+- [Bolster SaaS Security Posture Management with Zero Trust Architecture](https://feedpress.me/link/23532/16713061/bolster-saas-security-posture-management-with-zero-trust-architecture)
+- [Operationalizing our custom “SOC in a Box” at the RSA Conference 2024](https://feedpress.me/link/23532/16713058/operationalizing-our-custom-soc-in-a-box-at-the-rsa-conference-2024)
 - [Join Cisco at the SEAT Conference: A Hub for Sports Industry Innovation and Insights](https://feedpress.me/link/23532/16712309/seat-a-hub-for-sports-innovation-and-insights)
 - [Navigating the Summer Beat: Insights from Cisco Live and our Partners](https://feedpress.me/link/23532/16712119/navigating-the-summer-beat-insights-from-cisco-live-and-our-partners)
-- [Cisco ISE 3.4 begins June with a bang](https://feedpress.me/link/23532/16712024/cisco-ise-3-4-begins-june-with-a-bang)
-- [Cisco Tees off at 2024 Championship Season](https://feedpress.me/link/23532/16711902/cisco-tees-off-at-2024-championship-season)
-- [Cisco Recognized for Global Leadership in LGBTQ+ Inclusion](https://feedpress.me/link/23532/16711351/cisco-recognized-for-global-leadership-in-lgbtq-inclusion)
 <!-- BLOG-POST-LIST:END --> 
