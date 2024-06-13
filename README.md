@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Top Takeaways from the Cisco Live 2024 DevNet Zone: AI, Programmability, and More](https://feedpress.me/link/23532/16713322/top-developer-takeaways-from-cisco-live-2024-ai-programmability-and-more)
 - [Revelations from Cisco Live: The Future of AI and Integrated Security](https://feedpress.me/link/23532/16713214/revelations-from-cisco-live-the-future-of-ai-and-integrated-security)
 - [Education 4.0: The Role of AI in Transforming Education](https://feedpress.me/link/23532/16713096/education-4-0-the-role-of-ai-in-transforming-education)
 - [Embracing New Additions With Cisco’s Child Bonding Leave](https://feedpress.me/link/23532/16713060/embracing-new-additions-with-ciscos-child-bonding-leave)
 - [Bolster SaaS Security Posture Management with Zero Trust Architecture](https://feedpress.me/link/23532/16713061/bolster-saas-security-posture-management-with-zero-trust-architecture)
-- [Operationalizing our custom “SOC in a Box” at the RSA Conference 2024](https://feedpress.me/link/23532/16713058/operationalizing-our-custom-soc-in-a-box-at-the-rsa-conference-2024)
 <!-- BLOG-POST-LIST:END --> 
