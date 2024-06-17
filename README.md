@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Mastering Nutanix Hyperconverged Infrastructure on Cisco’s Black Belt Academy](https://feedpress.me/link/23532/16716948/mastering-nutanix-hyperconverged-infrastructure-on-ciscos-black-belt-academy)
 - [Stay Compliant: Cisco Secure Workload Introduces State-of-the-art, Persona-based Reporting](https://feedpress.me/link/23532/16716835/stay-compliant-cisco-secure-workload-introduces-state-of-the-art-persona-based-reporting)
 - [Co-innovating with Historically Black Colleges and Universities](https://feedpress.me/link/23532/16716829/co-innovating-with-historically-black-colleges-and-universities)
 - [Cisco Live 2024: Inspiring to Go Beyond](https://feedpress.me/link/23532/16714614/cisco-live-2024-inspiring-to-go-beyond)
 - [Top Takeaways from the Cisco Live 2024 DevNet Zone: AI, Programmability, and More](https://feedpress.me/link/23532/16713322/top-developer-takeaways-from-cisco-live-2024-ai-programmability-and-more)
-- [Revelations from Cisco Live: The Future of AI and Integrated Security](https://feedpress.me/link/23532/16713214/revelations-from-cisco-live-the-future-of-ai-and-integrated-security)
 <!-- BLOG-POST-LIST:END --> 
