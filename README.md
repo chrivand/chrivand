@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Campaign Spotlight: Driving Demand with Marketing Velocity Central and User Protection Campaign](https://feedpress.me/link/23532/16718509/campaign-spotlight-driving-demand-with-marketing-velocity-central-and-user-protection-campaign)
 - [Embracing Authenticity Beyond June: A Decade of Pride and Progress at Cisco](https://feedpress.me/link/23532/16718385/embracing-authenticity-beyond-june-a-decade-of-pride-and-progress-at-cisco)
 - [The State of Cloud Security Platforms and DevSecOps](https://feedpress.me/link/23532/16718386/the-state-of-cloud-security-platforms-and-devsecops)
 - [How to Monitor Network Traffic: Findings from the Cisco Cyber Threat Trends Report](https://feedpress.me/link/23532/16718380/how-to-monitor-network-traffic-findings-from-the-cisco-cyber-threat-trends-report)
 - [Mastering Nutanix Hyperconverged Infrastructure on Cisco’s Black Belt Academy](https://feedpress.me/link/23532/16716948/mastering-nutanix-hyperconverged-infrastructure-on-ciscos-black-belt-academy)
-- [Stay Compliant: Cisco Secure Workload Introduces State-of-the-art, Persona-based Reporting](https://feedpress.me/link/23532/16716835/stay-compliant-cisco-secure-workload-introduces-state-of-the-art-persona-based-reporting)
 <!-- BLOG-POST-LIST:END --> 
