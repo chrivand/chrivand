@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Cisco API Documentations Is Now Adapted for Gen AI Technologies](https://feedpress.me/link/23532/16720812/cisco-api-documentations-is-now-adapted-for-gen-ai-technologies)
 - [The LA28 Games – Together](https://feedpress.me/link/23532/16720735/the-la28-games-together)
 - [Leveraging technology to empower refugees with secure and equitable access to information, resources, and opportunities](https://feedpress.me/link/23532/16720718/leveraging-technology-to-empower-refugees-with-secure-and-equitable-access-to-information-resources-and-opportunities)
 - [ESSER Funding: Top 3 Ways to Make it Work](https://feedpress.me/link/23532/16720660/esser-funding-top-3-ways-to-make-it-work)
 - [Up your Quality of Life with Secure MSP Hub and Secure MSP Center](https://feedpress.me/link/23532/16720602/up-your-quality-of-life-with-secure-msp-hub-and-secure-msp-center)
-- [Working with Community Corporate to reskill refugees through Cisco Networking Academy](https://feedpress.me/link/23532/16720029/working-with-community-corporate-to-reskill-refugees-through-cisco-networking-academy)
 <!-- BLOG-POST-LIST:END --> 
