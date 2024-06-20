@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Up your Quality of Life with Secure MSP Hub and Secure MSP Center](https://feedpress.me/link/23532/16720602/up-your-quality-of-life-with-secure-msp-hub-and-secure-msp-center)
 - [Working with Community Corporate to reskill refugees through Cisco Networking Academy](https://feedpress.me/link/23532/16720029/working-with-community-corporate-to-reskill-refugees-through-cisco-networking-academy)
 - [Juneteenth: A Day of Reflection, Celebration, and Commitment](https://feedpress.me/link/23532/16719729/juneteenth-a-day-of-reflection-celebration-and-commitment)
 - [European Cyber Resilience: How the EU Can Patch the Weak Spots in its Collective Armour](https://feedpress.me/link/23532/16719639/european-cyber-resilience-eu-security-policy)
 - [Celebrating Juneteenth: A Call to Embrace Our Shared Humanity](https://feedpress.me/link/23532/16719607/celebrating-juneteenth-a-call-to-embrace-our-shared-humanity)
-- [Deeper Service-centric Visibility Drives New Revenue and Simplifies Operations](https://feedpress.me/link/23532/16718534/deeper-service-centric-visibility-drives-new-revenue-and-simplifies-operations)
 <!-- BLOG-POST-LIST:END --> 
