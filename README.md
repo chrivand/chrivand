@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Security Cloud Control: Pioneering the Future of Security Management](https://feedpress.me/link/23532/16721618/security-cloud-control-pioneering-the-future-of-security-management)
+- [Enhancing AI Security Incident Response Through Collaborative Exercises](https://feedpress.me/link/23532/16721619/enhancing-ai-security-incident-response-through-collaborative-exercises)
 - [Cisco API Documentations Is Now Adapted for Gen AI Technologies](https://feedpress.me/link/23532/16720812/cisco-api-documentations-is-now-adapted-for-gen-ai-technologies)
 - [The LA28 Games – Together](https://feedpress.me/link/23532/16720735/the-la28-games-together)
 - [VDI Revolution: Intel Data Center GPU Flex Series and Cisco are Better Together](https://feedpress.me/link/23532/16720852/vdi-revolution-intel-and-cisco-better-together)
-- [Leveraging technology to empower refugees with secure and equitable access to information, resources, and opportunities](https://feedpress.me/link/23532/16720718/leveraging-technology-to-empower-refugees-with-secure-and-equitable-access-to-information-resources-and-opportunities)
-- [ESSER Funding: Top 3 Ways to Make it Work](https://feedpress.me/link/23532/16720660/esser-funding-top-3-ways-to-make-it-work)
 <!-- BLOG-POST-LIST:END --> 
