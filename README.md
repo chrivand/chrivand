@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Exciting News: CDO India and CDO Australia Now Generally Available!](https://feedpress.me/link/23532/16723416/exciting-news-cdo-india-and-cdo-australia-now-generally-available)
+- [Striving for Sustainability: Meet Pelin](https://feedpress.me/link/23532/16723417/striving-for-sustainability-meet-pelin)
+- [Sparking Growth and Inspiration: How Cisco Illuminates a New Path for Learning](https://feedpress.me/link/23532/16723418/sparking-growth-and-inspiration-how-cisco-illuminates-a-new-path-for-learning)
 - [Security Cloud Control: Pioneering the Future of Security Management](https://feedpress.me/link/23532/16721618/security-cloud-control-pioneering-the-future-of-security-management)
 - [Enhancing AI Security Incident Response Through Collaborative Exercises](https://feedpress.me/link/23532/16721619/enhancing-ai-security-incident-response-through-collaborative-exercises)
-- [Cisco API Documentations Is Now Adapted for Gen AI Technologies](https://feedpress.me/link/23532/16720812/cisco-api-documentations-is-now-adapted-for-gen-ai-technologies)
-- [The LA28 Games – Together](https://feedpress.me/link/23532/16720735/the-la28-games-together)
-- [VDI Revolution: Intel Data Center GPU Flex Series and Cisco are Better Together](https://feedpress.me/link/23532/16720852/vdi-revolution-intel-and-cisco-better-together)
 <!-- BLOG-POST-LIST:END --> 
