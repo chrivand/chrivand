@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Celebrating Authenticity at Cisco and London Pride](https://feedpress.me/link/23532/16724519/celebrating-authenticity-at-cisco-and-london-pride)
 - [Cisco NGO partner Simprints to advance ethical, inclusive AI for face recognition biometrics](https://feedpress.me/link/23532/16724289/cisco-ngo-partner-simprints-to-advance-ethical-inclusive-ai-for-face-recognition-biometrics)
 - [Navigating Cybersecurity and Regulatory Challenges in Financial Services](https://feedpress.me/link/23532/16723649/ciscolive-navigating-cybersecurity-and-regulatory-challenges-in-fsi)
 - [How to Create the Future of the Guest and Fan Experience](https://feedpress.me/link/23532/16723600/ciscolive2024-how-to-create-the-future-of-the-guest-and-fan-experience)
 - [Cisco Unveils Workflows in Cisco Networking Cloud for Secure Network Automation](https://feedpress.me/link/23532/16723535/cisco-unveils-workflows-in-cisco-networking-cloud-for-secure-network-automation)
-- [Automating How DevNet Produces API Changelogs](https://feedpress.me/link/23532/16723533/automating-how-devnet-produces-api-changelogs)
 <!-- BLOG-POST-LIST:END --> 
