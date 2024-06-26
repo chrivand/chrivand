@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [The AI Revolution and Critical Infrastructure](https://feedpress.me/link/23532/16725641/the-ai-revolution-and-critical-infrastructure)
 - [An Unforgettable Week at Cisco Live 2024 in Las Vegas](https://feedpress.me/link/23532/16725575/an-unforgettable-week-at-cisco-live-2024-in-las-vegas)
 - [Securing the Foundation: Optimizing Governmental Critical Infrastructure](https://feedpress.me/link/23532/16725557/securing-the-foundation-optimizing-governmental-critical-infrastructure)
 - [Digital Forensics for Investigating the Metaverse](https://feedpress.me/link/23532/16725552/digital-forensics-for-investigating-the-metaverse)
 - [Security Is Essential &lpar;Especially in the Cloud&rpar;](https://feedpress.me/link/23532/16724843/security-is-essential-especially-in-the-cloud)
-- [NIS2 for manufacturing organizations: 3 steps towards compliance](https://feedpress.me/link/23532/16724648/nis2-for-manufacturing-organizations-3-steps-towards-compliance)
 <!-- BLOG-POST-LIST:END --> 
