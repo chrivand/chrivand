@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Stopping Supply Chain Attacks with Cisco’s User Protection Suite](https://feedpress.me/link/23532/16728185/stopping-supply-chain-attacks-with-ciscos-user-protection-suite)
 - [An Artificially Intelligent Peer Reviewer Arrives](https://feedpress.me/link/23532/16727448/an-artificially-intelligent-peer-reviewer-arrives)
 - [Smart Infrastructure Gets Lit Up!](https://feedpress.me/link/23532/16727396/smart-infrastructure-gets-lit-up)
 - [A Foundation for AI and ML: Cisco Intelligent Industrial IoT Network Drives Uptime, Yield, Security, and Revenue](https://feedpress.me/link/23532/16725775/a-foundation-for-ai-and-ml-cisco-intelligent-industrial-iot-network-drives-uptime-yield-security-and-revenue)
 - [The AI Revolution and Critical Infrastructure](https://feedpress.me/link/23532/16725641/the-ai-revolution-and-critical-infrastructure)
-- [An Unforgettable Week at Cisco Live 2024 in Las Vegas](https://feedpress.me/link/23532/16725575/an-unforgettable-week-at-cisco-live-2024-in-las-vegas)
 <!-- BLOG-POST-LIST:END --> 
