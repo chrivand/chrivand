@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Maintaining Digital Compliance with the PCI DSS 4.0](https://feedpress.me/link/23532/16743927/maintaining-digital-compliance-with-the-pci-dss-4-0)
 - [How to Optimize Remote Work](https://feedpress.me/link/23532/16740957/how-to-optimize-remote-work)
 - [Cisco Black Belt Academy Unveils Enhanced Support Tracks](https://feedpress.me/link/23532/16739661/cisco-black-belt-academy-unveils-enhanced-support-tracks)
 - [The Trifecta Effect of Integrating XDR, SIEM, and SOAR](https://feedpress.me/link/23532/16739590/the-trifecta-effect-of-integrating-xdr-siem-and-soar)
 - [The Critical Intersection of AI and Security: A Partnership Imperative](https://feedpress.me/link/23532/16738068/the-critical-intersection-of-ai-and-security-a-partnership-imperative)
-- [Around the World with Cisco: From Student to Intern to CX Consulting Engineer](https://feedpress.me/link/23532/16738015/around-the-world-with-cisco-from-student-to-intern-to-cx-consulting-engineer)
 <!-- BLOG-POST-LIST:END --> 
