@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [A More Sustainable Future for Africa: Cisco’s Role in Bridging the Digital Divide](https://feedpress.me/link/23532/16746499/a-more-sustainable-future-for-africa-ciscos-role-in-bridging-the-digital-divide)
 - [5G or not to 5G….that is the manufacturing question!](https://feedpress.me/link/23532/16746396/5g-or-not-to-5g-that-is-the-manufacturing-question)
 - [Partnering for Purpose: Driving Literacy Through Collaboration](https://feedpress.me/link/23532/16746330/partnering-for-purpose-driving-literacy-through-collaboration)
 - [Accelerating SaaS solution delivery to the U.S. Federal Government](https://feedpress.me/link/23532/16746204/accelerating-saas-solution-delivery-to-the-u-s-federal-government)
 - [Six years into our housing commitment: Where are we now?](https://feedpress.me/link/23532/16746056/six-years-into-our-housing-commitment-where-are-we-now)
-- [Celebrating Artificial Intelligence, Its History and Evolution](https://feedpress.me/link/23532/16745022/celebrating-artificial-intelligence-its-history-and-evolution)
 <!-- BLOG-POST-LIST:END --> 
