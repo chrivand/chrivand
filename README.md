@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Introducing the Coalition for Secure AI &lpar;CoSAI&rpar;](https://feedpress.me/link/23532/16747379/introducing-the-coalition-for-secure-ai-cosai)
 - [Discovering Entrepreneurship with Cisco Networking Academy](https://feedpress.me/link/23532/16747268/discovering-entrepreneurship-with-cisco-networking-academy)
 - [Breaking through barriers: Upwardly Global helps work-authorized immigrants secure meaningful U.S. employment](https://feedpress.me/link/23532/16747057/breaking-through-barriers-upwardly-global-helps-work-authorized-immigrants-secure-meaningful-u-s-employment)
 - [A More Sustainable Future for Africa: Cisco’s Role in Bridging the Digital Divide](https://feedpress.me/link/23532/16746499/a-more-sustainable-future-for-africa-ciscos-role-in-bridging-the-digital-divide)
 - [5G or not to 5G….that is the manufacturing question!](https://feedpress.me/link/23532/16746396/5g-or-not-to-5g-that-is-the-manufacturing-question)
-- [Partnering for Purpose: Driving Literacy Through Collaboration](https://feedpress.me/link/23532/16746330/partnering-for-purpose-driving-literacy-through-collaboration)
 <!-- BLOG-POST-LIST:END --> 
