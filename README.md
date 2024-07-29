@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Unlock the Potential of AI/ML Workloads with Cisco Data Center Networks](https://feedpress.me/link/23532/16756044/unlock-the-potential-of-ai-ml-workloads-with-cisco-data-center-networks)
 - [Your industrial network is not a commodity: it is strategic to your success](https://feedpress.me/link/23532/16754262/your-industrial-network-is-not-a-commodity-it-is-strategic-to-your-success)
 - [CCNA: What It Means to Me, What Awaits in Cisco U.](https://feedpress.me/link/23532/16753410/what-the-ccna-means-to-me)
 - [Cisco Partner Conversations: Delivering for our clients with NTT DATA](https://feedpress.me/link/23532/16753256/cisco-partner-conversations-delivering-for-our-clients-with-ntt-data)
 - [Improving Data Center Energy Efficiency to Power the AI Revolution](https://feedpress.me/link/23532/16753257/improving-data-center-energy-efficiency-to-power-the-ai-revolution)
-- [E-rate Program Expanded, Plus Cisco Knowledge Hub Updates](https://feedpress.me/link/23532/16753196/e-rate-program-expanded-plus-cisco-knowledge-hub-updates)
 <!-- BLOG-POST-LIST:END --> 
