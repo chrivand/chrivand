@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [The Cisco Store Patching Station](https://feedpress.me/link/23532/16758254/cisco-store-patching-station)
 - [Unlocking the Future of MSSP Operations with Cisco CDO APIs](https://feedpress.me/link/23532/16758146/unlocking-the-future-of-mssp-operations-with-cisco-cdo-apis)
 - [The Transformational Opportunity of AI on ICT Jobs](https://feedpress.me/link/23532/16758019/the-transformational-opportunity-of-ai-on-ict-jobs)
 - [Protect Against Adversary-in-the-Middle with Cisco’s User Protection Suite](https://feedpress.me/link/23532/16758020/protect-against-adversary-in-the-middle-with-ciscos-user-protection-suite)
 - [Building bridges, feeding people and empowering students: How new technologies are changing lives](https://feedpress.me/link/23532/16757856/building-bridges-feeding-people-and-empowering-students-how-new-technologies-are-changing-lives)
-- [Listening to the Voice of the Customer: Cisco’s 2024 State of Industrial Networking Report](https://feedpress.me/link/23532/16757060/listening-to-the-voice-of-the-customer-cisco-2024-state-of-industrial-networking-report)
 <!-- BLOG-POST-LIST:END --> 
