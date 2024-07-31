@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [The Transformational Opportunity of AI on ICT Jobs](https://feedpress.me/link/23532/16758019/the-transformational-opportunity-of-ai-on-ict-jobs)
+- [Protect Against Adversary-in-the-Middle with Cisco’s User Protection Suite](https://feedpress.me/link/23532/16758020/protect-against-adversary-in-the-middle-with-ciscos-user-protection-suite)
 - [Building bridges, feeding people and empowering students: How new technologies are changing lives](https://feedpress.me/link/23532/16757856/building-bridges-feeding-people-and-empowering-students-how-new-technologies-are-changing-lives)
 - [Listening to the Voice of the Customer: Cisco’s 2024 State of Industrial Networking Report](https://feedpress.me/link/23532/16757060/listening-to-the-voice-of-the-customer-cisco-2024-state-of-industrial-networking-report)
 - [Embracing Diversity and Growth: My Cisco Internship Experience](https://feedpress.me/link/23532/16757050/embracing-diversity-and-growth-my-cisco-internship-experience)
-- [Unlock the Potential of AI/ML Workloads with Cisco Data Center Networks](https://feedpress.me/link/23532/16756044/unlock-the-potential-of-ai-ml-workloads-with-cisco-data-center-networks)
-- [Your industrial network is not a commodity: it is strategic to your success](https://feedpress.me/link/23532/16754262/your-industrial-network-is-not-a-commodity-it-is-strategic-to-your-success)
 <!-- BLOG-POST-LIST:END --> 
