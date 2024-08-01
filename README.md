@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [The Cisco Store Retail Roundup, Volume 2](https://feedpress.me/link/23532/16759255/cisco-store-retail-roundup-vol-2)
 - [A Commander’s-Intent-driven Network – Enabling Cyberspace Operations from the Tactical Edge and Beyond](https://feedpress.me/link/23532/16759160/a-commanders-intent-driven-network-enabling-cyberspace-operations-from-the-tactical-edge-and-beyond)
 - [How Smart Tech is Teaching Us About Our Oceans, One Catch at a Time](https://feedpress.me/link/23532/16759136/how-smart-tech-is-teaching-us-about-our-oceans-one-catch-at-a-time)
 - [Cisco Innovating a New Era of Security at Black Hat 2024](https://feedpress.me/link/23532/16759056/cisco-innovating-a-new-era-of-security-at-black-hat-2024)
 - [An In-Depth Look at the Cisco CCDE-AI Infrastructure Certification](https://feedpress.me/link/23532/16758320/an-in-depth-look-at-cisco-ccde-ai-infrastructure-certification)
-- [The Cisco Store Patching Station](https://feedpress.me/link/23532/16758254/cisco-store-patching-station)
 <!-- BLOG-POST-LIST:END --> 
