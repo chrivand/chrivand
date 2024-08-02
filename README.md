@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Remote SMB Security—Protect Your Business While Traveling](https://feedpress.me/link/23532/16760404/remote-smb-security-protect-your-business-while-traveling)
 - [Disaster Recovery Steps Up With New Cisco NERVs](https://feedpress.me/link/23532/16760304/disaster-recovery-steps-up-with-new-cisco-nervs)
 - [The Cisco Store Retail Roundup, Volume 2](https://feedpress.me/link/23532/16759255/cisco-store-retail-roundup-vol-2)
 - [A Commander’s-Intent-driven Network – Enabling Cyberspace Operations from the Tactical Edge and Beyond](https://feedpress.me/link/23532/16759160/a-commanders-intent-driven-network-enabling-cyberspace-operations-from-the-tactical-edge-and-beyond)
 - [How Smart Tech is Teaching Us About Our Oceans, One Catch at a Time](https://feedpress.me/link/23532/16759136/how-smart-tech-is-teaching-us-about-our-oceans-one-catch-at-a-time)
-- [Cisco Innovating a New Era of Security at Black Hat 2024](https://feedpress.me/link/23532/16759056/cisco-innovating-a-new-era-of-security-at-black-hat-2024)
 <!-- BLOG-POST-LIST:END --> 
