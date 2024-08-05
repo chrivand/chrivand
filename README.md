@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Cisco takes a quantum leap ahead to build a more inclusive future](https://feedpress.me/link/23532/16762371/cisco-takes-a-quantum-leap-ahead-to-build-a-more-inclusive-future)
 - [Cisco Umbrella for Government Achieves FedRAMP® “Authority to Operate”](https://feedpress.me/link/23532/16762298/cisco-umbrella-for-government-achieves-fedramp-authority-to-operate)
 - [Cisco XDR: Open Ecosystem Accelerated at Black Hat Events](https://feedpress.me/link/23532/16762236/cisco-xdr-open-ecosystem-accelerated-at-black-hat-events)
 - [Planning for Cisco Certification Exam Success](https://feedpress.me/link/23532/16760708/planning-for-cisco-certification-exam-success)
 - [Remote SMB Security—Protect Your Business While Traveling](https://feedpress.me/link/23532/16760404/remote-smb-security-protect-your-business-while-traveling)
-- [Disaster Recovery Steps Up With New Cisco NERVs](https://feedpress.me/link/23532/16760304/disaster-recovery-steps-up-with-new-cisco-nervs)
 <!-- BLOG-POST-LIST:END --> 
