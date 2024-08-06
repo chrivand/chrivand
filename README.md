@@ -32,6 +32,6 @@ He learned coding in C, but currently his favorite language is Python. He also v
 - [MSPs: Capitalize on the Expanding Opportunities in the Booming MDU Market](https://feedpress.me/link/23532/16763486/msps-capitalize-on-the-expanding-opportunities-in-the-booming-mdu-market)
 - [My Journey of Conservation and Fulfillment: Time2Give with Sea Turtles](https://feedpress.me/link/23532/16763375/my-journey-of-conservation-and-fulfillment-time2give-with-sea-turtles)
 - [Building a Resilient Network and Workload Security Architecture from the Ground Up](https://feedpress.me/link/23532/16763376/building-a-resilient-network-and-workload-security-architecture-from-the-ground-up)
-- [Cisco IOS XE Automation from Cisco Live AMEA 2024](https://feedpress.me/link/23532/16762536/cisco-ios-xe-automation-from-cisco-live-amea-2024)
+- [Cisco IOS XE Automation from Cisco Live 2024](https://feedpress.me/link/23532/16763592/cisco-ios-xe-automation-from-cisco-live-2024)
 - [Cisco takes a quantum leap ahead to build a more inclusive future](https://feedpress.me/link/23532/16762371/cisco-takes-a-quantum-leap-ahead-to-build-a-more-inclusive-future)
 <!-- BLOG-POST-LIST:END --> 
