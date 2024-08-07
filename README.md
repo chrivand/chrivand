@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [From Cybersecurity Practitioner to Advocacy: My Journey Back to Cisco](https://feedpress.me/link/23532/16765443/cybersecurity-advocacy-kyle-winters)
 - [Jumpstart Your Meraki Auto-VPN Journey in the Multi-Cloud Environment](https://feedpress.me/link/23532/16765326/meraki-auto-vpn-in-multi-cloud-environment)
 - [Cisco ISE 3.4 – Here and Now!](https://feedpress.me/link/23532/16764371/cisco-ise-3-4-here-and-now)
 - [MSPs: Capitalize on the Expanding Opportunities in the Booming MDU Market](https://feedpress.me/link/23532/16763486/msps-capitalize-on-the-expanding-opportunities-in-the-booming-mdu-market)
 - [My Journey of Conservation and Fulfillment: Time2Give with Sea Turtles](https://feedpress.me/link/23532/16763375/my-journey-of-conservation-and-fulfillment-time2give-with-sea-turtles)
-- [Building a Resilient Network and Workload Security Architecture from the Ground Up](https://feedpress.me/link/23532/16763376/building-a-resilient-network-and-workload-security-architecture-from-the-ground-up)
 <!-- BLOG-POST-LIST:END --> 
