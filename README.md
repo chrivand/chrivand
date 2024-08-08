@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Sustainability 101: How Hybrid Work Can Advance Sustainability in the Workforce](https://feedpress.me/link/23532/16766489/sustainability-101-how-hybrid-work-can-advance-sustainability-in-the-workforce)
+- [How to maximize the value of AI: Q&amp;A with Cisco experts](https://feedpress.me/link/23532/16766480/how-to-maximize-the-value-of-ai-qa-with-cisco-experts)
 - [The Critical Role of Data Center Technology in Transforming the Manufacturing Industry](https://feedpress.me/link/23532/16766275/the-critical-role-of-data-center-technology-in-transforming-the-manufacturing-industry)
 - [How East Carolina University Uses LoRaWAN to Drive Regional Innovation](https://feedpress.me/link/23532/16766241/how-east-carolina-university-uses-lorawan-to-drive-regional-innovation)
 - [NIS2 Compliance Unveiled: Operational Managers’ Roadmap to Actionable Security Measures](https://feedpress.me/link/23532/16766196/nis2-compliance-unveiled-operational-managers-roadmap-to-actionable-security-measures)
-- [From Cybersecurity Practitioner to Advocacy: My Journey Back to Cisco](https://feedpress.me/link/23532/16765443/cybersecurity-advocacy-kyle-winters)
-- [Jumpstart Your Meraki Auto-VPN Journey in the Multi-Cloud Environment](https://feedpress.me/link/23532/16765326/meraki-auto-vpn-in-multi-cloud-environment)
 <!-- BLOG-POST-LIST:END --> 
