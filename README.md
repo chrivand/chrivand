@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Seamless Secure Work on a Plane](https://feedpress.me/link/23532/16770673/seamless-secure-work-on-a-plane)
 - [What Happens When Your House Burns Down Right Before a Meeting?](https://feedpress.me/link/23532/16769721/what-happens-when-your-house-burns-down-right-before-a-meeting)
 - [Harnessing the Power of AI to Improve Operations](https://feedpress.me/link/23532/16768922/harnessing-the-power-of-ai-to-improve-operations)
 - [Empowering youth worldwide toward a more sustainable and digitally resilient future](https://feedpress.me/link/23532/16768678/empowering-youth-worldwide-toward-a-more-sustainable-and-digitally-resilient-future)
 - [Partnership in Action: Creating Connection through Community Impact](https://feedpress.me/link/23532/16767128/partnership-in-action-creating-connection-through-community-impact)
-- [Cisco Networking Academy honors International Day of the World’s Indigenous People](https://feedpress.me/link/23532/16767076/cisco-networking-academy-honors-international-day-of-the-worlds-indigenous-people)
 <!-- BLOG-POST-LIST:END --> 
