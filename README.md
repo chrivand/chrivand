@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Securing Catalyst Center: ISO Certified](https://feedpress.me/link/23532/16776623/securing-catalyst-center-protecting-your-network-and-your-data)
 - [MSPs:  The Cisco Meraki Approach to Addressing MDU Deployments](https://feedpress.me/link/23532/16774812/msps-the-cisco-meraki-approach-to-addressing-mdu-deployments)
 - [More Sustainable Mining with Cisco](https://feedpress.me/link/23532/16773113/more-sustainable-mining-with-cisco)
 - [Benefits of a More Sustainable Learning Environment in Schools and Universities](https://feedpress.me/link/23532/16772100/benefits-of-a-sustainable-learning-environment-in-schools-and-universities)
 - [How AI Innovation Will Elevate SMB Business Outcomes](https://feedpress.me/link/23532/16772047/how-ai-innovation-will-elevate-smb-business-outcomes)
-- [Enabling Cybersecurity Incident Response](https://feedpress.me/link/23532/16772014/enabling-cybersecurity-incident-response)
 <!-- BLOG-POST-LIST:END --> 
