@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to avoid common mistakes when adopting AI](https://feedpress.me/link/23532/16779849/how-to-avoid-common-mistakes-when-adopting-ai)
 - [Why the UN Convention Against Cybercrime Requires a Second Look](https://feedpress.me/link/23532/16777577/un-convention-against-cybercrime-2024)
 - [The AI Revolution: Transforming Technology and Reshaping Cybersecurity](https://feedpress.me/link/23532/16777549/the-ai-revolution-transforming-technology-and-reshaping-cybersecurity)
 - [Transforming underserved communities and fostering sustainable growth through entrepreneurial endeavors](https://feedpress.me/link/23532/16777360/transforming-underserved-communities-and-fostering-sustainable-growth-through-entrepreneurial-endeavors)
 - [Your Journey to Mastery with Black Belt Training: A Comprehensive Guide for Cisco Partners](https://feedpress.me/link/23532/16776681/your-journey-to-mastery-with-black-belt-training-a-comprehensive-guide-for-cisco-partners)
-- [Securing Catalyst Center: ISO Certified](https://feedpress.me/link/23532/16776623/securing-catalyst-center-protecting-your-network-and-your-data)
 <!-- BLOG-POST-LIST:END --> 
