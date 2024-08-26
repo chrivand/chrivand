@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Recognizing Women Driving Innovation](https://feedpress.me/link/23532/16782745/recognizing-women-driving-innovation)
 - [Fortifying the future of Security for AI: Cisco Announces intent to acquire Robust Intelligence](https://feedpress.me/link/23532/16782689/fortifying-the-future-of-security-for-ai-cisco-announces-intent-to-acquire-robust-intelligence)
 - [Celebrating Women’s Equality Day: Innovating for Inclusion](https://feedpress.me/link/23532/16782505/celebrating-womens-equality-day-innovating-for-inclusion)
 - [Myth-Busting Assurance: Device-Centric vs. Service-Centric and Why Both Are Key](https://feedpress.me/link/23532/16780820/myth-busting-assurance-device-centric-vs-service-centric-and-why-both-are-key)
 - [Inside the CCNA v1.1 exam update: AI, machine learning, and more](https://feedpress.me/link/23532/16780064/understanding-the-updated-ccna-v1-1-with-ai-machine-learning-and-more)
-- [How to avoid common mistakes when adopting AI](https://feedpress.me/link/23532/16779849/how-to-avoid-common-mistakes-when-adopting-ai)
 <!-- BLOG-POST-LIST:END --> 
