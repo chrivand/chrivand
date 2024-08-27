@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [The Future of Data Center Operations Is Here: Work Smarter, Not Harder](https://feedpress.me/link/23532/16785285/the-future-of-data-center-operations-is-here-work-smarter-not-harder)
+- [Cisco Support Services Enters its GenAI Era](https://feedpress.me/link/23532/16785286/cisco-support-services-enters-its-genai-era)
 - [Unleashing the Power of AI in the Enterprise](https://feedpress.me/link/23532/16785190/unleashing-the-power-of-ai-in-the-enterprise)
 - [AI Unveiled: Decoding the Future with Cisco](https://feedpress.me/link/23532/16785160/ai-unveiled-decoding-the-future-with-cisco)
 - [Recognizing Women Driving Innovation](https://feedpress.me/link/23532/16782745/recognizing-women-driving-innovation)
-- [Fortifying the future of Security for AI: Cisco Announces intent to acquire Robust Intelligence](https://feedpress.me/link/23532/16782689/fortifying-the-future-of-security-for-ai-cisco-announces-intent-to-acquire-robust-intelligence)
-- [Celebrating Women’s Equality Day: Innovating for Inclusion](https://feedpress.me/link/23532/16782505/celebrating-womens-equality-day-innovating-for-inclusion)
 <!-- BLOG-POST-LIST:END --> 
