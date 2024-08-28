@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Simplifying the policy experience for today’s IT teams](https://feedpress.me/link/23532/16786401/simplifying-the-policy-experience-for-todays-it-teams)
 - [Cisco Smart Bonding for MSPs: Enhance Customer Experience and Streamline Support Workflows](https://feedpress.me/link/23532/16786246/cisco-smart-bonding-for-msps-enhance-customer-experience-and-streamline-support-workflows)
 - [Now available on Microsoft Azure: Cisco AppDynamics provides more flexibility](https://feedpress.me/link/23532/16786231/now-available-on-microsoft-azure-cisco-appdynamics-provides-more-flexibility)
 - [Three Reasons for Cisco Umbrella for Government](https://feedpress.me/link/23532/16786041/three-reasons-for-cisco-umbrella-for-government)
 - [The Future of Data Center Operations Is Here: Work Smarter, Not Harder](https://feedpress.me/link/23532/16785285/the-future-of-data-center-operations-is-here-work-smarter-not-harder)
-- [Cisco Support Services Enters its GenAI Era](https://feedpress.me/link/23532/16785286/cisco-support-services-enters-its-genai-era)
 <!-- BLOG-POST-LIST:END --> 
