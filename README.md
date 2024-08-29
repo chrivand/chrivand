@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [6 Principles for Use of AI in K12 Education](https://feedpress.me/link/23532/16787346/6-principles-for-use-of-ai-in-k12-education)
 - [Stay in the H2 know – providing clean water with Cisco industrial IoT](https://feedpress.me/link/23532/16787288/stay-in-the-h2-know-providing-clean-water-with-cisco-industrial-iot)
 - [The Power of Reporting at Cisco Black Belt Academy: Driving Success for Partners](https://feedpress.me/link/23532/16787270/the-power-of-reporting-at-cisco-black-belt-academy-driving-success-for-partners)
 - [Top Data Center Priorities—Evolving Needs for Scaling Infrastructure](https://feedpress.me/link/23532/16780878/top-data-center-priorities-evolving-needs-for-scaling-infrastructure)
 - [Customer Experience is a Learning Experience](https://feedpress.me/link/23532/16787271/customer-experience-is-a-learning-experience)
-- [Zero touch provisioning with Cisco Firewall Management Center Templates](https://feedpress.me/link/23532/16787261/zero-touch-provisioning-with-cisco-firewall-management-center-templates)
 <!-- BLOG-POST-LIST:END --> 
