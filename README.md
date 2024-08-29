@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Stay in the H2 know – providing clean water with Cisco industrial IoT](https://feedpress.me/link/23532/16787288/stay-in-the-h2-know-providing-clean-water-with-cisco-industrial-iot)
+- [The Power of Reporting at Cisco Black Belt Academy: Driving Success for Partners](https://feedpress.me/link/23532/16787270/the-power-of-reporting-at-cisco-black-belt-academy-driving-success-for-partners)
+- [Top Data Center Priorities—Evolving Needs for Scaling Infrastructure](https://feedpress.me/link/23532/16780878/top-data-center-priorities-evolving-needs-for-scaling-infrastructure)
+- [Customer Experience is a Learning Experience](https://feedpress.me/link/23532/16787271/customer-experience-is-a-learning-experience)
 - [Zero touch provisioning with Cisco Firewall Management Center Templates](https://feedpress.me/link/23532/16787261/zero-touch-provisioning-with-cisco-firewall-management-center-templates)
-- [Unifying Cyber Defenses: How Hybrid Mesh Firewalls Shape Modern Security](https://feedpress.me/link/23532/16787022/unifying-cyber-defenses-how-hybrid-mesh-firewalls-shape-modern-security)
-- [Simplifying the policy experience for today’s IT teams](https://feedpress.me/link/23532/16786401/simplifying-the-policy-experience-for-todays-it-teams)
-- [Cisco Smart Bonding for MSPs: Enhance Customer Experience and Streamline Support Workflows](https://feedpress.me/link/23532/16786246/cisco-smart-bonding-for-msps-enhance-customer-experience-and-streamline-support-workflows)
-- [Now available on Microsoft Azure: Cisco AppDynamics provides more flexibility](https://feedpress.me/link/23532/16786231/now-available-on-microsoft-azure-cisco-appdynamics-provides-more-flexibility)
 <!-- BLOG-POST-LIST:END --> 
