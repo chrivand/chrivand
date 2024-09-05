@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Cisco Networking Academy unveils new unified teaching and learning experience on NetAcad.com](https://feedpress.me/link/23532/16794111/cisco-networking-academy-unveils-new-unified-teaching-and-learning-experience)
 - [New Omdia report offers first of its kind analysis of the industrial edge](https://feedpress.me/link/23532/16794047/new-omdia-report-offers-first-of-its-kind-analysis-of-the-industrial-edge)
 - [Partnering for Purpose: Join the Movement to Amplify Positive Impact](https://feedpress.me/link/23532/16794014/partnering-for-purpose-join-the-movement-to-amplify-positive-impact)
 - [One League, 32 Teams, One Cisco](https://feedpress.me/link/23532/16793864/one-league-32-teams-one-cisco)
 - [Three myths preventing you from building your lifecycle practice](https://feedpress.me/link/23532/16792920/three-myths-preventing-you-from-building-your-lifecycle-practice)
-- [Leveraging Threat Intelligence in Cisco Secure Network Analytics](https://feedpress.me/link/23532/16792787/leveraging-threat-intelligence-in-cisco-secure-network-analytics)
 <!-- BLOG-POST-LIST:END --> 
