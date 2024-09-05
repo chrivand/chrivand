@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [New Omdia report offers first of its kind analysis of the industrial edge](https://feedpress.me/link/23532/16794047/new-omdia-report-offers-first-of-its-kind-analysis-of-the-industrial-edge)
+- [Partnering for Purpose: Join the Movement to Amplify Positive Impact](https://feedpress.me/link/23532/16794014/partnering-for-purpose-join-the-movement-to-amplify-positive-impact)
 - [One League, 32 Teams, One Cisco](https://feedpress.me/link/23532/16793864/one-league-32-teams-one-cisco)
 - [Three myths preventing you from building your lifecycle practice](https://feedpress.me/link/23532/16792920/three-myths-preventing-you-from-building-your-lifecycle-practice)
 - [Leveraging Threat Intelligence in Cisco Secure Network Analytics](https://feedpress.me/link/23532/16792787/leveraging-threat-intelligence-in-cisco-secure-network-analytics)
-- [Connectivity they can count on: Claflin University’s tech revolution](https://feedpress.me/link/23532/16792638/connectivity-they-can-count-on-claflin-universitys-tech-revolution)
-- [The Future of Cybersecurity: AI Does Play a Role](https://feedpress.me/link/23532/16791769/the-future-of-cybersecurity-ai-does-play-a-role)
 <!-- BLOG-POST-LIST:END --> 
