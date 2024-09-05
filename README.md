@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [One League, 32 Teams, One Cisco](https://feedpress.me/link/23532/16793864/one-league-32-teams-one-cisco)
 - [Three myths preventing you from building your lifecycle practice](https://feedpress.me/link/23532/16792920/three-myths-preventing-you-from-building-your-lifecycle-practice)
 - [Leveraging Threat Intelligence in Cisco Secure Network Analytics](https://feedpress.me/link/23532/16792787/leveraging-threat-intelligence-in-cisco-secure-network-analytics)
 - [Connectivity they can count on: Claflin University’s tech revolution](https://feedpress.me/link/23532/16792638/connectivity-they-can-count-on-claflin-universitys-tech-revolution)
 - [The Future of Cybersecurity: AI Does Play a Role](https://feedpress.me/link/23532/16791769/the-future-of-cybersecurity-ai-does-play-a-role)
-- [How Cisco AACPC Partner IP Consulting Transformed IT for Lowell Light and Power](https://feedpress.me/link/23532/16789072/how-cisco-aacpc-partner-ip-consulting-transformed-it-for-lowell-light-and-power)
 <!-- BLOG-POST-LIST:END --> 
