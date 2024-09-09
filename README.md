@@ -29,9 +29,9 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Cisco and BT Partner to Upskill Ukrainian Refugees in Ireland](https://feedpress.me/link/23532/16799301/cisco-and-bt-partner-to-upskill-ukrainian-refugees-in-ireland)
 - [Cisco University: Elevate Your Cybersecurity, Network Security, Forensics, and Incident Response Skills](https://feedpress.me/link/23532/16799262/cisco-university-elevate-your-cybersecurity-network-security-forensics-and-incident-response-skills)
 - [Building a New Service Offering around Cisco ThousandEyes: A Guide for Managed Service Providers](https://feedpress.me/link/23532/16795782/building-a-new-service-offering-around-cisco-thousandeyes-a-guide-for-managed-service-providers)
 - [Cisco Insider Mateusz Frąk is passionate about gaining—and sharing—knowledge.](https://feedpress.me/link/23532/16794160/cisco-insider-mateusz-frak-is-passionate-about-gaining-and-sharing-knowledge)
 - [Cisco Networking Academy unveils new unified teaching and learning experience on NetAcad.com](https://feedpress.me/link/23532/16794111/cisco-networking-academy-unveils-new-unified-teaching-and-learning-experience)
-- [New Omdia report offers first of its kind analysis of the industrial edge](https://feedpress.me/link/23532/16794047/new-omdia-report-offers-first-of-its-kind-analysis-of-the-industrial-edge)
 <!-- BLOG-POST-LIST:END --> 
