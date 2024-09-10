@@ -29,7 +29,7 @@ He learned coding in C, but currently his favorite language is Python. He also v
 
 # Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Improving Operational Efficiencies and Providing Tighter Integrations with Cisco Security Products](https://feedpress.me/link/23532/16802501/improving-operational-efficiencies-and-providing-tighter-integrations-with-cisco-security-products)
+- [Secure Network Analytics 7.5.1  – Improving Operational Efficiencies and Providing Tighter Integrations with Cisco …](https://feedpress.me/link/23532/16802501/improving-operational-efficiencies-and-providing-tighter-integrations-with-cisco-security-products)
 - [Cisco and BT Partner to Upskill Ukrainian Refugees in Ireland](https://feedpress.me/link/23532/16799301/cisco-and-bt-partner-to-upskill-ukrainian-refugees-in-ireland)
 - [Cisco University: Elevate Your Cybersecurity, Network Security, Forensics, and Incident Response Skills](https://feedpress.me/link/23532/16799262/cisco-university-elevate-your-cybersecurity-network-security-forensics-and-incident-response-skills)
 - [Building a New Service Offering around Cisco ThousandEyes: A Guide for Managed Service Providers](https://feedpress.me/link/23532/16795782/building-a-new-service-offering-around-cisco-thousandeyes-a-guide-for-managed-service-providers)
