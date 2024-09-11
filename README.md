@@ -33,5 +33,5 @@ He learned coding in C, but currently his favorite language is Python. He also v
 - [Managed Assurance: Transforming Digital Experience with ThousandEyes on Meraki MX](https://feedpress.me/link/23532/16804432/managed-assurance-transforming-digital-experience-with-thousandeyes-on-meraki-mx)
 - [Celebrating Innovation and Connection: Cisco in Paris with NBC Sports](https://feedpress.me/link/23532/16804384/cisco-in-paris-with-nbc-sports)
 - [Three years of progress on the pathway to net zero](https://feedpress.me/link/23532/16802738/three-years-of-progress-on-the-pathway-to-net-zero)
-- [Secure Network Analytics 7.5.1  – Improving Operational Efficiencies and Providing Tighter Integrations with Cisco …](https://feedpress.me/link/23532/16802501/improving-operational-efficiencies-and-providing-tighter-integrations-with-cisco-security-products)
+- [Secure Network Analytics 7.5.1 Launch](https://feedpress.me/link/23532/16802501/improving-operational-efficiencies-and-providing-tighter-integrations-with-cisco-security-products)
 <!-- BLOG-POST-LIST:END --> 
